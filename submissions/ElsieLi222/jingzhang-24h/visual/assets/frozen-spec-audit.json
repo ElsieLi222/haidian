@@ -1,0 +1,6 @@
+{
+  "authority": "JINGZHANG 24H FROZEN DESIGN SPEC",
+  "design_conflict": false,
+  "package_alignment": "CONTENT TODO",
+  "note": "Audit details retained in commit history; formal package only stores allowed asset types."
+}

@@ -25,5 +25,12 @@
       "statement": "LEARNING v2.0 establishes an overall city-learning mechanism and illustrative N1/N3/N7 evidence cases; it does not establish measured performance, confirmed data pipelines, implementation authority, or exact spatial interventions.",
       "impact": "Use PROPOSAL for mechanism statements and DATA TODO / TO VERIFY for datasets, thresholds, locations, and implementation scope."
     }
-  ]
+  ],
+  "evidence_governance": {
+    "FACT": "Only explicit official/public/cleared evidence, cited to its exact source.",
+    "FIELD EVIDENCE": "Only user-supplied, traceable site observation or photos; none currently mapped.",
+    "INFERENCE": "Design judgement derived from cited evidence; never promoted to FACT.",
+    "PROPOSAL": "Frozen design intent from FROZEN-DESIGN-SPEC-V1.",
+    "UNKNOWN / TO VERIFY": "Legal boundaries, ownership, developability, FAR, building height, implementation authority, underground conditions, precise traffic data, and unverified map layers."
+  }
 }

@@ -7,7 +7,9 @@
       "source_type": "official_public",
       "usage": "Project brief, enums, allowed design space, ranges, and schemas.",
       "formal_mapping_status": "DATA TODO",
-      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync."
+      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync.",
+      "evidence_category": "FACT",
+      "claim_control": "Use only explicit task, enum, rule, and public-brief statements; do not infer statutory controls."
     },
     {
       "id": "SOURCE-REGISTRY",
@@ -15,7 +17,9 @@
       "source_type": "repository_public_registry",
       "usage": "Public/cleared/provisional source usability registry; distinguishes formal-ready, background-only, provisional-only, and needs-review materials.",
       "formal_mapping_status": "DATA TODO",
-      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync."
+      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync.",
+      "evidence_category": "FACT",
+      "claim_control": "Evidence of registry status and permitted use only; not independent spatial or planning fact."
     },
     {
       "id": "PROCESSED-FACT-PACK",
@@ -23,7 +27,9 @@
       "source_type": "repository_processed_reference",
       "usage": "Agent-readable navigation layer for scopes, required tasks, source-use boundaries, and missing-data checklist; not a new authority source.",
       "formal_mapping_status": "DATA TODO",
-      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync."
+      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync.",
+      "evidence_category": "INFERENCE",
+      "claim_control": "Navigation/index layer only; return to the listed primary source for formal factual claims."
     },
     {
       "id": "BOUNDARY-SOURCE",
@@ -31,7 +37,9 @@
       "source_type": "agent_inferred_from_public_data",
       "usage": "Submitted site boundary geometry source (provisional).",
       "formal_mapping_status": "DATA TODO",
-      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync."
+      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync.",
+      "evidence_category": "UNKNOWN / TO VERIFY",
+      "claim_control": "Current geometry is provisional_constraint, official_boundary=false; never cite as legal boundary or precise control."
     },
     {
       "id": "KEY-AREA-SOURCE",
@@ -39,7 +47,9 @@
       "source_type": "agent_inferred_from_public_data",
       "usage": "Three required detailed-design key area boundaries (provisional).",
       "formal_mapping_status": "DATA TODO",
-      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync."
+      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync.",
+      "evidence_category": "UNKNOWN / TO VERIFY",
+      "claim_control": "Current key-area geometry is provisional; do not use as official boundary or precise-area claim."
     },
     {
       "id": "OFFICIAL-ANNOUNCEMENT",
@@ -47,7 +57,9 @@
       "source_type": "official_public",
       "usage": "Official announcement tasks, scope levels, key areas, language, and deliverable context.",
       "formal_mapping_status": "DATA TODO",
-      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync."
+      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync.",
+      "evidence_category": "FACT",
+      "claim_control": "Use for explicit official call scope, task, and deliverable requirements only."
     },
     {
       "id": "AGENT-TASKBOOK",
@@ -55,14 +67,18 @@
       "source_type": "user_provided_cleared",
       "usage": "Agent-facing open-call principles, six required agent tasks, scenario/branding/operation requirements, and boundary clause.",
       "formal_mapping_status": "DATA TODO",
-      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync."
+      "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync.",
+      "evidence_category": "FACT",
+      "claim_control": "Use for explicit agent-task and process requirements; not statutory planning control."
     },
     {
       "id": "FROZEN-DESIGN-SPEC-V1",
       "source_type": "user_provided_cleared",
       "usage": "Design source of truth for frozen identity, spatial framework, systems, packages, personas, scenario titles, drawing IDs, and evidence governance. It is not evidence for existing-condition facts or legal controls.",
       "formal_mapping_status": "CONTENT TODO",
-      "limitations": "TO VERIFY: factual and statutory claims still require separate formal source evidence."
+      "limitations": "TO VERIFY: factual and statutory claims still require separate formal source evidence.",
+      "evidence_category": "PROPOSAL",
+      "claim_control": "Design source of truth: use for frozen design intent, not existing-condition, legal, ownership, or quantitative fact."
     }
   ]
 }

@@ -96,7 +96,13 @@ AI is not a separate technology display. Ten Scenario Cards embed AI in ordinary
 
 # PART 3 | 07:30 — CITY AWAKENS
 
-CONTENT TODO
+At 07:30, Lin Lan begins the day with her daughter. For them, JINGZHANG 24H is not first experienced as an AI system, but as an ordinary journey between family life, school, and work. Children, older residents, cyclists, commuters, and community users enter the city at the same time; urban space must first provide continuity, safety, and legibility.
+
+FLOW remains deliberately quiet. Continuous walking routes, accessible movement, clear lateral connections, and coordinated slow-mobility conditions allow people of different ages and speeds to share the same network without repeatedly deciding where to move or detour. Lin Lan does not feel that she is “using an urban system.” She simply sees her daughter walking ahead without constant reminders to slow down.
+
+This is JINGZHANG 24H’s starting point: technology recedes behind everyday life, and the city first remains a city that can be used naturally. No independent AI Scenario is assigned to 07:30. Stable, ordinary, undisturbed use is the baseline for later urban learning. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D06]
+
+**[FIGURE D06-A｜07:30 The City Wakes｜DRAWING TODO]**
 
 # PART 4 | 09:00 — KNOWLEDGE FLOWS
 
@@ -106,9 +112,15 @@ CONTENT TODO
 
 ### N3 Wudaokou
 
-CONTENT TODO
+At 09:00, Lin Lan meets a university collaborator at Wudaokou. Here, Jingzhang’s north-south continuity intersects with Chengfu Road’s east-west activity. Universities, communities, transit, commerce, and Jingzhang public space meet in a compact area, making Wudaokou both a transport node and a key interface through which knowledge enters the city.
 
-Cultural requirement: Wudaokou expresses “Historical Crossing → Contemporary Urban Interface.” Knowledge, transit, community, and urban-life crossings are optional secondary spatial types within FLOW’s multiple entries; LEAD → SLOW → SWITCH → RELEASE is one continuous spatial process, not four plazas. Exact historical information and site relationships remain DATA TODO / TO VERIFY. [source:FROZEN-DESIGN-SPEC-V1]
+The proposal does not indiscriminately open university core research space. Instead, it opens edges: campus forecourts, urban interfaces, short-term exchange space, public presentation, and shared periods for collaboration. ORIGIN therefore does not create another innovation centre; it allows knowledge to move beyond campus.
+
+The railway crossing gains contemporary meaning: **Historical Crossing → Contemporary Urban Interface**. FLOW coordinates directions and speeds through LEAD → SLOW → SWITCH → RELEASE, while COMMONS lets selected institutional knowledge activities enter public urban life under appropriate spatial and temporal conditions. S04 identifies repeated multimodal conflict patterns from anonymized movement information; S05 supports matching between open activities, spaces, and participants. Openness, spatial use, and adjustment remain human responsibilities. Exact historical information and site relationships remain DATA TODO / TO VERIFY. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D03] [scenario:S04] [scenario:S05]
+
+**[FIGURE D03｜N3 ORIGIN × FLOW｜DRAWING TODO]**
+
+**[FIGURE D06-A｜09:00 Knowledge Flows｜DRAWING TODO]**
 
 # PART 5 | 14:00 — INNOVATION MEETS THE CITY
 
@@ -116,7 +128,15 @@ Cultural requirement: Wudaokou expresses “Historical Crossing → Contemporary
 
 ### N1 Zhongzhiyuan
 
-Known candidates only: S01 Urban Mobility Validation for Mobile Robots; S02 Accessible Navigation Validation; S03 Public-space Environmental Adaptation Validation. Remaining scenarios are CONTENT TODO.
+At 14:00, Lin Lan and her colleagues enter a real-world validation process in Zhongzhiyuan. When AI moves from laboratories into the city, the question is not only whether it functions, but whether it can coexist with ordinary users, spatial conditions, and environmental change without interrupting everyday life.
+
+TEST follows **T1 CONTROLLED → T2 SHARED → T3 URBAN**. T1 supports controlled validation within enterprise or research environments; T2 is the managed interface between enterprise and city, introducing real users and real conditions; T3 enters genuine public space. T2 is especially important: it is not a closed facility built for AI, but ordinary usable city space first, becoming a validation environment only under clear, safe, and low-interference conditions. The city does not stop for technology.
+
+This node hosts S01 mobile-robot urban passage, S02 accessible navigation and spatial repair, and S03 public-space environmental adaptation. In S02, AI may first help users route around an obstacle. If it persists, it becomes a spatial problem requiring repair. Products are tested by the city, while the city learns from the test. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D02] [scenario:S01] [scenario:S02] [scenario:S03]
+
+**[FIGURE D02｜N1 TEST｜Controlled → Shared → Urban｜DRAWING TODO]**
+
+**[FIGURE D06-A｜14:00 Innovation Meets the Real City｜DRAWING TODO]**
 
 # PART 6 | 18:00 — THE CITY IN MOTION
 
@@ -124,17 +144,29 @@ Known candidates only: S01 Urban Mobility Validation for Mobile Robots; S02 Acce
 
 ### FLOW
 
-CONTENT TODO
+At 18:00, work ends and Lin Lan begins her second commute. Rather than arriving at one isolated node, she moves south through Jingzhang itself. After a full day, the city should not require repeated decisions about direction, route changes, or avoidable detours.
 
-At 18:00, continuous FLOW must allow the protagonist to recognize that she remains on the same Jingzhang spine: continuous paths, restrained JINGZHANG MARKERS, crossings, confirmed railway remnants, directional information, and node recognition may carry this continuity. No mileage, identifier, or historical information may be invented, and retro styling cannot substitute for spatial continuity. [source:FROZEN-DESIGN-SPEC-V1]
+This is FLOW’s fullest urban experience. **One line · multiple interfaces · differentiated speeds** organize continuous movement: Jingzhang is a legible north-south public spine; universities, transit stations, communities, industry, blue-green space, and lateral streets connect through interfaces; walking, cycling, accessibility, stopping, transfer, and appropriately located testing movement are coordinated at different speeds. FLOW neither forces everyone to use Jingzhang nor creates a fastest route; it makes it naturally selectable, continuous, legible, and able to connect with the city.
+
+LINE, CROSSING, STATION-NODE, and JINGZHANG MARKER provide light continuity so users recognize the same spine across changing urban fragments. Railway culture becomes orientation, nodes, and connection rather than decoration. S06 coordinates transit arrival, bicycle parking, and subsequent slow movement; S04 observations continue to inform operational adjustment. For Lin Lan, the outcome is simple: she does not need to relearn the city along the way. Precise mileage, identifiers, railway remnants, and geographic relations remain TO VERIFY. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D06] [scenario:S06] [scenario:S04]
+
+**[FIGURE D06-A｜18:00 Through Jingzhang｜DRAWING TODO]**
+
+**[FIGURE｜FLOW｜One Line · Multiple Interfaces · Differentiated Speeds｜DRAWING TODO]**
 
 # PART 7 | 20:00 — THE CITY BECOMES COMMON
 
 ## N5 JINGZHANG COMMONS NETWORK
 
-CONTENT TODO
+At 20:00, Lin Lan meets a friend. She shifts from moving to staying, and the value of urban space shifts from efficiency to use. Jingzhang already contains sports, children’s activity, cycling, green space, commerce, and ordinary public space. COMMONS therefore does not add another set of shared spaces; it changes how existing resources are used—from spatial provision to shared operation.
 
-Jingzhang culture may enter daily sharing as a public cultural resource—small exhibitions, urban walks, community storytelling, or corridor cultural activities—but COMMONS does not thereby become a railway-themed event system. [source:FROZEN-DESIGN-SPEC-V1]
+COMMONS works through **open edges · reuse time · mix functions**. Through **SPACE × TIME × PEOPLE**, one place can serve different people at different times. Daytime can serve commuters and workers; evenings can serve friends, families, or sport; selected institutional forecourts and public interfaces may host open activities at appropriate times. Quiet, maintenance, ecological recovery, and ordinary unprogrammed use remain legitimate urban time. Sharing never means continuous programming or unrestricted access; the gradient remains **PUBLIC → SHARED → CONTROLLED → PRIVATE**.
+
+Lin Lan and her friend intend only a brief meeting, but much longer passes. The space requires no event participation and does not announce an “innovation city”; she simply chooses to stay. This is COMMONS’s essential outcome. S07 supports SPACE × TIME × PEOPLE matching. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D04] [drawing:D06] [scenario:S07]
+
+**[FIGURE D04｜JINGZHANG COMMONS NETWORK｜DRAWING TODO]**
+
+**[FIGURE D06-A｜20:00 The City Becomes Common｜DRAWING TODO]**
 
 # PART 8 | 20:00–23:30 — INNOVATION BECOMES URBAN LIFE
 
@@ -142,9 +174,17 @@ Jingzhang culture may enter daily sharing as a public cultural resource—small 
 
 ### N7 Dazhongsi
 
-CONTENT TODO
+After 20:30, Lin Lan continues south into Dazhongsi. Unlike Zhongzhiyuan and Wudaokou, Dazhongsi already has mature industry, offices, commerce, communities, transit, and public life. INTEGRATE does not create another isolated AI park; it addresses how innovation becomes embedded in a complex urban centre.
 
-Where supported by real spatial conditions, Dazhongsi may carefully layer Jingzhang railway culture, local Dazhongsi culture, and contemporary Zhongguancun innovation culture. Local “bell/time” imagery must not become a new overall concept. [source:FROZEN-DESIGN-SPEC-V1]
+The sequence is **Jingzhang → Dazhongsi Station → North Third Ring quadrants → enterprise and renewal spaces → commerce and public space → community**. FLOW shifts from passage to arrival. The proposal does not depend on one monumental plaza; it connects transit, walking, cycling, commercial forecourts, industrial interfaces, and community public space. Continuity means spatial arrival, functional change through the day, and coexistence of different people in one urban environment.
+
+By day the area supports work and industry; in the evening transport, commerce, and public space take on more activity; at night residents, friends, visitors, and continuing industry form another urban state. INTEGRATE is not a nightlife district, but the continuity of industry, commerce, transit, public service, community, culture, international exchange, and ordinary life. S08 supports understanding day–evening–night states and recurring issues; S09 supports multilingual guidance and innovation-resource discovery for first-time international visitors, while digital guidance cannot replace a city that is physically legible.
+
+At 23:30 Lin Lan’s day ends, without an abrupt boundary between work and life. At 00:00 the narrative passes to the city. Exact space, cultural layering, and geographic relations remain subject to real evidence and TO VERIFY. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D05] [drawing:D06] [scenario:S08] [scenario:S09]
+
+**[FIGURE D05｜N7 INTEGRATE｜Continuous Dazhongsi Urban Centre｜DRAWING TODO]**
+
+**[FIGURE D06-A｜20:30–23:30 Innovation Becomes Urban Life｜DRAWING TODO]**
 
 # PART 9 | 00:00 — THE PERSON RESTS, THE CITY LEARNS
 

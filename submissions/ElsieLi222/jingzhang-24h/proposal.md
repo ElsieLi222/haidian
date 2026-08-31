@@ -221,35 +221,71 @@ D07 以整体城市学习机制为主体，空间案例只作为机制有效性�
 
 年度学习循环为 NORMAL → JINGZHANG 24H OPEN DAY → REVIEW → NEXT；Open Day 属于 PART 10 的年度 COMMONS 高峰与 LEARNING 压力测试，不属于普通一天的 AI Scenario。[source:FROZEN-DESIGN-SPEC-V1] [depth:phasing_implementation]
 
+### 9.1 城市今天看见了什么
+
+23:30之后，林岚的一天结束，但城市并不会因此停止。从07:30到23:30，家庭出行、知识交流、真实测试、通勤、共享使用及日—晚—夜状态留下的绕行、重复异常、使用差异与反馈，都成为当天城市运行的一部分。LEARNING不是集中式“AI大脑”，也不是对人的持续监控，而是从真实使用中持续学习的机制。
+
+它关注五类信息：**FLOW｜移动与到达**（路径、入口、绕行、换乘、等待与潜在速度冲突）；**TEST｜真实测试**（产品、环境适应、重复异常及问题来源）；**COMMONS｜共享使用**（SPACE × TIME × PEOPLE、闲置、容量、噪声与安全）；**INTEGRATE｜城市连续性**（产业、交通、商业、社区与公共空间的连续及日—晚—夜转换）；**HUMAN FEEDBACK｜人的反馈**（公众自愿反馈、运营观察、管理日志、企业、高校、社区与公共服务经验）。原则是必要感知，而非全面监控：优先匿名汇总信息、环境与设施状态、主动反馈和现场观察，不将人脸识别或长期个人追踪作为默认条件。[source:FROZEN-DESIGN-SPEC-V1] [assumption:A-LEARNING-001]
+
+### 9.2 00:00 DAILY REVIEW｜日终复盘
+
+00:00不是城市开始学习的时刻；学习已经发生了一整天。午夜将FLOW、TEST、COMMONS、INTEGRATE与HUMAN FEEDBACK集中复盘，不把所有问题立刻变成建设项目，而先判断：是否现在处理、继续观察、重新测试，或已持续到需要长期空间调整。由此产生 ADJUST NOW、KEEP WATCHING、TEST AGAIN、ESCALATE 四类结果。城市不是每天复制昨天，而是在复盘后进入更合适的下一次运行状态。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
+**[FIGURE D07｜LEARNING 城市学习系统｜DRAWING TODO]**
+
+### 9.3 FAST LOOP × SLOW LOOP
+
+FAST LOOP运行于分钟、小时与次日，以运营调整、导向优化、设施调度和时段调整等低成本、可逆方式回应；SLOW LOOP运行于周、月与年，只有持续问题才进入设施优化、微更新和战略调整。二者不是“先临时凑合，再一次性建设”，而是“先试，再改”：短周期试验帮助判断问题是否真实存在，长期投资建立在重复证据而非单次判断之上。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
+### 9.4 三个空间学习证据
+
+**CASE 01｜N1 无障碍：**AI导航绕行 → 持续障碍识别 → 真实空间修复。AI的价值不是永远帮助人适应不合理城市，而是帮助城市发现需要改变之处。**CASE 02｜N3 五道口：**多模式潜在冲突先由匿名汇总信息和运营观察识别，运营与导向调整优先；只有跨时段重复证据才进入设施优化或微更新。**CASE 03｜N7 大钟寺：**比较日—晚—夜使用、商业活动、交通到达与社区反馈，先以分时运营调整状态，跨周期持续问题再进入空间与设施调整。具体空间、数据与实施范围仍为 TO VERIFY。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
+### 9.5 DAY N → DAY N+1
+
+LEARNING不是循环回到原点，而是一条学习螺旋：**DAY N → 00:00 REVIEW → DAY N+1′ → REVIEW → DAY N+2″**。技术帮助城市发现模式，真实使用提供证据，人决定何时、为何以及如何改变城市；它不是能自动做出所有决定的智能系统。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
 # PART 10｜不止一天
 
 ## 10.1 一周
 
-CONTENT TODO
+每天的DAILY REVIEW解决即时判断，而一周提供识别重复模式的最小时间窗口。同一道口是否只在某时段冲突、同一共享空间是否在不同工作日表现不同、同一测试问题是否具有重复性，都需要跨日比较。LEARNING不会因一次异常立即触发建设；只有问题跨时段持续出现，并得到运营观察、使用反馈与测试结果共同支持时，才进入下一层响应。这使城市从事件驱动转向证据驱动。[source:FROZEN-DESIGN-SPEC-V1]
 
 ## 10.2 京张24H开放日
 
-CONTENT TODO
+每年一次的 JINGZHANG 24H OPEN DAY 是COMMONS最集中的开放状态，也是LEARNING的一次城市级压力测试。它不是科技节，也不是将整条京张变成连续24小时活动场；而是放大日常机制：高校知识边界更开放，企业共享界面承担展示与验证，社区、运动、文化与公共空间共同参与，国际合作人群进入真实城市环境，京张历史文化通过沿线步行、公共活动与空间识别被感知。
+
+开放日同时观察 **ACCESS｜是否容易进入、SAFETY｜是否能够安全共存、VITALITY｜空间是否真实被使用、INCLUSION｜不同人是否都能够参与**。活动结束后城市再次进入REVIEW，年度逻辑为 **NORMAL → OPEN DAY → REVIEW → NEXT**。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D04] [drawing:D07]
 
 JINGZHANG 24H OPEN DAY 必须同时开放百年京张历史文化与当代城市创新；京张文化漫步、道口/站点记忆、铁路文化公众活动、当代创新开放、社区活动与国际交流均为待确认的内容方向，不构成已承诺活动清单。[source:FROZEN-DESIGN-SPEC-V1]
 
 ## 10.3 长期生长与实施
 
-CONTENT TODO
+长期变化遵循 **NOW → NEXT → LEARN & ADAPT**。NOW完成可立即实施、低风险、可逆的空间与运营调整，包括导向、共享时段、界面打开、Marker、慢行组织和必要轻量设施；NEXT在运行证据基础上逐步完善测试界面、共享网络、节点公共空间及经确认的设施调整；LEARN & ADAPT将持续多年问题转化为设施优化、微更新与长期城市战略讨论。JINGZHANG 24H不以一次性大规模建设为成立前提：先让城市运行，再让运行成为下一次设计的证据。[source:FROZEN-DESIGN-SPEC-V1] [assumption:A-LEARNING-001]
 
 ## 10.4 治理
 
-CONTENT TODO：AI辅助判断，人和治理体系保留决策权。
+LEARNING不把城市决策交给AI。AI可以识别模式、预测趋势、比较状态、匹配空间与需求，但是否改变开放时段、设施、公共空间或长期策略，仍由真实城市中的人完成。企业提供技术与测试经验，高校提供研究与知识支持，社区和公众提供真实使用反馈，公共服务与空间运营参与日常判断，城市管理与相关专业主体负责更长期公共决策与实施。原则是：**技术提出证据，人承担决定。**产权、法定边界、开发强度、市政容量、拆改许可等未核验事项不被运营机制转化为实施授权，而作为实施前提记录。[source:FROZEN-DESIGN-SPEC-V1] [data:risk_audit.json]
 
 ## 10.5 评价
 
-CONTENT TODO
+JINGZHANG 24H不以单一“智能化程度”评价成功，而通过四个持续维度观察：**ACCESS｜可达性**，不同年龄、能力和出行方式是否更容易进入和穿过城市；**SAFETY｜安全性**，不同速度、使用状态和测试活动是否安全共存；**VITALITY｜活力**，空间是否在适合时间被真实使用而非依赖持续活动填充；**INCLUSION｜包容性**，家庭、产业、高校、社区、公共服务与国际访客是否都能进入同一套城市系统。这些维度不被伪造成即时评分，而是跨日、跨周、跨年的持续观察框架。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
+**[FIGURE D07｜YEAR LOOP / Learning System｜DRAWING TODO]**
+
+**[FIGURE D04｜COMMONS Time Sharing｜DRAWING TODO]**
 
 # PART 11｜一天，不止一个人
 
 ## 五类人物关系网络
 
-CONTENT TODO
+林岚的一天只是进入JINGZHANG 24H的一条路径。同一条京张在同一天中被不同的人以不同方式使用。方案不把使用者理解为五条互不相关的固定路线：工作者也可能是家人、朋友和普通城市使用者；研究人员下班后也可能成为运动者或社区使用者。JINGZHANG 24H面对的是五类持续交叉的城市使用关系。
+
+**P01｜社区居民与家庭使用者**关注安全、连续可达、休息、日常活动和不同年龄与能力的需求，主要与FLOW、COMMONS、LEARNING相关。**P02｜AI产业从业者**在工作、验证、通勤、合作与生活间转换，是TEST、FLOW、INTEGRATE的重要使用者；林岚属于这一类，同时不断进入其他社会关系。**P03｜高校科研与创新人才**让知识、科研合作与创新资源从校园和机构边界进入城市，与ORIGIN、FLOW、COMMONS相关。**P04｜城市运营与公共服务参与者**连接感知、人工判断、运营调整与真实实施。**P05｜国际访客与创新合作人群**检验城市是否容易进入、理解、交流并从创新资源进入普通城市生活，与FLOW、ORIGIN、INTEGRATE相关。
+
+“家人”“朋友”“同事”“合作伙伴”“国际来访者”只是林岚一天中的关系网络，而不是新的用户类别。不同的人不需要被分配到不同城市；他们能以不同身份和节奏共同生活于同一套城市系统。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D06]
+
+**[FIGURE D06-B｜One Day, Many People / Persona Relationship Network｜DRAWING TODO]**
 
 # PART 12｜设计证据与专业回应
 

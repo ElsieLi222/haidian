@@ -219,35 +219,71 @@ D07 is led by the overall city-learning mechanism; spatial cases only evidence t
 
 The annual learning loop is NORMAL → JINGZHANG 24H OPEN DAY → REVIEW → NEXT. Open Day belongs to PART 10 as an annual COMMONS peak and LEARNING stress test; it is not an AI Scenario in an ordinary day. [source:FROZEN-DESIGN-SPEC-V1] [depth:phasing_implementation]
 
+### 9.1 What the City Saw
+
+After 23:30, Lin Lan’s day ends but the city does not. Family travel, knowledge exchange, real-world testing, commuting, shared use, and changing day–evening–night conditions leave detours, repeated anomalies, use differences, and feedback as part of the day’s operation. LEARNING is neither a centralized “AI brain” nor continuous personal surveillance; it is a mechanism through which the city learns from real use.
+
+It considers five categories: **FLOW**—movement, access, detours, transfers, waiting, and potential speed conflict; **TEST**—product performance, adaptation, repeated anomalies, and whether the issue is product or environment; **COMMONS**—SPACE × TIME × PEOPLE, underuse, capacity, noise, and safety; **INTEGRATE**—continuity across industry, transit, commerce, community, and public space, including day–evening–night transitions; **HUMAN FEEDBACK**—voluntary public feedback, operational observation, logs, and experience from enterprises, universities, communities, and public services. The principle is necessary sensing, not comprehensive surveillance: anonymized aggregate information, environmental/facility state, voluntary feedback, and field observation take priority; facial recognition and long-term individual tracking are not defaults. [source:FROZEN-DESIGN-SPEC-V1] [assumption:A-LEARNING-001]
+
+### 9.2 00:00 DAILY REVIEW
+
+Midnight is not when learning begins; it has occurred all day. At 00:00, FLOW, TEST, COMMONS, INTEGRATE, and HUMAN FEEDBACK are reviewed together. The city asks whether an issue should be adjusted now, watched, tested again, or escalated into longer-term spatial change. This produces ADJUST NOW, KEEP WATCHING, TEST AGAIN, and ESCALATE. The city does not reproduce yesterday; review changes the next operating state. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
+**[FIGURE D07｜Urban Learning System｜DRAWING TODO]**
+
+### 9.3 FAST LOOP × SLOW LOOP
+
+The FAST LOOP works across minutes, hours, and the next day through reversible operations, guidance, facility dispatch, and time-based adjustment. The SLOW LOOP works across weeks, months, and years; only persistent issues enter facility improvement, micro-renewal, and strategic adjustment. This is not temporary improvisation before one-time construction, but “test first, then adapt”: short-cycle trials establish whether a problem persists, and long-term investment follows repeated evidence. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
+### 9.4 Three Spatial Learning Cases
+
+**CASE 01—N1 Accessibility:** navigation workaround → persistent barrier recognition → physical repair. **CASE 02—N3 Wudaokou:** anonymized aggregate information and operational observation identify potential multimodal conflict; operation and guidance come first, while repeated cross-time evidence may justify facility improvement or micro-renewal. **CASE 03—N7 Dazhongsi:** day–evening–night use, commerce, arrivals, and community feedback are compared; time-based operation comes first and persistent cross-cycle issues may enter spatial/facility adjustment. Exact spaces, data, and implementation remain TO VERIFY. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
+### 9.5 DAY N → DAY N+1
+
+LEARNING is a forward spiral, not a return to the same point: **DAY N → 00:00 REVIEW → DAY N+1′ → REVIEW → DAY N+2″**. Technology reveals patterns, real use provides evidence, and people decide when, why, and how the city changes; it is not an automated system that makes every decision. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
 # PART 10 | BEYOND ONE DAY
 
 ## 10.1 Week
 
-CONTENT TODO
+The DAILY REVIEW supports immediate judgement, while a week is the minimum window for recognizing recurring patterns. Whether a crossing conflicts only at a certain time, a shared space changes across workdays, or a testing issue repeats requires comparison across days. LEARNING does not trigger construction from one anomaly; only persistent cross-time issues supported by operational observation, user feedback, and testing move to a higher response. Urban change becomes evidence-driven rather than event-driven. [source:FROZEN-DESIGN-SPEC-V1]
 
 ## 10.2 JINGZHANG 24H OPEN DAY
 
-CONTENT TODO
+The annual JINGZHANG 24H OPEN DAY is COMMONS’s most concentrated open condition and an urban-scale stress test for LEARNING. It is neither a technology festival nor a continuous 24-hour event corridor. It amplifies daily mechanisms: university knowledge edges open further, enterprise interfaces demonstrate and validate, communities, sport, culture, and public space participate, international collaborators enter the real city, and Jingzhang culture is experienced through movement, public activity, and spatial identity.
+
+It observes **ACCESS, SAFETY, VITALITY, and INCLUSION**. Afterward the city enters REVIEW; the annual logic is **NORMAL → OPEN DAY → REVIEW → NEXT**. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D04] [drawing:D07]
 
 JINGZHANG 24H OPEN DAY must open both Centennial Jingzhang history/culture and contemporary urban innovation. Jingzhang cultural walks, crossing/station memories, public railway-culture activities, contemporary innovation access, community activities, and international exchange are pending content directions—not an already committed event list. [source:FROZEN-DESIGN-SPEC-V1]
 
 ## 10.3 Long-term Growth & Implementation
 
-CONTENT TODO
+Long-term change follows **NOW → NEXT → LEARN & ADAPT**. NOW delivers low-risk reversible adjustments—guidance, shared hours, opening edges, markers, slow-mobility organization, and lightweight facilities. NEXT progressively develops testing interfaces, shared networks, node public space, and confirmed facility adjustments from operational evidence. LEARN & ADAPT translates persistent multi-year issues into facility improvement, micro-renewal, and strategic discussion. JINGZHANG 24H does not depend on one-time large-scale construction: let the city operate first, then let operation become evidence for the next design decision. [source:FROZEN-DESIGN-SPEC-V1] [assumption:A-LEARNING-001]
 
 ## 10.4 Governance
 
-CONTENT TODO: AI supports judgement; people and the governance system retain decision rights.
+LEARNING does not transfer city decisions to AI. AI can identify patterns, predict trends, compare conditions, and support matching, but people decide whether to change hours, facilities, public space, or long-term strategy. Enterprises contribute technical/testing experience; universities contribute research/knowledge; communities and the public contribute lived feedback; public-service and operational actors support daily judgement; urban-management and professional actors retain longer-term public decision and implementation roles. **Technology provides evidence; people make decisions.** Unverified ownership, statutory boundaries, intensity, municipal capacity, and demolition permissions remain implementation prerequisites, not authority created by operation. [source:FROZEN-DESIGN-SPEC-V1] [data:risk_audit.json]
 
 ## 10.5 Evaluation
 
-CONTENT TODO
+JINGZHANG 24H does not measure success through one “smartness” score. It continuously observes **ACCESS**—whether people with different ages, abilities, and travel modes can enter and move through the city; **SAFETY**—whether speeds, uses, and tests coexist safely; **VITALITY**—whether space is genuinely used at appropriate times rather than constantly programmed; and **INCLUSION**—whether families, industry, universities, communities, public services, and international visitors can enter one urban system. These are not fabricated instant scores but observation dimensions across days, weeks, and years. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
+**[FIGURE D07｜YEAR LOOP / Learning System｜DRAWING TODO]**
+
+**[FIGURE D04｜COMMONS Time Sharing｜DRAWING TODO]**
 
 # PART 11 | ONE DAY, MANY PEOPLE
 
 ## Five User Groups and Relationship Network
 
-CONTENT TODO
+Lin Lan’s day is one path through JINGZHANG 24H. The same corridor is used differently by different people; the proposal does not reduce them to five isolated routes. A worker can be a family member, friend, and ordinary public-space user; a researcher may become a cyclist or community user after work. JINGZHANG 24H therefore addresses five overlapping urban-use relationships.
+
+**P01—Community Residents and Family Users** relate to safety, continuous access, rest, everyday activity, and different ages and abilities, chiefly through FLOW, COMMONS, and LEARNING. **P02—AI Industry Professionals** move among work, validation, commuting, collaboration, and life, relating to TEST, FLOW, and INTEGRATE; Lin Lan belongs here while participating in other relationships. **P03—University Research and Innovation Talent** connect knowledge, research collaboration, and innovation resources to the city through ORIGIN, FLOW, and COMMONS. **P04—Urban Operations and Public-Service Participants** connect sensing, human judgement, operational adjustment, and implementation. **P05—International Visitors and Innovation Partners** test whether the city is easy to enter, understand, exchange within, and move from innovation resources into everyday life through FLOW, ORIGIN, and INTEGRATE.
+
+Family, friends, colleagues, collaborators, and international guests are relationship-network terms, not extra persona categories. Different people do not require different cities; they can live at different rhythms within one urban system. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D06]
+
+**[FIGURE D06-B｜One Day, Many People / Persona Relationship Network｜DRAWING TODO]**
 
 # PART 12 | DESIGN EVIDENCE & COMPLIANCE
 

@@ -14,45 +14,85 @@ iteration: "v2.0.0"
 
 ## Executive Summary
 
-CONTENT TODO: This file establishes only the formal bilingual mirror. Frozen design content, drawings, and evidence remain to be supplied.
+**JINGZHANG 24H** is structured around **“A Day of a Person × A City that Learns.”** It asks how the Jingzhang corridor, already shaped by public space, mobility infrastructure, industry, and knowledge resources, can evolve in the AI era into a continuous urban spine connecting innovation, work, movement, sharing, and everyday life.
+
+The proposal is organized through the **Centennial Jingzhang Spine + Three Zones and Two Wings**: Zhongzhiyuan in the north operates as **TEST**; the Beijing AI Origin Community in the middle operates as **ORIGIN**; and Dazhongsi in the south operates as **INTEGRATE**. The Zhongguancun Technology Service Wing and Xiaoyue River Scenario Empowerment Wing provide supporting knowledge, industry, and application resources. The three areas are a continuous sequence of innovation generation, real-world validation, and urban integration rather than isolated functional islands.
+
+Three systems support this structure: **FLOW, COMMONS, and LEARNING**. FLOW enables continuous movement at different speeds and for different purposes. COMMONS shares existing resources through open edges, time-based reuse, and mixed use. LEARNING connects short-cycle operation with longer-term micro-renewal through real use, testing, operation, voluntary public feedback, and the principle of “test first, then adapt.”
+
+These mechanisms are experienced through one day in the life of Lin Lan, a 35-year-old professional in AI product and scenario validation: family life at 07:30, knowledge exchange at Wudaokou at 09:00, real-city testing in Zhongzhiyuan at 14:00, a southbound journey through Jingzhang at 18:00, shared public life at 20:00, and continued work, exchange, and urban life in Dazhongsi between 20:30 and 23:30. At 23:30 her day ends; at 00:00, the city enters its **DAILY REVIEW**, translating FLOW, TEST, COMMONS, INTEGRATE, public, and operational feedback into the next operational state.
+
+JINGZHANG 24H does not depend on one-time large-scale reconstruction. It extends Jingzhang’s evolution from **railway connection → urban public corridor → AI-era innovation and commons spine**, using minimum necessary intervention, real-world testing, and continuous urban learning so innovation becomes part of ordinary city life. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D06] [drawing:D07]
+
+**[FIGURE D01｜Overall Framework / 京张24H总体框架｜DRAWING TODO]**
 
 # PART 1 | THE CITY WE START FROM
 
 ## 1.1 Existing Jingzhang
 
-CONTENT TODO
+Jingzhang is not an urban blank waiting to be reinvented. From railway infrastructure once connecting the city and region to today’s heritage, park, and public-space corridor through Haidian, it has consistently played a role of connection. Its legacy is not limited to railway heritage; it is also a continuous urban corridor passing universities, research institutions, industry clusters, communities, commerce, and transport nodes.
+
+Significant innovation resources are concentrated along this corridor. Zhongzhiyuan in the north, the Beijing AI Origin Community in the middle, and Dazhongsi in the south form three major innovation areas. Zhongguancun, university research resources, Xiaoyue River, surrounding communities, commerce, and public services form a broader support network. The proposal therefore begins with Jingzhang as an existing public urban spine with real everyday life, asking how its relationship with innovation can be further organized.
 
 ### Jingzhang cultural continuity
 
-Jingzhang culture is not a separate decorative theme. It is the continuous evolution of railway infrastructure → green public corridor → AI-era urban innovation-and-commons spine. Specific historical facts, heritage conditions, and identifiers still require FACT sources; this cultural translation is PROPOSAL. [source:FROZEN-DESIGN-SPEC-V1]
+Jingzhang’s cultural continuity is understood as **railway infrastructure → urban green public corridor → AI-era innovation and commons spine**. Historical Jingzhang represented connection, engineering, and pioneering; contemporary Zhongguancun continues exploration, entrepreneurship, and openness; JINGZHANG 24H translates these qualities into co-creation, testing, sharing, and learning. Specific historical facts, heritage conditions, and identifiers still require FACT sources; this cultural translation is PROPOSAL. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D01]
+
+**[FIGURE D01｜Existing Jingzhang / Site Overview｜DRAWING TODO]**
 
 ## 1.2 Opportunities & Gaps
 
-CONTENT TODO
+The challenge is not a lack of innovation resources, but how they become part of the same city. University knowledge, enterprise technology, everyday community needs, transit movement, and existing public space do not automatically connect because they are geographically close. For ordinary users they may still appear as separate boundaries, access conditions, and temporal states.
+
+The proposal reorganizes three relationships. First, innovation and the real city: AI must move from controlled environments into real use without interrupting normal urban life, and repeated problems must feed back into improvement. Second, innovation resources and public life: rather than indiscriminately opening institutional cores, the focus is urban-facing edges, forecourts, shared periods, and collaboration interfaces, with a gradient from public to shared, controlled, and private space. Third, the three key areas: FLOW, COMMONS, and LEARNING organize Zhongzhiyuan, the AI Origin Community, and Dazhongsi into a continuous sequence from innovation generation to validation and urban integration.
+
+JINGZHANG 24H therefore asks how existing innovation resources, public spaces, and ordinary life can begin to interact along the same corridor, rather than merely creating more “AI spaces.” [source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D06]
 
 ## 1.3 Evidence & Uncertainty
 
-DATA TODO: Formal facts may only use sources currently permitted in the official `source_registry.json`; unconfirmed material must be marked TO VERIFY.
+The proposal is grounded in official public documents, existing planning and task materials, verifiable spatial relationships, available mapping, and limited field imagery. Confirmable information establishes overall structure, node relationships, and intervention directions, including the corridor, key-area positioning, major transport connections, and the general distribution of universities, industry, communities, blue-green space, and public facilities.
+
+Information that cannot be verified is not converted into design fact. Precise statutory boundaries, land and building ownership, development intensity, building-height controls, demolition permissions, municipal capacity, and certain underground conditions remain **UNKNOWN / TO VERIFY**. Drawings that communicate spatial relationships without statutory boundaries are labelled **PROVISIONAL DESIGN REFERENCE**, not official regulatory boundaries.
+
+This evidence boundary shapes the method: retain-first, minimum necessary intervention, real-world testing, and incremental adaptation take priority over unsupported redevelopment or quantitative controls. What can be verified becomes evidence; what remains uncertain becomes an implementation prerequisite; what cannot be proven is not presented as fact. [source:SOURCE-REGISTRY] [source:FROZEN-DESIGN-SPEC-V1] [assumption:A-CONTROLS-001]
+
+**[FIGURE｜Evidence + Assumption / Provisional Boundary Note｜DRAWING TODO]**
 
 # PART 2 | JINGZHANG 24H FRAMEWORK
 
 ## How One Day Organizes a City
 
-CONTENT TODO
+JINGZHANG 24H organizes space, use, testing, and feedback through “A Day of a Person × A City that Learns.” Human time explains lived urban experience; city time carries real use, operation, and public feedback into the next operating state. The framework maintains only the frozen relationships of TEST, ORIGIN, INTEGRATE, FLOW, COMMONS, and LEARNING; it introduces no additional first-level system or concept. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D06] [drawing:D07]
 
 ## 2.1 Two 24 Hours
 
-CONTENT TODO
+The “24H” in JINGZHANG 24H does not refer only to one person’s schedule. The proposal contains two intertwined 24-hour cycles. The first is a day of a person: from 07:30 through family life, knowledge exchange, work testing, commuting, sharing, and urban life, ending at 23:30. It is linear and reveals the city through ordinary use. The second is a day of the city: throughout the day the city senses real use, testing results, spatial conditions, and operational feedback. At 00:00 it enters a **DAILY REVIEW**; midnight is not the start of learning, but the moment accumulated information is reconsidered for the next operational, testing, or spatial state.
+
+The two timelines are related but not identical: the protagonist helps us see the city; LEARNING helps the city see itself. Human time moves forward, while urban learning forms a cycle. DAY N is not reset at midnight; it becomes a modified DAY N+1 shaped by what has been learned. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D06] [drawing:D07]
+
+**[FIGURE D06｜Human 24H Storyboard｜DRAWING TODO]**
+
+**[FIGURE D07｜Urban Learning System｜DRAWING TODO]**
 
 ## 2.2 The Centennial Jingzhang Spine + Three Districts and Two Wings
 
-Frozen structure: northern TEST / Zhongzhiyuan AI autonomous-innovation acceleration district; central ORIGIN / Beijing AI Origin Community; southern INTEGRATE / Dazhongsi AI industry cluster; Zhongguancun technology-service wing and Xiaoyuehe scenario-enablement wing.
+The Centennial Jingzhang Spine is the continuous framework. It is not a new functional corridor, but builds on existing Jingzhang heritage, parks, transport, and public space to connect innovation resources, public life, and urban learning. From north to south, Zhongzhiyuan operates as **TEST**, progressively validating innovation across controlled, shared, and real urban environments; the Beijing AI Origin Community operates as **ORIGIN**, bringing university, research, and innovation resources into public space through urban interfaces; Dazhongsi operates as **INTEGRATE**, where industry, transit, commerce, community, public space, and international exchange coexist. The areas are neither hierarchical nor interchangeable labels; together they form a sequence from knowledge and innovation, through real-city validation, to industry and everyday urban life.
 
-The Centennial Jingzhang Spine is both the overall spatial framework and the historical, cultural, and public-space parent structure. Its cultural vocabulary translates into LINE → a continuous FLOW spine; STATION / NODE → contemporary urban nodes; CROSSING → multiple entries and urban interfaces; MILEAGE / MARKER → a restrained Jingzhang identification system; and CONNECTION → links across universities, industry, communities, and public life. These do not form an additional first-level system or concept. [source:FROZEN-DESIGN-SPEC-V1] [depth:overall_spatial_structure]
+The Zhongguancun Technology Service Wing and Xiaoyue River Scenario Empowerment Wing support knowledge, industry services, and real-world application conditions on either side; they are relationships, not additional first-level systems. Cultural DNA retains spatial vocabulary rather than reproducing nostalgic railway scenery: **LINE, STATION / NODE, CROSSING, MILEAGE / MARKER, CONNECTION**. Wudaokou is the clearest transformation: **Historical Crossing → Contemporary Urban Interface**. Continuity extends connection, engineering, and pioneering through exploration, entrepreneurship, and openness toward co-creation, testing, sharing, and learning. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [depth:overall_spatial_structure]
+
+**[FIGURE D01｜Overall Framework｜DRAWING TODO]**
 
 ## 2.3 Three Urban Systems
 
-Frozen systems: FLOW, COMMONS, and LEARNING.
+JINGZHANG 24H introduces no additional first-level systems. **FLOW** addresses continuous movement through Jingzhang through one line, multiple interfaces, and differentiated speeds, coordinating walking, cycling, accessibility, stopping, transfer, and necessary testing movement. Its purpose is not a faster corridor, but less repeated judgement, detour, and switching for users.
+
+**COMMONS** addresses how existing resources are reasonably shared. It combines open edges, time reuse, and mixed functions through the gradient **PUBLIC → SHARED → CONTROLLED → PRIVATE**. Through **SPACE × TIME × PEOPLE**, the same space serves different users at different times; COMMONS does not simply construct more public space, but creates a more effective sharing-operation network of existing space, facilities, activity, and innovation resources.
+
+**LEARNING** addresses how the city changes through real use. It is not a centralized “AI brain,” but the continuing process **SENSE → RESPOND → TEST → FEEDBACK → LEARN → ADAPT**. Short-cycle issues can be addressed through operation, guidance, facility dispatch, and scheduling; persistent issues may enter facility optimization, micro-renewal, or longer-term strategic adjustment. The principle is “test first, then adapt.” AI assists pattern recognition, recurring-anomaly detection, need matching, and comparison; people retain spatial and governance decisions. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D07]
+
+### Ten Real-City AI Scenarios (formal index)
+
+AI is not a separate technology display. Ten Scenario Cards embed AI in ordinary use, real-world testing, spatial operation, and daily learning: 09:00—S04/S05 (multimodal-crossing conflict recognition / knowledge-event matching); 14:00—S01/S02/S03 (robot passage / accessible navigation and spatial repair / public-space environmental adaptation); 18:00—S06 and continuing S04 (station-city arrival and bicycle-parking coordination / continued FLOW feedback); 20:00—S07 (SPACE × TIME × PEOPLE matching); 20:30–23:30—S08/S09 (Dazhongsi day–evening–night transition / multilingual visitor guidance); 00:00—S10 (daily learning and micro-renewal priority). They are lightweight 24H references; complete cards, AI roles, data governance, and spatial response are in Part 12. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D08] [scenario:S01] [scenario:S02] [scenario:S03]
 
 # PART 3 | 07:30 — CITY AWAKENS
 

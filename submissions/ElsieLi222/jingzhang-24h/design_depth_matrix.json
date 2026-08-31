@@ -14,6 +14,8 @@
         "风险、版权与合规说明"
       ],
       "drawing_refs": [
+        "assets/figures/D01_Jingzhang_24H_Overall_Framework.zh.png",
+        "assets/figures/site-overview.png",
         "drawings/a3-booklet.pdf",
         "drawings/a0-boards.pdf"
       ],
@@ -42,10 +44,12 @@
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
         "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "KEY-AREA-SOURCE",
+        "D01-FROZEN-MASTER"
       ],
       "assumption_ids": [
-        "A-CONTROLS-001"
+        "A-CONTROLS-001",
+        "A-PROVISIONAL-001"
       ],
       "self_check_ids": [
         "BOUNDARY_TRUST",
@@ -60,7 +64,8 @@
       "title_zh": "三层范围工作框架",
       "professional_dimension": "规划",
       "required": true,
-      "status": "incomplete",
+      "status": "complete",
+      "completion_basis_zh": "D01冻结母版已导出并嵌入Proposal，明确百年京张轴、三区两翼、N1/N3/N5/N7关系和PROVISIONAL DESIGN REFERENCE边界说明。该项完成的是设计范围工作框架回应，不主张官方法定边界。",
       "proposal_sections": [
         "三层范围工作框架",
         "总体设计范围城市更新与控规深度城市设计",
@@ -68,6 +73,8 @@
         "风险、版权与合规说明"
       ],
       "drawing_refs": [
+        "assets/figures/D01_Jingzhang_24H_Overall_Framework.zh.png",
+        "assets/figures/site-overview.png",
         "drawings/a3-booklet.pdf",
         "drawings/a0-boards.pdf"
       ],
@@ -96,10 +103,12 @@
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
         "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "KEY-AREA-SOURCE",
+        "D01-FROZEN-MASTER"
       ],
       "assumption_ids": [
-        "A-CONTROLS-001"
+        "A-CONTROLS-001",
+        "A-PROVISIONAL-001"
       ],
       "self_check_ids": [
         "BOUNDARY_TRUST",
@@ -107,14 +116,15 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "CONTENT TODO / DRAWING TODO / DATA TODO：已建立专业深度证据映射，待确认设计内容、图纸和可复算数据补入。"
+      "evidence_summary_zh": "D01已提供三层工作范围的设计关系图与临时边界限制说明；SOURCE D01-FROZEN-MASTER和A-PROVISIONAL-001共同限定其非法定性质。"
     },
     {
       "item_id": "overall_spatial_structure",
       "title_zh": "总体空间结构",
       "professional_dimension": "城市设计",
       "required": true,
-      "status": "incomplete",
+      "status": "complete",
+      "completion_basis_zh": "D01冻结母版已导出并嵌入Proposal，明确百年京张轴、三区两翼、FLOW/COMMONS/LEARNING和N1/N3/N5/N7索引。该项完成总体空间结构的Proposal回应，不对法定边界、面积或用地控制作主张。",
       "proposal_sections": [
         "三层范围工作框架",
         "总体设计范围城市更新与控规深度城市设计",
@@ -122,6 +132,8 @@
         "风险、版权与合规说明"
       ],
       "drawing_refs": [
+        "assets/figures/D01_Jingzhang_24H_Overall_Framework.zh.png",
+        "assets/figures/site-overview.png",
         "drawings/a3-booklet.pdf",
         "drawings/a0-boards.pdf"
       ],
@@ -150,10 +162,12 @@
         "OFFICIAL-ANNOUNCEMENT",
         "AGENT-TASKBOOK",
         "BOUNDARY-SOURCE",
-        "KEY-AREA-SOURCE"
+        "KEY-AREA-SOURCE",
+        "D01-FROZEN-MASTER"
       ],
       "assumption_ids": [
-        "A-CONTROLS-001"
+        "A-CONTROLS-001",
+        "A-PROVISIONAL-001"
       ],
       "self_check_ids": [
         "BOUNDARY_TRUST",
@@ -161,7 +175,7 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "CONTENT TODO / DRAWING TODO / DATA TODO：已建立专业深度证据映射，待确认设计内容、图纸和可复算数据补入。"
+      "evidence_summary_zh": "D01已提供总体框架、三大系统、节点索引与PROVISIONAL DESIGN REFERENCE说明；其空间关系为PROPOSAL，地理/法定事实仍受来源与假设限制。"
     },
     {
       "item_id": "land_use_layout",

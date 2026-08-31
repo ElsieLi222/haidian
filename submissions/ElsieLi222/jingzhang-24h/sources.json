@@ -82,6 +82,16 @@
       "supplements": [
         "JINGZHANG CULTURAL DNA"
       ]
+    },
+    {
+      "id": "D01-FROZEN-MASTER",
+      "path": "assets/figures/D01_Jingzhang_24H_Overall_Framework.zh.png",
+      "source_type": "user_provided_cleared",
+      "usage": "Frozen D01 overall-framework master export for the proposal and site-overview figure.",
+      "formal_mapping_status": "PROPOSAL READY",
+      "limitations": "PROVISIONAL DESIGN REFERENCE: geographic base and key-area relationships are design relationships, not official statutory boundaries or precise controls.",
+      "evidence_category": "PROPOSAL",
+      "claim_control": "Use for frozen framework, system, and relationship diagram only; never promote provisional ranges to legal boundaries or factual land-use classifications."
     }
   ]
 }

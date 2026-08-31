@@ -24,7 +24,7 @@ These mechanisms are experienced through one day in the life of Lin Lan, a 35-ye
 
 JINGZHANG 24H does not depend on one-time large-scale reconstruction. It extends Jingzhang’s evolution from **railway connection → urban public corridor → AI-era innovation and commons spine**, using minimum necessary intervention, real-world testing, and continuous urban learning so innovation becomes part of ordinary city life. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D06] [drawing:D07]
 
-**[FIGURE D01｜Overall Framework / 京张24H总体框架｜DRAWING TODO]**
+![FIGURE D01｜Overall Framework](assets/figures/site-overview.en.png)
 
 # PART 1 | THE CITY WE START FROM
 
@@ -38,7 +38,7 @@ Significant innovation resources are concentrated along this corridor. Zhongzhiy
 
 Jingzhang’s cultural continuity is understood as **railway infrastructure → urban green public corridor → AI-era innovation and commons spine**. Historical Jingzhang represented connection, engineering, and pioneering; contemporary Zhongguancun continues exploration, entrepreneurship, and openness; JINGZHANG 24H translates these qualities into co-creation, testing, sharing, and learning. Specific historical facts, heritage conditions, and identifiers still require FACT sources; this cultural translation is PROPOSAL. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D01]
 
-**[FIGURE D01｜Existing Jingzhang / Site Overview｜DRAWING TODO]**
+![FIGURE D01｜Existing Jingzhang / Site Overview](assets/figures/site-overview.en.png)
 
 ## 1.2 Opportunities & Gaps
 
@@ -80,7 +80,7 @@ The Centennial Jingzhang Spine is the continuous framework. It is not a new func
 
 The Zhongguancun Technology Service Wing and Xiaoyue River Scenario Empowerment Wing support knowledge, industry services, and real-world application conditions on either side; they are relationships, not additional first-level systems. Cultural DNA retains spatial vocabulary rather than reproducing nostalgic railway scenery: **LINE, STATION / NODE, CROSSING, MILEAGE / MARKER, CONNECTION**. Wudaokou is the clearest transformation: **Historical Crossing → Contemporary Urban Interface**. Continuity extends connection, engineering, and pioneering through exploration, entrepreneurship, and openness toward co-creation, testing, sharing, and learning. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [depth:overall_spatial_structure]
 
-**[FIGURE D01｜Overall Framework｜DRAWING TODO]**
+![FIGURE D01｜Overall Framework](assets/figures/site-overview.en.png)
 
 ## 2.3 Three Urban Systems
 

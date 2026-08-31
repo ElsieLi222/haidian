@@ -24,7 +24,7 @@ iteration: "v2.0.0"
 
 因此，JINGZHANG 24H并不试图以一次性的大规模建设重新制造京张，而是延续这条百年基础设施从**铁路连接 → 城市公共走廊 → AI时代创新与共享骨架**的演进，以最小必要介入、真实场景测试和持续城市学习，让创新最终成为普通城市生活的一部分。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D06] [drawing:D07]
 
-**[FIGURE D01｜京张24H总体框架 / Overall Framework｜DRAWING TODO]**
+![FIGURE D01｜京张24H总体框架](assets/figures/site-overview.png)
 
 # PART 1｜我们从怎样的京张出发
 
@@ -38,7 +38,7 @@ iteration: "v2.0.0"
 
 京张的文化连续性被重新理解为：**铁路基础设施 → 城市绿色公共走廊 → AI时代的城市创新与共享骨架**。过去的京张通过工程实现连接、开拓与突破；今天的中关村通过创新延续探索、创业与开放；JINGZHANG 24H希望把这种精神进一步转化为城市中的共创、测试、分享与学习。具体历史事实、遗存状态和编号仍需 FACT 来源支持；本方案的文化转译属于 PROPOSAL。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01]
 
-**[FIGURE D01｜Existing Jingzhang / Site Overview｜DRAWING TODO]**
+![FIGURE D01｜Existing Jingzhang / Site Overview](assets/figures/site-overview.png)
 
 ## 1.2 机遇与问题
 
@@ -80,7 +80,7 @@ JINGZHANG 24H中的“24H”并不只指一个人的时间表。方案同时存�
 
 主轴两侧，中关村科技服务翼与小月河场景赋能翼分别提供知识、产业服务与真实场景支撑；两翼是连接关系，而非新的一级空间系统。京张文化不通过复古铁路景观复制历史，而保留铁路所代表的空间逻辑：**LINE｜线、STATION / NODE｜站/节点、CROSSING｜道口、MILEAGE / MARKER｜里程/标识、CONNECTION｜连接**。五道口是其最具有代表性的转化：**历史道口 → 当代城市接口**。百年京张的连续性不是形象复制，而是从过去的连接、工程、开拓，延续到今天的探索、创业、开放，再进入未来城市的共创、测试、分享、学习。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [depth:overall_spatial_structure]
 
-**[FIGURE D01｜京张24H总体框架 / Overall Framework｜DRAWING TODO]**
+![FIGURE D01｜京张24H总体框架](assets/figures/site-overview.png)
 
 ## 2.3 三大城市系统
 

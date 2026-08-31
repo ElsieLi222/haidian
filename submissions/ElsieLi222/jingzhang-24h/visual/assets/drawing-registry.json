@@ -4,11 +4,15 @@
     {
       "id": "D01",
       "title": "JINGZHANG 24H Overall Framework",
-      "status": "DRAWING TODO",
+      "status": "FROZEN MASTER EXPORTED",
       "proposal_reference": "PART 2",
-      "evidence_status": "DRAWING TODO",
+      "evidence_status": "PROPOSAL / PROVISIONAL DESIGN REFERENCE",
       "drawing_type": "schematic + verified geographic reference",
-      "production_method_note": "Framework diagram must distinguish verified geography from provisional / TO VERIFY references.",
+      "production_method_note": "Frozen master exported without design alteration. It distinguishes a geographic base from design relationships and labels key-area relationships as PROVISIONAL DESIGN REFERENCE, not statutory boundaries.",
+      "master_file": "D01_Jingzhang_24H_Overall_Framework_FROZEN.pptx",
+      "export_zh": "assets/figures/D01_Jingzhang_24H_Overall_Framework.zh.png",
+      "export_en": "assets/figures/D01_Jingzhang_24H_Overall_Framework.en.png",
+      "validator_figure": "assets/figures/site-overview.png",
       "cultural_requirement": "Centennial Jingzhang Spine as historic, cultural, and public-space parent structure; show cultural continuity without a new system."
     },
     {

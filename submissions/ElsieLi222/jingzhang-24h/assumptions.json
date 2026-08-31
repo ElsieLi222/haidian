@@ -16,8 +16,8 @@
     {
       "id": "A-CONTENT-001",
       "status": "pending_professional_confirmation",
-      "statement": "The frozen framework and bilingual structure do not constitute completed design content, technical controls, or implementation commitments.",
-      "impact": "All content, drawings, scenarios, personas, and evidence must remain TODO until supplied and confirmed."
+      "statement": "The Frozen Design Spec fixes framework, personas, scenario titles, and drawing identifiers, but full cards, storyboard, drawings, technical controls, and source evidence remain incomplete.",
+      "impact": "Only frozen design logic may be stated as PROPOSAL. Existing-condition and statutory claims remain FACT / UNKNOWN / TO VERIFY according to evidence governance."
     }
   ]
 }

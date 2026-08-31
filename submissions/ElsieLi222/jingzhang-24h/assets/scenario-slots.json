@@ -1,16 +1,67 @@
 {
-  "status": "CONTENT TODO",
-  "note": "Slots only. S04–S10+ must not be treated as proposed scenarios until frozen design content is supplied.",
+  "authority": "JINGZHANG 24H FROZEN DESIGN SPEC",
+  "status": "FROZEN REGISTRY / CONTENT TODO",
+  "note": "Titles and IDs are frozen. Full Scenario Cards (WHO, WHERE, PROBLEM, AI ROLE, SPATIAL RESPONSE, DATA, HUMAN DECISION, VALUE) remain CONTENT TODO. S01–S03 are industry test/validation scenarios.",
   "scenarios": [
-    {"id": "S01", "title_zh": "移动机器人城市通行验证", "title_en": "Urban Mobility Validation for Mobile Robots", "status": "CONTENT TODO"},
-    {"id": "S02", "title_zh": "无障碍导航验证", "title_en": "Accessible Navigation Validation", "status": "CONTENT TODO"},
-    {"id": "S03", "title_zh": "公共空间环境适应验证", "title_en": "Public-space Environmental Adaptation Validation", "status": "CONTENT TODO"},
-    {"id": "S04", "status": "CONTENT TODO"},
-    {"id": "S05", "status": "CONTENT TODO"},
-    {"id": "S06", "status": "CONTENT TODO"},
-    {"id": "S07", "status": "CONTENT TODO"},
-    {"id": "S08", "status": "CONTENT TODO"},
-    {"id": "S09", "status": "CONTENT TODO"},
-    {"id": "S10", "status": "CONTENT TODO"}
+    {
+      "id": "S01",
+      "title_zh": "移动机器人城市通行验证",
+      "title_en": "Urban Mobility Validation for Mobile Robots",
+      "status": "CONTENT TODO"
+    },
+    {
+      "id": "S02",
+      "title_zh": "无障碍导航验证与空间修复",
+      "title_en": "Accessible Navigation and Spatial Repair",
+      "status": "CONTENT TODO"
+    },
+    {
+      "id": "S03",
+      "title_zh": "公共空间环境适应验证",
+      "title_en": "Public-space Environmental Adaptation Validation",
+      "status": "CONTENT TODO"
+    },
+    {
+      "id": "S04",
+      "title_zh": "多模式道口冲突识别与分速调整",
+      "title_en": "Multimodal Crossing Conflict Recognition and Speed Differentiation",
+      "status": "CONTENT TODO"
+    },
+    {
+      "id": "S05",
+      "title_zh": "知识开放活动与城市空间匹配",
+      "title_en": "Knowledge-open Event and Urban-space Matching",
+      "status": "CONTENT TODO"
+    },
+    {
+      "id": "S06",
+      "title_zh": "站城到达与自行车停放协同",
+      "title_en": "Station-city Arrival and Bicycle-parking Coordination",
+      "status": "CONTENT TODO"
+    },
+    {
+      "id": "S07",
+      "title_zh": "一地多时共享空间匹配",
+      "title_en": "One-place, Multiple-times Commons Matching",
+      "status": "CONTENT TODO"
+    },
+    {
+      "id": "S08",
+      "title_zh": "大钟寺日—晚—夜空间状态切换",
+      "title_en": "Dazhongsi Day–Evening–Night Spatial-state Transition",
+      "status": "CONTENT TODO"
+    },
+    {
+      "id": "S09",
+      "title_zh": "国际访客跨语言导引与创新资源发现",
+      "title_en": "Multilingual Guidance and Innovation-resource Discovery for International Visitors",
+      "status": "CONTENT TODO"
+    },
+    {
+      "id": "S10",
+      "title_zh": "日终城市学习与微更新优先级",
+      "title_en": "End-of-day Urban Learning and Micro-renewal Prioritization",
+      "status": "CONTENT TODO"
+    }
   ]
 }

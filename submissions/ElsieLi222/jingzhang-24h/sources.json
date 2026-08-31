@@ -56,6 +56,13 @@
       "usage": "Agent-facing open-call principles, six required agent tasks, scenario/branding/operation requirements, and boundary clause.",
       "formal_mapping_status": "DATA TODO",
       "limitations": "TO VERIFY: formal use, precise claim scope, and final source mapping must be rechecked after final sync."
+    },
+    {
+      "id": "FROZEN-DESIGN-SPEC-V1",
+      "source_type": "user_provided_cleared",
+      "usage": "Design source of truth for frozen identity, spatial framework, systems, packages, personas, scenario titles, drawing IDs, and evidence governance. It is not evidence for existing-condition facts or legal controls.",
+      "formal_mapping_status": "CONTENT TODO",
+      "limitations": "TO VERIFY: factual and statutory claims still require separate formal source evidence."
     }
   ]
 }

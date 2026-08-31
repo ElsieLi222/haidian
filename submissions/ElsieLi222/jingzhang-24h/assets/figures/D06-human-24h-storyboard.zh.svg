@@ -1,0 +1,130 @@
+<svg class="d06-board" viewBox="0 -100 1200 870" role="img" aria-labelledby="d06-title d06-desc">
+    <title id="d06-title">林岚在京张的一天</title>
+    <desc id="d06-desc">从早晨家庭出门、知识碰面、城市测试、穿过京张、公共空间停留，到大钟寺的工作与生活持续融合。六个连续片段以一条京张标识线串联，最后在午夜接入城市学习系统。</desc>
+    <defs><style><![CDATA[
+#d06-storyboard{width:100%;font-family:inherit;color:var(--foreground);}
+#d06-storyboard .d06-head{display:flex;justify-content:space-between;align-items:end;gap:20px;margin-bottom:10px;}
+#d06-storyboard h1{margin:2px 0 0;font-weight:500;}.d06-kicker{color:var(--viz-series-1);font-weight:500;letter-spacing:.08em;}
+#d06-storyboard .d06-lead{max-width:390px;text-align:right;color:var(--muted-foreground);}
+#d06-storyboard{display:block;width:100%;height:auto;overflow:visible;}.d06-board text{font-family:inherit;fill:var(--foreground);}
+#d06-storyboard .spine-shadow{fill:none;stroke:var(--border);stroke-width:14;}.d06-board .spine{fill:none;stroke:var(--foreground);stroke-width:1.3;}.d06-board .spine-marker{fill:none;stroke:var(--viz-series-1);stroke-width:2.3;stroke-dasharray:5 6;}.d06-board .spine-label{font-size:10px;fill:var(--muted-foreground);letter-spacing:.08em;}
+#d06-storyboard .time{font-size:15px;font-weight:500;fill:var(--viz-series-1)!important;}.d06-board .major-time{font-size:18px;}.d06-board .scene-title{font-size:15px;font-weight:500;}.d06-board .major-title{font-size:18px;}.d06-board .scene-sub,.d06-board .relation-sub,.d06-board .end-sub{font-size:10px;fill:var(--muted-foreground)!important;}.d06-board .scene-field{fill:color-mix(in srgb,var(--muted) 28%,transparent);stroke:var(--border);stroke-width:1;}.d06-board .focus-field{fill:color-mix(in srgb,var(--viz-series-1) 7%,transparent);stroke:var(--viz-series-1);}
+#d06-storyboard .building,.d06-board .office,.d06-board .campus,.d06-board .integrate-building,.d06-board .city-block{fill:color-mix(in srgb,var(--foreground) 12%,transparent);stroke:var(--foreground);stroke-width:1.1;}.d06-board .window{stroke:var(--muted-foreground);stroke-width:1;}.d06-board .walk,.d06-board .crossing,.d06-board .main-path{fill:none;stroke:var(--foreground);stroke-width:2;}.d06-board .crossing-line,.d06-board .shared-dash{stroke:var(--muted-foreground);stroke-width:1;}.d06-board .shared-lane,.d06-board .bike-path{fill:none;stroke:var(--viz-series-1);stroke-width:4;opacity:.7;}.d06-board .green-edge{fill:color-mix(in srgb,var(--viz-series-3) 21%,transparent);}.d06-board .cross-path{stroke:var(--foreground);stroke-width:1.2;stroke-dasharray:4 3;}.d06-board .commons-ground{fill:color-mix(in srgb,var(--viz-series-3) 16%,transparent);}.d06-board .tree{fill:color-mix(in srgb,var(--viz-series-3) 45%,transparent);stroke:var(--viz-series-3);stroke-width:1;}.d06-board .trunk{stroke:var(--foreground);stroke-width:1.6;}.d06-board .marker,.d06-board .marker-cap{stroke:var(--viz-series-1);stroke-width:2;}.d06-board .lan{fill:var(--viz-series-1);}.d06-board .lan-body{fill:color-mix(in srgb,var(--viz-series-1) 38%,transparent);stroke:var(--viz-series-1);stroke-width:1;}.d06-board .lan-bag{stroke:var(--viz-series-1);stroke-width:3;}.d06-board .child{fill:var(--viz-series-2);}.d06-board .child-body,.d06-board .partner-body,.d06-board .friend-body{fill:color-mix(in srgb,var(--foreground) 18%,transparent);stroke:var(--foreground);stroke-width:1;}.d06-board .child-step{stroke:var(--foreground);stroke-width:1.3;}.d06-board .elder,.d06-board .partner,.d06-board .friend,.d06-board .visitor,.d06-board .small-person{fill:var(--foreground);}.d06-board .elder-body,.d06-board .small-body{fill:color-mix(in srgb,var(--foreground) 16%,transparent);}.d06-board .meeting{fill:none;stroke:var(--viz-series-1);stroke-width:1.5;}.d06-board .robot{fill:var(--background);stroke:var(--foreground);stroke-width:1.2;}.d06-board .robot-wheel,.d06-board .bike-wheel{fill:var(--background);stroke:var(--foreground);stroke-width:1.2;}.d06-board .bike{fill:none;stroke:var(--foreground);stroke-width:1.2;}.d06-board .bench{stroke:var(--foreground);stroke-width:2;}.d06-board .station-cue{stroke:var(--foreground);stroke-width:1.2;}.d06-board .feeling{font-size:10px;fill:var(--muted-foreground)!important;}.d06-board .scenario{font-size:10px;fill:var(--viz-series-1)!important;font-weight:500;letter-spacing:.08em;}.d06-board .microcap{font-size:10px;fill:var(--muted-foreground)!important;letter-spacing:.08em;}.d06-board .section{font-size:11px;letter-spacing:.12em;font-weight:500;fill:var(--muted-foreground)!important;}.d06-board .rule{stroke:var(--border);stroke-width:1;}.d06-board .pullquote{font-size:19px;font-weight:500;}.d06-board .rel-time{font-size:11px;fill:var(--viz-series-1)!important;font-weight:500;}.d06-board .relation{font-size:12px;font-weight:500;letter-spacing:.06em;}.d06-board .midnight{fill:none;stroke:var(--viz-series-1);stroke-width:2;}.d06-board .end-title{font-size:13px;font-weight:500;}
+@media(max-width:620px){#d06-storyboard .d06-head{flex-direction:column;align-items:flex-start;gap:6px;}#d06-storyboard .d06-lead{text-align:left;}}
+#d06-storyboard .export-kicker{font-family:Arial,sans-serif;font-size:12px;font-weight:500;letter-spacing:.08em;fill:var(--viz-series-3)}
+#d06-storyboard .export-title{font-family:Arial,sans-serif;font-size:24px;font-weight:500;fill:var(--foreground)}
+#d06-storyboard .export-lead{font-family:Arial,sans-serif;font-size:13px;fill:var(--muted-foreground);text-anchor:end}]]></style><text x="0" y="-72" class="export-kicker">D06｜JINGZHANG 24H</text><text x="0" y="-42" class="export-title">人的24小时叙事板｜一个人的一天</text><text x="100%" y="-58" class="export-lead">林岚，35岁，AI产品与场景验证从业者。</text>
+      <marker id="d06-arrow" viewBox="0 -100 1200 870" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0L10,5L0,10Z" fill="var(--viz-series-1)"/></marker>
+      <pattern id="d06-hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="var(--border)" stroke-width="1"/></pattern>
+    </defs>
+
+    <!-- timeline -->
+    <path class="spine-shadow" d="M62 371C148 335 200 419 280 372S430 326 500 376S646 422 719 367S871 329 947 377S1065 404 1136 351"/>
+    <path class="spine" d="M62 365C148 329 200 413 280 366S430 320 500 370S646 416 719 361S871 323 947 371S1065 398 1136 345"/>
+    <path class="spine-marker" d="M62 365C148 329 200 413 280 366S430 320 500 370S646 416 719 361S871 323 947 371S1065 398 1136 345"/>
+    <text x="62" y="396" class="spine-label">JINGZHANG · 连续公共线</text>
+
+    <!-- 1 07:30 -->
+    <g transform="translate(40,70)">
+      <text x="0" y="0" class="time">07:30</text><text x="0" y="25" class="scene-title">城市醒来</text><text x="0" y="44" class="scene-sub">家人｜第一段通勤</text>
+      <rect class="scene-field" x="0" y="61" width="176" height="188"/>
+      <path class="building" d="M13 162V99H63V162M70 162V79H137V162"/>
+      <path class="window" d="M24 112H52M24 126H52M82 95H125M82 111H125M82 127H125"/>
+      <path class="walk" d="M0 184C40 174 105 197 176 178"/>
+      <circle class="tree" cx="151" cy="125" r="19"/><path class="trunk" d="M151 140V174"/>
+      <g transform="translate(70,151)"><circle class="lan" cx="0" cy="0" r="8"/><path class="lan-body" d="M-7 11L-12 39H12L7 11"/><path class="lan-bag" d="M8 17L19 26"/></g>
+      <g transform="translate(103,157)"><circle class="child" cx="0" cy="0" r="6"/><path class="child-body" d="M-5 8L-8 29H8L5 8"/><path class="child-step" d="M6 28L17 34"/></g>
+      <g transform="translate(43,157)"><circle class="elder" cx="0" cy="0" r="6"/><path class="elder-body" d="M-5 8L-7 27H7L5 8"/></g>
+      <text x="15" y="228" class="feeling">女儿走在前面，她不需要提醒。</text>
+    </g>
+
+    <!-- 2 09:00 -->
+    <g transform="translate(230,25)">
+      <text x="0" y="0" class="time">09:00</text><text x="0" y="25" class="scene-title">知识流动</text><text x="0" y="44" class="scene-sub">协作｜高校合作伙伴</text>
+      <rect class="scene-field" x="0" y="61" width="176" height="188"/>
+      <path class="campus" d="M18 161V107L56 82L94 107V161"/><path class="window" d="M31 116H44M67 116H80M31 132H44M67 132H80"/>
+      <path class="crossing" d="M0 175H176"/><path class="crossing-line" d="M48 162V183M64 162V183M80 162V183M96 162V183M112 162V183"/>
+      <path class="marker" d="M139 89V165"/><path class="marker-cap" d="M132 89H146"/>
+      <g transform="translate(105,151)"><circle class="lan" cx="0" cy="0" r="8"/><path class="lan-body" d="M-7 11L-12 39H12L7 11"/><path class="lan-bag" d="M8 17L19 26"/></g>
+      <g transform="translate(127,153)"><circle class="partner" cx="0" cy="0" r="8"/><path class="partner-body" d="M-7 11L-12 39H12L7 11"/></g>
+      <path class="meeting" d="M96 176C108 168 123 168 136 176"/>
+      <text x="15" y="213" class="microcap">历史道口 → 当代城市接口</text><text x="15" y="230" class="scenario">S04 · S05</text>
+    </g>
+
+    <!-- 3 14:00 -->
+    <g transform="translate(420,70)">
+      <text x="0" y="0" class="time">14:00</text><text x="0" y="25" class="scene-title">创新进入真实城市</text><text x="0" y="44" class="scene-sub">工作｜同事 · TEST</text>
+      <rect class="scene-field" x="0" y="61" width="176" height="188"/>
+      <path class="office" d="M12 159V85H71V159M78 159V111H137V159"/><path class="window" d="M22 99H60M22 115H60M22 131H60M88 124H126M88 140H126"/>
+      <path class="shared-lane" d="M0 177C43 159 100 189 176 174"/><path class="shared-dash" d="M12 174L28 170M46 168L62 168M84 172L100 176M121 181L137 180"/>
+      <circle class="tree" cx="151" cy="125" r="18"/><path class="trunk" d="M151 140V169"/>
+      <g transform="translate(93,152)"><circle class="lan" cx="0" cy="0" r="8"/><path class="lan-body" d="M-7 11L-12 39H12L7 11"/><path class="lan-bag" d="M8 17L19 26"/></g>
+      <g transform="translate(69,153)"><circle class="partner" cx="0" cy="0" r="8"/><path class="partner-body" d="M-7 11L-12 39H12L7 11"/></g>
+      <rect class="robot" x="119" y="166" width="18" height="12" rx="2"/><circle class="robot-wheel" cx="123" cy="180" r="3"/><circle class="robot-wheel" cx="133" cy="180" r="3"/>
+      <circle class="small-person" cx="40" cy="165" r="5"/><path class="small-body" d="M36 172L33 188H47L44 172"/>
+      <text x="15" y="213" class="feeling">人们照常经过，她反而松了一口气。</text><text x="15" y="230" class="scenario">S01 · S02 · S03</text>
+    </g>
+
+    <!-- 4 18:00 major -->
+    <g transform="translate(610,22)">
+      <text x="0" y="0" class="time major-time">18:00</text><text x="0" y="27" class="scene-title major-title">穿过京张</text><text x="0" y="47" class="scene-sub">FLOW｜一线 · 多口 · 分速</text>
+      <rect class="scene-field focus-field" x="0" y="63" width="238" height="236"/>
+      <path class="green-edge" d="M0 189C45 157 97 203 145 177S195 184 238 156V236H0Z"/>
+      <path class="main-path" d="M0 210C38 176 79 220 118 191S181 178 238 205"/>
+      <path class="bike-path" d="M0 228C49 193 85 237 127 208S186 197 238 218"/>
+      <path class="cross-path" d="M47 99V204M131 89V194M194 109V195"/>
+      <path class="city-block" d="M6 118H43V163H6ZM151 91H187V142H151ZM200 112H232V156H200Z"/>
+      <path class="marker" d="M116 90V175"/><path class="marker-cap" d="M109 90H123"/>
+      <circle class="tree" cx="28" cy="157" r="17"/><path class="trunk" d="M28 170V202"/><circle class="tree" cx="211" cy="170" r="18"/><path class="trunk" d="M211 183V209"/>
+      <g transform="translate(116,184)"><circle class="lan" cx="0" cy="0" r="8"/><path class="lan-body" d="M-7 11L-12 39H12L7 11"/><path class="lan-bag" d="M8 17L19 26"/></g>
+      <path class="bike" d="M135 210q8-15 16 0m-4-10h8m-9 0l-4-9"/><circle class="bike-wheel" cx="137" cy="212" r="6"/><circle class="bike-wheel" cx="154" cy="212" r="6"/>
+      <circle class="small-person" cx="77" cy="197" r="5"/><path class="small-body" d="M73 204L70 220H84L81 204"/>
+      <circle class="small-person" cx="173" cy="186" r="5"/><path class="small-body" d="M169 193L166 209H180L177 193"/>
+      <text x="14" y="274" class="feeling">疲惫之后，路径不再要求她反复判断方向。</text><text x="14" y="289" class="scenario">S06 · S04 延续</text>
+    </g>
+
+    <!-- 5 20:00 -->
+    <g transform="translate(865,70)">
+      <text x="0" y="0" class="time">20:00</text><text x="0" y="25" class="scene-title">城市被共享</text><text x="0" y="44" class="scene-sub">社交｜朋友 · COMMONS</text>
+      <rect class="scene-field" x="0" y="61" width="176" height="188"/>
+      <path class="commons-ground" d="M0 176C33 153 81 190 121 163S150 168 176 158V188H0Z"/>
+      <path class="bench" d="M30 150H76M36 150V163M70 150V163"/>
+      <circle class="tree" cx="137" cy="122" r="20"/><path class="trunk" d="M137 138V173"/>
+      <circle class="tree" cx="18" cy="140" r="16"/><path class="trunk" d="M18 154V177"/>
+      <g transform="translate(85,151)"><circle class="lan" cx="0" cy="0" r="8"/><path class="lan-body" d="M-7 11L-12 39H12L7 11"/><path class="lan-bag" d="M8 17L19 26"/></g>
+      <g transform="translate(106,151)"><circle class="friend" cx="0" cy="0" r="8"/><path class="friend-body" d="M-7 11L-12 39H12L7 11"/></g>
+      <circle class="small-person" cx="48" cy="168" r="5"/><path class="small-body" d="M44 175L41 189H55L52 175"/>
+      <path class="bike" d="M151 176q8-15 16 0m-4-10h8m-9 0l-4-9"/><circle class="bike-wheel" cx="153" cy="178" r="6"/><circle class="bike-wheel" cx="170" cy="178" r="6"/>
+      <text x="15" y="213" class="feeling">原本半小时，回神时已经过去很久。</text><text x="15" y="230" class="scenario">S07</text>
+    </g>
+
+    <!-- 6 20:30 23:30 -->
+    <g transform="translate(1055,25)">
+      <text x="0" y="0" class="time">20:30–23:30</text><text x="0" y="25" class="scene-title">创新融入城市生活</text><text x="0" y="44" class="scene-sub">交流｜大钟寺 · INTEGRATE</text>
+      <rect class="scene-field" x="0" y="61" width="125" height="188"/>
+      <path class="integrate-building" d="M10 158V91H56V158M61 158V112H112V158"/><path class="window" d="M18 105H48M18 121H48M18 137H48M69 125H103M69 141H103"/>
+      <path class="commons-ground" d="M0 176C28 158 63 181 89 165S105 168 125 160V188H0Z"/>
+      <path class="station-cue" d="M8 167H34M12 167V151M30 167V151"/>
+      <g transform="translate(66,151)"><circle class="lan" cx="0" cy="0" r="8"/><path class="lan-body" d="M-7 11L-12 39H12L7 11"/><path class="lan-bag" d="M8 17L19 26"/></g>
+      <g transform="translate(86,151)"><circle class="visitor" cx="0" cy="0" r="8"/><path class="partner-body" d="M-7 11L-12 39H12L7 11"/></g>
+      <circle class="small-person" cx="45" cy="168" r="5"/><path class="small-body" d="M41 175L38 189H52L49 175"/>
+      <text x="10" y="213" class="feeling">上班与生活之间，没有突然的断裂。</text><text x="10" y="230" class="scenario">S08 · S09</text>
+    </g>
+
+    <!-- bottom editorial reading -->
+    <g transform="translate(40,466)">
+      <path class="rule" d="M0 0H1120"/>
+      <text x="0" y="32" class="section">同一天，同一座连续的城市</text>
+      <text x="0" y="58" class="pullquote">她不是在不同的“功能区”之间跳跃，而是在同一座城市里继续生活。</text>
+      <g transform="translate(0,96)"><text x="0" y="0" class="rel-time">07:30</text><text x="0" y="20" class="relation">家人</text><text x="0" y="39" class="relation-sub">家人</text></g>
+      <g transform="translate(180,96)"><text x="0" y="0" class="rel-time">09:00</text><text x="0" y="20" class="relation">协作</text><text x="0" y="39" class="relation-sub">高校合作伙伴</text></g>
+      <g transform="translate(410,96)"><text x="0" y="0" class="rel-time">14:00</text><text x="0" y="20" class="relation">工作</text><text x="0" y="39" class="relation-sub">同事</text></g>
+      <g transform="translate(620,96)"><text x="0" y="0" class="rel-time">20:00</text><text x="0" y="20" class="relation">社交</text><text x="0" y="39" class="relation-sub">朋友</text></g>
+      <g transform="translate(825,96)"><text x="0" y="0" class="rel-time">21:30</text><text x="0" y="20" class="relation">交流</text><text x="0" y="39" class="relation-sub">国际合作来访者</text></g>
+    </g>
+    <g transform="translate(932,652)">
+      <path class="midnight" d="M0 0H120" marker-end="url(#d06-arrow)"/>
+      <text x="0" y="-14" class="microcap">23:30</text><text x="141" y="-14" class="microcap">00:00</text>
+      <text x="141" y="6" class="end-title">城市继续学习</text><text x="141" y="23" class="end-sub">→ D07 LEARNING</text>
+    </g>
+  </svg>

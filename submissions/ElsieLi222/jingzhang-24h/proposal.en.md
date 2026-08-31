@@ -72,7 +72,7 @@ The two timelines are related but not identical: the protagonist helps us see th
 
 **[FIGURE D06｜Human 24H Storyboard｜DRAWING TODO]**
 
-**[FIGURE D07｜Urban Learning System｜DRAWING TODO]**
+See D07 in Part 9 — Urban Learning System.
 
 ## 2.2 The Centennial Jingzhang Spine + Three Districts and Two Wings
 
@@ -102,7 +102,7 @@ FLOW remains deliberately quiet. Continuous walking routes, accessible movement,
 
 This is JINGZHANG 24H’s starting point: technology recedes behind everyday life, and the city first remains a city that can be used naturally. No independent AI Scenario is assigned to 07:30. Stable, ordinary, undisturbed use is the baseline for later urban learning. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D06]
 
-**[FIGURE D06-A｜07:30 The City Wakes｜DRAWING TODO]**
+![FIGURE D06｜Human 24H Storyboard](assets/figures/D06-human-24h-storyboard.en.png)
 
 # PART 4 | 09:00 — KNOWLEDGE FLOWS
 
@@ -120,7 +120,7 @@ The railway crossing gains contemporary meaning: **Historical Crossing → Conte
 
 **[FIGURE D03｜N3 ORIGIN × FLOW｜DRAWING TODO]**
 
-**[FIGURE D06-A｜09:00 Knowledge Flows｜DRAWING TODO]**
+See D06 — Human 24H Storyboard (09:00 Knowledge Flows).
 
 # PART 5 | 14:00 — INNOVATION MEETS THE CITY
 
@@ -136,7 +136,7 @@ This node hosts S01 mobile-robot urban passage, S02 accessible navigation and sp
 
 **[FIGURE D02｜N1 TEST｜Controlled → Shared → Urban｜DRAWING TODO]**
 
-**[FIGURE D06-A｜14:00 Innovation Meets the Real City｜DRAWING TODO]**
+See D06 — Human 24H Storyboard (14:00 Innovation Meets the Real City).
 
 # PART 6 | 18:00 — THE CITY IN MOTION
 
@@ -150,7 +150,7 @@ This is FLOW’s fullest urban experience. **One line · multiple interfaces · 
 
 LINE, CROSSING, STATION-NODE, and JINGZHANG MARKER provide light continuity so users recognize the same spine across changing urban fragments. Railway culture becomes orientation, nodes, and connection rather than decoration. S06 coordinates transit arrival, bicycle parking, and subsequent slow movement; S04 observations continue to inform operational adjustment. For Lin Lan, the outcome is simple: she does not need to relearn the city along the way. Precise mileage, identifiers, railway remnants, and geographic relations remain TO VERIFY. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D06] [scenario:S06] [scenario:S04]
 
-**[FIGURE D06-A｜18:00 Through Jingzhang｜DRAWING TODO]**
+See D06 — Human 24H Storyboard (18:00 Through Jingzhang).
 
 **[FIGURE｜FLOW｜One Line · Multiple Interfaces · Differentiated Speeds｜DRAWING TODO]**
 
@@ -166,7 +166,7 @@ Lin Lan and her friend intend only a brief meeting, but much longer passes. The 
 
 **[FIGURE D04｜JINGZHANG COMMONS NETWORK｜DRAWING TODO]**
 
-**[FIGURE D06-A｜20:00 The City Becomes Common｜DRAWING TODO]**
+See D06 — Human 24H Storyboard (20:00 The City Becomes Common).
 
 # PART 8 | 20:00–23:30 — INNOVATION BECOMES URBAN LIFE
 
@@ -184,7 +184,7 @@ At 23:30 Lin Lan’s day ends, without an abrupt boundary between work and life.
 
 **[FIGURE D05｜N7 INTEGRATE｜Continuous Dazhongsi Urban Centre｜DRAWING TODO]**
 
-**[FIGURE D06-A｜20:30–23:30 Innovation Becomes Urban Life｜DRAWING TODO]**
+See D06 — Human 24H Storyboard (20:30–23:30 Innovation Becomes Urban Life).
 
 # PART 9 | 00:00 — THE PERSON RESTS, THE CITY LEARNS
 
@@ -229,7 +229,7 @@ It considers five categories: **FLOW**—movement, access, detours, transfers, w
 
 Midnight is not when learning begins; it has occurred all day. At 00:00, FLOW, TEST, COMMONS, INTEGRATE, and HUMAN FEEDBACK are reviewed together. The city asks whether an issue should be adjusted now, watched, tested again, or escalated into longer-term spatial change. This produces ADJUST NOW, KEEP WATCHING, TEST AGAIN, and ESCALATE. The city does not reproduce yesterday; review changes the next operating state. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
 
-**[FIGURE D07｜Urban Learning System｜DRAWING TODO]**
+![FIGURE D07｜Urban Learning System](assets/figures/D07-learning-system.en.png)
 
 ### 9.3 FAST LOOP × SLOW LOOP
 
@@ -269,7 +269,7 @@ LEARNING does not transfer city decisions to AI. AI can identify patterns, predi
 
 JINGZHANG 24H does not measure success through one “smartness” score. It continuously observes **ACCESS**—whether people with different ages, abilities, and travel modes can enter and move through the city; **SAFETY**—whether speeds, uses, and tests coexist safely; **VITALITY**—whether space is genuinely used at appropriate times rather than constantly programmed; and **INCLUSION**—whether families, industry, universities, communities, public services, and international visitors can enter one urban system. These are not fabricated instant scores but observation dimensions across days, weeks, and years. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
 
-**[FIGURE D07｜YEAR LOOP / Learning System｜DRAWING TODO]**
+See D07 in Part 9 — Urban Learning System (including the YEAR LOOP).
 
 **[FIGURE D04｜COMMONS Time Sharing｜DRAWING TODO]**
 
@@ -283,7 +283,7 @@ Lin Lan’s day is one path through JINGZHANG 24H. The same corridor is used dif
 
 Family, friends, colleagues, collaborators, and international guests are relationship-network terms, not extra persona categories. Different people do not require different cities; they can live at different rhythms within one urban system. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D06]
 
-**[FIGURE D06-B｜One Day, Many People / Persona Relationship Network｜DRAWING TODO]**
+See the relationship-person index at the bottom of D06 — Human 24H Storyboard; no separate D06-B crop is asserted.
 
 # PART 12 | DESIGN EVIDENCE & COMPLIANCE
 

@@ -72,7 +72,7 @@ JINGZHANG 24H中的“24H”并不只指一个人的时间表。方案同时存�
 
 **[FIGURE D06｜一个人的一天 / Human 24H Storyboard｜DRAWING TODO]**
 
-**[FIGURE D07｜城市学习系统 / Learning System｜DRAWING TODO]**
+参见 Part 9 图 D07｜城市学习系统。
 
 ## 2.2 百年京张轴 + 三区两翼
 
@@ -104,7 +104,7 @@ FLOW在这里保持克制。连续步行、无障碍通行、清晰的横向接�
 
 这也是JINGZHANG 24H的起点：技术首先退到生活之后，城市首先成为可以被自然使用的城市。这一时段不设置独立AI Scenario。普通、稳定、不被技术打扰的日常使用本身，就是之后所有城市学习的基础。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D06]
 
-**[FIGURE D06-A｜07:30 城市醒来 / Human 24H Storyboard｜DRAWING TODO]**
+![FIGURE D06｜人的24小时叙事板](assets/figures/D06-human-24h-storyboard.zh.png)
 
 # PART 4｜09:00 — 知识流动
 
@@ -122,7 +122,7 @@ JINGZHANG 24H不提出将高校核心科研空间全面向城市开放。真正�
 
 **[FIGURE D03｜N3 ORIGIN × FLOW｜五道口当代城市接口｜DRAWING TODO]**
 
-**[FIGURE D06-A｜09:00 知识流动｜DRAWING TODO]**
+参见图 D06｜人的24小时叙事板（09:00 知识流动）。
 
 # PART 5｜14:00 — 创新进入真实城市
 
@@ -138,7 +138,7 @@ JINGZHANG 24H不提出将高校核心科研空间全面向城市开放。真正�
 
 **[FIGURE D02｜N1 TEST｜Controlled → Shared → Urban｜DRAWING TODO]**
 
-**[FIGURE D06-A｜14:00 创新进入真实城市｜DRAWING TODO]**
+参见图 D06｜人的24小时叙事板（14:00 创新进入真实城市）。
 
 # PART 6｜18:00 — 城市流动
 
@@ -152,7 +152,7 @@ JINGZHANG 24H不提出将高校核心科研空间全面向城市开放。真正�
 
 沿线的LINE、CROSSING、STATION-NODE与JINGZHANG MARKER形成轻量连续识别，使使用者在不同城市片段之间仍然知道自己处在同一条京张上。铁路文化因此不是装饰，而成为方向、节点和连接方式的一部分。S06在轨道到达、自行车停放与后续慢行之间提供协同；S04所形成的多模式移动观察也继续作用于FLOW的运营调整。但对林岚而言，这些机制最终只形成一种简单感受：一路不用重新理解这座城市。具体里程、编号、铁路遗存和地理关系仍为 TO VERIFY。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D06] [scenario:S06] [scenario:S04]
 
-**[FIGURE D06-A｜18:00 穿过京张｜DRAWING TODO]**
+参见图 D06｜人的24小时叙事板（18:00 穿过京张）。
 
 **[FIGURE｜FLOW｜一线·多口·分速｜DRAWING TODO]**
 
@@ -168,7 +168,7 @@ COMMONS通过三个基本动作展开：**打开边界 · 复用时间 · 混合
 
 **[FIGURE D04｜JINGZHANG COMMONS NETWORK｜DRAWING TODO]**
 
-**[FIGURE D06-A｜20:00 城市被共享｜DRAWING TODO]**
+参见图 D06｜人的24小时叙事板（20:00 城市被共享）。
 
 # PART 8｜20:00–23:30 — 创新融入城市生活
 
@@ -186,7 +186,7 @@ COMMONS通过三个基本动作展开：**打开边界 · 复用时间 · 混合
 
 **[FIGURE D05｜N7 INTEGRATE｜大钟寺连续城市中心｜DRAWING TODO]**
 
-**[FIGURE D06-A｜20:30–23:30 创新融入城市生活｜DRAWING TODO]**
+参见图 D06｜人的24小时叙事板（20:30–23:30 创新融入城市生活）。
 
 # PART 9｜00:00 — 人休息，城市继续学习
 
@@ -231,7 +231,7 @@ D07 以整体城市学习机制为主体，空间案例只作为机制有效性�
 
 00:00不是城市开始学习的时刻；学习已经发生了一整天。午夜将FLOW、TEST、COMMONS、INTEGRATE与HUMAN FEEDBACK集中复盘，不把所有问题立刻变成建设项目，而先判断：是否现在处理、继续观察、重新测试，或已持续到需要长期空间调整。由此产生 ADJUST NOW、KEEP WATCHING、TEST AGAIN、ESCALATE 四类结果。城市不是每天复制昨天，而是在复盘后进入更合适的下一次运行状态。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
 
-**[FIGURE D07｜LEARNING 城市学习系统｜DRAWING TODO]**
+![FIGURE D07｜LEARNING 城市学习系统](assets/figures/D07-learning-system.zh.png)
 
 ### 9.3 FAST LOOP × SLOW LOOP
 
@@ -271,7 +271,7 @@ LEARNING不把城市决策交给AI。AI可以识别模式、预测趋势、比�
 
 JINGZHANG 24H不以单一“智能化程度”评价成功，而通过四个持续维度观察：**ACCESS｜可达性**，不同年龄、能力和出行方式是否更容易进入和穿过城市；**SAFETY｜安全性**，不同速度、使用状态和测试活动是否安全共存；**VITALITY｜活力**，空间是否在适合时间被真实使用而非依赖持续活动填充；**INCLUSION｜包容性**，家庭、产业、高校、社区、公共服务与国际访客是否都能进入同一套城市系统。这些维度不被伪造成即时评分，而是跨日、跨周、跨年的持续观察框架。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
 
-**[FIGURE D07｜YEAR LOOP / Learning System｜DRAWING TODO]**
+参见 Part 9 图 D07｜LEARNING 城市学习系统（含 YEAR LOOP）。
 
 **[FIGURE D04｜COMMONS Time Sharing｜DRAWING TODO]**
 
@@ -285,7 +285,7 @@ JINGZHANG 24H不以单一“智能化程度”评价成功，而通过四个持�
 
 “家人”“朋友”“同事”“合作伙伴”“国际来访者”只是林岚一天中的关系网络，而不是新的用户类别。不同的人不需要被分配到不同城市；他们能以不同身份和节奏共同生活于同一套城市系统。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D06]
 
-**[FIGURE D06-B｜One Day, Many People / Persona Relationship Network｜DRAWING TODO]**
+参见图 D06｜人的24小时叙事板底部的关系人物索引；不另设D06-B局部文件。
 
 # PART 12｜设计证据与专业回应
 

@@ -57,21 +57,31 @@
     {
       "id": "D06",
       "title": "Human 24H Storyboard",
-      "status": "DRAWING TODO",
+      "status": "frozen",
       "proposal_reference": "PART 3–8",
-      "evidence_status": "DRAWING TODO",
+      "proposal_sections": ["PART 3", "PART 4", "PART 5", "PART 6", "PART 7", "PART 8", "PART 11"],
+      "evidence_status": "FROZEN DRAWING",
       "drawing_type": "editorial / timeline / conceptual scenes",
-      "production_method_note": "Human 24H storyboard; detailed storyboard remains CONTENT TODO.",
+      "production_method_note": "Frozen single continuous Human 24H storyboard. Embed once at PART 3; later times use cross-references. No unprovided D06-A or D06-B crops are asserted.",
+      "language_variants": [
+        {"language_variant":"zh","png_path":"assets/figures/D06-human-24h-storyboard.zh.png","svg_source":"assets/figures/D06-human-24h-storyboard.zh.svg","status":"frozen"},
+        {"language_variant":"en","png_path":"assets/figures/D06-human-24h-storyboard.en.png","svg_source":"assets/figures/D06-human-24h-storyboard.en.svg","status":"frozen"}
+      ],
       "cultural_requirement": "At 18:00, use continuous recognition language (marker/crossing/confirmed remnant/direction/node) without turning the story into heritage tourism."
     },
     {
       "id": "D07",
       "title": "LEARNING / BEFORE → LEARN → AFTER",
-      "status": "DRAWING TODO",
+      "status": "frozen",
       "proposal_reference": "PART 9",
-      "evidence_status": "DRAWING TODO",
+      "proposal_sections": ["PART 2", "PART 9", "PART 10"],
+      "evidence_status": "FROZEN DRAWING",
       "drawing_type": "system diagram",
-      "production_method_note": "D07-A Overall Loop; D07-B FAST LOOP × SLOW LOOP; D07-C N1/N3/N7 evidence cases; D07-D Annual Loop.",
+      "production_method_note": "Frozen LEARNING system drawing: DAILY REVIEW, FAST LOOP × SLOW LOOP, test first then adapt, N1/N3/N7 learning evidence, and YEAR LOOP. It is not a metrics-evidence figure.",
+      "language_variants": [
+        {"language_variant":"zh","png_path":"assets/figures/D07-learning-system.zh.png","svg_source":"assets/figures/D07-learning-system.zh.svg","status":"frozen"},
+        {"language_variant":"en","png_path":"assets/figures/D07-learning-system.en.png","svg_source":"assets/figures/D07-learning-system.en.svg","status":"frozen"}
+      ],
       "cultural_requirement": "Use only where genuinely spatially or systemically relevant; do not mechanically repeat culture."
     },
     {

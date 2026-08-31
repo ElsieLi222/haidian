@@ -18,6 +18,12 @@
       "status": "pending_professional_confirmation",
       "statement": "The Frozen Design Spec fixes framework, personas, scenario titles, and drawing identifiers, but full cards, storyboard, drawings, technical controls, and source evidence remain incomplete.",
       "impact": "Only frozen design logic may be stated as PROPOSAL. Existing-condition and statutory claims remain FACT / UNKNOWN / TO VERIFY according to evidence governance."
+    },
+    {
+      "id": "A-LEARNING-001",
+      "status": "pending_professional_confirmation",
+      "statement": "LEARNING v2.0 establishes an overall city-learning mechanism and illustrative N1/N3/N7 evidence cases; it does not establish measured performance, confirmed data pipelines, implementation authority, or exact spatial interventions.",
+      "impact": "Use PROPOSAL for mechanism statements and DATA TODO / TO VERIFY for datasets, thresholds, locations, and implementation scope."
     }
   ]
 }

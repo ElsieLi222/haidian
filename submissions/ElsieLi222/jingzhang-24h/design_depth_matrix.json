@@ -431,7 +431,11 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "CONTENT TODO / DRAWING TODO / DATA TODO：已建立专业深度证据映射，待确认设计内容、图纸和可复算数据补入。"
+      "evidence_summary_zh": "CONTENT TODO / DRAWING TODO / DATA TODO：LEARNING v2.0 已建立整体闭环、双时间尺度及四类结果的冻结机制；空间、数据、图纸和指标仍待补齐。",
+      "frozen_learning_v2_refs": [
+        "PART 9",
+        "D07"
+      ]
     },
     {
       "item_id": "municipal_new_infrastructure",
@@ -593,7 +597,11 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "CONTENT TODO / DRAWING TODO / DATA TODO：已建立专业深度证据映射，待确认设计内容、图纸和可复算数据补入。"
+      "evidence_summary_zh": "CONTENT TODO / DRAWING TODO / DATA TODO：LEARNING v2.0 已建立整体闭环、双时间尺度及四类结果的冻结机制；空间、数据、图纸和指标仍待补齐。",
+      "frozen_learning_v2_refs": [
+        "PART 9",
+        "D07"
+      ]
     },
     {
       "item_id": "renewal_project_list",
@@ -701,7 +709,11 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "CONTENT TODO / DRAWING TODO / DATA TODO：已建立专业深度证据映射，待确认设计内容、图纸和可复算数据补入。"
+      "evidence_summary_zh": "CONTENT TODO / DRAWING TODO / DATA TODO：LEARNING v2.0 已建立整体闭环、双时间尺度及四类结果的冻结机制；空间、数据、图纸和指标仍待补齐。",
+      "frozen_learning_v2_refs": [
+        "PART 9",
+        "D07"
+      ]
     },
     {
       "item_id": "metrics_recalculation",
@@ -809,7 +821,11 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "CONTENT TODO / DRAWING TODO / DATA TODO：已建立专业深度证据映射，待确认设计内容、图纸和可复算数据补入。"
+      "evidence_summary_zh": "CONTENT TODO / DRAWING TODO / DATA TODO：LEARNING v2.0 已建立整体闭环、双时间尺度及四类结果的冻结机制；空间、数据、图纸和指标仍待补齐。",
+      "frozen_learning_v2_refs": [
+        "PART 9",
+        "D07"
+      ]
     }
   ]
 }

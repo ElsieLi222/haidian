@@ -84,7 +84,34 @@ CONTENT TODO
 
 ## LEARNING
 
-CONTENT TODO. The frozen loop is SENSE → RESPOND → TEST → FEEDBACK → LEARN → ADAPT, with FAST LOOP / SLOW LOOP and the principle “test first, then revise.”
+00:00 is not when the city starts learning. It is the **DAILY REVIEW**—the narrative handover from Lin Lan’s day to the city. SENSE, RESPOND / JUDGE, TEST, and FEEDBACK continue throughout the day; midnight gathers and assesses the day’s feedback so the adjusted city can operate again on DAY N+1. [source:FROZEN-DESIGN-SPEC-V1] [depth:risk_missing_data]
+
+### DAY N → DAILY REVIEW → DAY N+1
+
+Throughout DAY N, FLOW, TEST, COMMONS, and INTEGRATE generate use, testing, operational, and public feedback. The 00:00 DAILY REVIEW is not a uniform “AI optimization.” It reviews this information together with real human feedback: voluntary public feedback, operational records, site observation, enterprise/university feedback, and community views must all enter a traceable judgement process. AI may support pattern recognition, prediction, matching, comparison, coordination, and trend discovery; people and governance retain major decision rights. [source:FROZEN-DESIGN-SPEC-V1] [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK]
+
+The review covers:
+
+- FLOW: walking, cycling, transfers, entry use, detours, waiting, potential speed conflicts, and naturally chosen routes at different times;
+- TEST: T1/T2/T3 feedback, product issues, light, weather, surface, crowds, recurring anomalies, and whether they expose a real urban-space problem;
+- COMMONS: SPACE × TIME × PEOPLE across morning, midday, and evening, including effective sharing, low use, noise, safety, and capacity;
+- INTEGRATE: continuity across industry, transport, commerce, community, and public life; day–evening state changes, first-time visitor legibility, and continuity between daytime and evening experience;
+- HUMAN FEEDBACK: data does not replace people’s use and views.
+
+### Four outcomes
+
+1. **ADJUST NOW**: low-risk operational changes—wayfinding, opening hours, testing periods, bicycle dispatch—within the FAST LOOP.
+2. **KEEP WATCHING**: where evidence is insufficient, do not build immediately; observe the next day, week, or longer.
+3. **TEST AGAIN**: return the issue to the next TEST cycle and verify whether the operational or spatial adjustment works.
+4. **ESCALATE**: only persistent issues enter facility optimization, micro-renewal, and, where necessary, strategic adjustment.
+
+The FAST LOOP works across minutes, hours, and the next day; the SLOW LOOP works across weeks, months, and years. The frozen intervention gradient is operations → facilities → micro-renewal → strategic adjustment, governed by “test first, then revise” and Minimum Intervention. No fabricated ACCESS, SAFETY, VITALITY, or INCLUSION scores may be made without real data; blanket facial recognition and long-term individual tracking are not assumed. Anonymous aggregate data, environmental data, facility-operation data, voluntary feedback, and site observation take priority. [source:FROZEN-DESIGN-SPEC-V1] [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK]
+
+### Spatial evidence: learning produces spatial consequences
+
+D07 is led by the overall city-learning mechanism; spatial cases only evidence that mechanism. At N1, accessibility moves from “AI helps users detour” to recognizing persistent barriers and repairing space. At N3 Wudaokou, operational adjustment at a high-intensity multimodal interface can lead to micro-renewal only for persistent issues. At N7 Dazhongsi, day–evening–night demand supports time-based operation and, where issues persist, spatial adjustment. Exact spaces, data, and implementation scope remain DATA TODO / TO VERIFY. [source:FROZEN-DESIGN-SPEC-V1]
+
+The annual learning loop is NORMAL → JINGZHANG 24H OPEN DAY → REVIEW → NEXT. Open Day belongs to PART 10 as an annual COMMONS peak and LEARNING stress test; it is not an AI Scenario in an ordinary day. [source:FROZEN-DESIGN-SPEC-V1] [depth:phasing_implementation]
 
 # PART 10 | BEYOND ONE DAY
 

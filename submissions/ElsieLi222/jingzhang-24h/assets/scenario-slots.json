@@ -1,0 +1,16 @@
+{
+  "status": "CONTENT TODO",
+  "note": "Slots only. S04–S10+ must not be treated as proposed scenarios until frozen design content is supplied.",
+  "scenarios": [
+    {"id": "S01", "title_zh": "移动机器人城市通行验证", "title_en": "Urban Mobility Validation for Mobile Robots", "status": "CONTENT TODO"},
+    {"id": "S02", "title_zh": "无障碍导航验证", "title_en": "Accessible Navigation Validation", "status": "CONTENT TODO"},
+    {"id": "S03", "title_zh": "公共空间环境适应验证", "title_en": "Public-space Environmental Adaptation Validation", "status": "CONTENT TODO"},
+    {"id": "S04", "status": "CONTENT TODO"},
+    {"id": "S05", "status": "CONTENT TODO"},
+    {"id": "S06", "status": "CONTENT TODO"},
+    {"id": "S07", "status": "CONTENT TODO"},
+    {"id": "S08", "status": "CONTENT TODO"},
+    {"id": "S09", "status": "CONTENT TODO"},
+    {"id": "S10", "status": "CONTENT TODO"}
+  ]
+}

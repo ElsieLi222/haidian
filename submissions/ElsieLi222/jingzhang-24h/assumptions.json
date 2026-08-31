@@ -1,0 +1,23 @@
+{
+  "schema_version": "0.1.0",
+  "assumptions": [
+    {
+      "id": "A-CONTROLS-001",
+      "status": "pending_professional_confirmation",
+      "statement": "Detailed regulatory controls, road redlines, ownership, municipal utilities, and engineering constraints must be confirmed from official attachments before statutory use.",
+      "impact": "The package can be reviewed as a formal AI submission only for provided official boundaries and submitted design layers; statutory controls still need professional confirmation."
+    },
+    {
+      "id": "A-PROVISIONAL-001",
+      "status": "pending_professional_confirmation",
+      "statement": "Submitted site and key-area geometry is scaffold-derived from the repository’s provisional source and is not an official boundary.",
+      "impact": "Recompute geometry, metrics, drawings, and visual references after official data or final upstream geometry is available."
+    },
+    {
+      "id": "A-CONTENT-001",
+      "status": "pending_professional_confirmation",
+      "statement": "The frozen framework and bilingual structure do not constitute completed design content, technical controls, or implementation commitments.",
+      "impact": "All content, drawings, scenarios, personas, and evidence must remain TODO until supplied and confirmed."
+    }
+  ]
+}

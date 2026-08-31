@@ -1,0 +1,18 @@
+{
+  "status": "CONTENT TODO",
+  "note": "Five relationship/user slots only. No final user groups, personas, needs, or spatial responses are defined in this file.",
+  "user_groups": [
+    {"id": "U01", "status": "CONTENT TODO"},
+    {"id": "U02", "status": "CONTENT TODO"},
+    {"id": "U03", "status": "CONTENT TODO"},
+    {"id": "U04", "status": "CONTENT TODO"},
+    {"id": "U05", "status": "CONTENT TODO"}
+  ],
+  "relationships": [
+    {"id": "R01", "status": "CONTENT TODO"},
+    {"id": "R02", "status": "CONTENT TODO"},
+    {"id": "R03", "status": "CONTENT TODO"},
+    {"id": "R04", "status": "CONTENT TODO"},
+    {"id": "R05", "status": "CONTENT TODO"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status": "placeholder_registry",
+  "drawings": [
+    {"id": "D01", "title": "JINGZHANG 24H Overall Framework", "status": "DRAWING TODO"},
+    {"id": "D02", "title": "N1 TEST Spatial Mechanism Plan", "status": "DRAWING TODO"},
+    {"id": "D03", "title": "N3 ORIGIN × FLOW", "status": "DRAWING TODO"},
+    {"id": "D04", "title": "N5 JINGZHANG COMMONS NETWORK", "status": "DRAWING TODO"},
+    {"id": "D05", "title": "N7 INTEGRATE", "status": "DRAWING TODO"},
+    {"id": "D06", "title": "24H Human × City Storyboard", "status": "DRAWING TODO"},
+    {"id": "D07", "title": "LEARNING / BEFORE → LEARN → AFTER", "status": "DRAWING TODO"},
+    {"id": "D08", "title": "AI Scenario Library", "status": "DRAWING TODO"}
+  ]
+}

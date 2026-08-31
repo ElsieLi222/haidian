@@ -1,3 +1,15 @@
+---
+title: "京张24H"
+author_github: "ElsieLi222"
+language: "zh"
+proposal_format_version: "2"
+bilingual_contract_version: "1"
+translation_file: "proposal.en.md"
+license: "COMMUNITY-DISPLAY-ONLY"
+summary: "一个普通人的一天揭示京张AI创新带如何通过FLOW、COMMONS与LEARNING持续连接、共享、测试与调整。"
+iteration: "v2.0.0"
+---
+
 # PART 0｜京张24H
 
 ## 方案摘要
@@ -160,3 +172,55 @@ CONTENT TODO
 # PART 12｜设计证据与专业回应
 
 CONTENT TODO：正式版本应插入 `[source:]`、`[standard:]`、`[depth:]`、`[data:]`、`[metric:]` 机器可读证据引用。
+
+## 设计依据与资料清单
+
+CONTENT TODO：本检索锚点不替代24H叙事。正式版本将把可公开或已清权的事实来源、FROZEN DESIGN SPEC中的PROPOSAL内容、现场证据、推断与UNKNOWN / TO VERIFY逐项区分。[source:SOURCE-REGISTRY] [source:FROZEN-DESIGN-SPEC-V1]
+
+## 三层范围工作框架
+
+CONTENT TODO：统筹研究范围、总体设计范围与重点区域范围将保持与百年京张轴 + 三区两翼一致，并以官方或明确provisional的空间资料说明适用边界。[source:BOUNDARY-SOURCE] [depth:three_level_scope_framework]
+
+## 统筹研究范围产业与未来城市研究
+
+CONTENT TODO：该检索锚点将回引PART 2的总体框架、AI创新生态、两翼支撑网络、文化连续性和长期运营；不以本锚点改写24H叙事。[source:AGENT-TASKBOOK] [depth:overall_spatial_structure]
+
+## 总体设计范围城市更新与控规深度城市设计
+
+CONTENT TODO：当前不声称法定控规、权属、开发量或拆改留结论。空间更新、交通、蓝绿与风貌的正式判断须由后续已确认图层、图纸和来源支持。[depth:development_intensity_controls]
+
+## 重点区域详细设计
+
+CONTENT TODO：N1 TEST、N3 ORIGIN × FLOW、N7 INTEGRATE的已冻结设计逻辑将以对应图纸和证据展开；精确重点区边界与地理关系仍为 DATA TODO / TO VERIFY。[depth:three_key_area_detailed_design]
+
+## AI 创新生态、人才画像与 AI+ 场景
+
+CONTENT TODO：P01–P05与S01–S10已登记为冻结registry；完整生态案例、Scenario Cards、运营主体、数据和人工决策信息仍待逐项补入。[source:FROZEN-DESIGN-SPEC-V1]
+
+## 用地、建筑规模与拆改留方案
+
+CONTENT TODO：没有来源支持时，容积率、高度、可开发性、拆迁与拆改留保持UNKNOWN / TO VERIFY；不得由scaffold几何升级为现状或法定事实。[depth:retain_renovate_demolish]
+
+## 交通、轨道、市政与公共服务设施
+
+CONTENT TODO：FLOW与多口、分速、引→缓→换→出属于冻结PROPOSAL；具体道路、轨道、停车、市政和服务设施关系需真实空间资料与图纸支持。[depth:traffic_rail_slow_parking]
+
+## 蓝绿空间、公共空间与城市风貌
+
+CONTENT TODO：京张文化、COMMONS与蓝绿公共空间的关系已建立为设计逻辑；实际公园、河流、建筑与风貌证据仍需核验。[depth:blue_green_public_space]
+
+## 更新项目清单、实施政策与分期计划
+
+CONTENT TODO：实施遵循“先试，再改”与最低干预原则；项目清单、政策、实施主体和法定权限未确认前不作承诺。[depth:phasing_implementation]
+
+## 指标体系、面积复算与合规矩阵
+
+CONTENT TODO：可由提交geometry复算的指标将明确标为PROVISIONAL；法定控制、提升比例或无来源的量化目标保持UNKNOWN / TO VERIFY。[metric:site_area_sqm]
+
+## 风险、版权与合规说明
+
+CONTENT TODO：冻结设计逻辑属于PROPOSAL；具体历史事实、边界、权属、交通数据和实施承诺需独立事实来源。AI辅助判断，人和治理体系保留决策权。[depth:risk_missing_data]
+
+## 参考资料
+
+CONTENT TODO：人类可读书目将在正式来源核验后补入；本阶段以`sources.json`和assumptions中的证据分类为机器索引。[source:SITE-PACKAGE]

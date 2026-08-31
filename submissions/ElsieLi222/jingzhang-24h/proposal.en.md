@@ -1,3 +1,15 @@
+---
+title: "JINGZHANG 24H"
+author_github: "ElsieLi222"
+language: "en"
+proposal_format_version: "2"
+bilingual_contract_version: "1"
+translation_of: "proposal.md"
+license: "COMMUNITY-DISPLAY-ONLY"
+summary: "One person’s ordinary day reveals how the Jingzhang AI innovation belt continually connects, shares, tests, and adapts through FLOW, COMMONS, and LEARNING."
+iteration: "v2.0.0"
+---
+
 # PART 0 | JINGZHANG 24H
 
 ## Executive Summary
@@ -160,3 +172,55 @@ CONTENT TODO
 # PART 12 | DESIGN EVIDENCE & COMPLIANCE
 
 CONTENT TODO: The formal version must include machine-readable `[source:]`, `[standard:]`, `[depth:]`, `[data:]`, and `[metric:]` evidence references.
+
+## Design Basis and Source List
+
+CONTENT TODO: This retrieval anchor does not replace the 24H narrative. The formal version will distinguish public/cleared factual sources, PROPOSAL material from the FROZEN DESIGN SPEC, field evidence, inference, and UNKNOWN / TO VERIFY. [source:SOURCE-REGISTRY] [source:FROZEN-DESIGN-SPEC-V1]
+
+## Three-Level Scope Framework
+
+CONTENT TODO: The coordinated research area, overall design area, and key-area scope will remain consistent with the Centennial Jingzhang Spine + Three Districts and Two Wings, using official or explicitly provisional spatial evidence. [source:BOUNDARY-SOURCE] [depth:three_level_scope_framework]
+
+## Coordinated Research Area: Industry and Future City Research
+
+CONTENT TODO: This anchor will retrieve PART 2’s overall framework, AI innovation ecosystem, supporting wings, cultural continuity, and long-term operations without rewriting the 24H narrative. [source:AGENT-TASKBOOK] [depth:overall_spatial_structure]
+
+## Overall Design Area: Urban Renewal and Regulatory-Plan-Level Urban Design
+
+CONTENT TODO: No statutory regulatory plan, ownership, development volume, or retain-renovate-demolish conclusion is claimed. Formal judgements require confirmed layers, drawings, and sources. [depth:development_intensity_controls]
+
+## Detailed Design of Key Areas
+
+CONTENT TODO: Frozen logic for N1 TEST, N3 ORIGIN × FLOW, and N7 INTEGRATE will be evidenced by their drawings; exact key-area boundaries and geographic relations remain DATA TODO / TO VERIFY. [depth:three_key_area_detailed_design]
+
+## AI Innovation Ecosystem, Personas, and AI+ Scenarios
+
+CONTENT TODO: P01–P05 and S01–S10 are frozen registry items. Ecosystem cases, full Scenario Cards, operators, data, and human-decision details remain to be supplied. [source:FROZEN-DESIGN-SPEC-V1]
+
+## Land Use, Building Scale, and Retain-Renovate-Demolish Strategy
+
+CONTENT TODO: FAR, heights, developability, demolition, and retain-renovate-demolish remain UNKNOWN / TO VERIFY without supporting evidence; scaffold geometry cannot become existing-condition or statutory fact. [depth:retain_renovate_demolish]
+
+## Transport, Rail, Municipal Infrastructure, and Public Services
+
+CONTENT TODO: FLOW, multiple entries, differentiated speeds, and LEAD → SLOW → SWITCH → RELEASE are frozen PROPOSAL; specific roads, rail, parking, municipal, and service relations require real spatial evidence. [depth:traffic_rail_slow_parking]
+
+## Blue-Green Network, Public Space, and Urban Character
+
+CONTENT TODO: The design logic relating Jingzhang culture, COMMONS, and blue-green public space is established; actual parks, rivers, buildings, and character evidence require verification. [depth:blue_green_public_space]
+
+## Renewal Projects, Implementation Policy, and Phasing
+
+CONTENT TODO: Implementation follows “test first, then revise” and Minimum Intervention; projects, policy, delivery bodies, and statutory authority are not committed. [depth:phasing_implementation]
+
+## Metrics, Area Recalculation, and Compliance Matrix
+
+CONTENT TODO: Metrics genuinely recalculated from submitted geometry will be marked PROVISIONAL; statutory controls, improvement percentages, and unsupported numeric targets remain UNKNOWN / TO VERIFY. [metric:site_area_sqm]
+
+## Risk, Copyright, and Compliance
+
+CONTENT TODO: Frozen design logic is PROPOSAL. Historical facts, boundaries, ownership, traffic data, and implementation promises require independent factual sources. AI supports judgement; people and governance retain decision rights. [depth:risk_missing_data]
+
+## References
+
+CONTENT TODO: Human-readable references will be added after source verification; `sources.json` and assumptions provide the machine index at this stage. [source:SITE-PACKAGE]

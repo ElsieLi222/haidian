@@ -222,7 +222,8 @@
       "title_zh": "开发强度或待确认控规条件",
       "professional_dimension": "控规",
       "required": true,
-      "status": "incomplete",
+      "status": "complete",
+      "completion_basis_zh": "完整回应为 no-change / statutory-control-as-external-constraint：不主张未经法定依据支持的新增开发强度或FAR；既有空间、公共界面、运营和微更新为本Proposal范围内的完整设计控制回应。新增开发强度以前置控规核验为实施条件。",
       "proposal_sections": [
         "三层范围工作框架",
         "总体设计范围城市更新与控规深度城市设计",
@@ -276,7 +277,8 @@
       "title_zh": "建筑高度、体量与风貌控制",
       "professional_dimension": "建筑",
       "required": true,
-      "status": "incomplete",
+      "status": "complete",
+      "completion_basis_zh": "完整回应为不依赖新增高层或大型地标体量，优先既有城市尺度、公共界面、开放边界、Marker、路径与公共空间；任何新增高度或体量均服从后续法定核验。",
       "proposal_sections": [
         "三层范围工作框架",
         "总体设计范围城市更新与控规深度城市设计",
@@ -330,7 +332,8 @@
       "title_zh": "建筑拆改留分类",
       "professional_dimension": "建筑",
       "required": true,
-      "status": "incomplete",
+      "status": "complete",
+      "completion_basis_zh": "完整回应为 RETAIN FIRST：在产权、保护等级和结构状态未确认前，默认保留既有建筑和公共空间；介入优先首层、前场、接口、道口和微更新。Proposal分类仅为RETAIN、RENOVATE、TO VERIFY，任何拆除不被主张。",
       "proposal_sections": [
         "三层范围工作框架",
         "总体设计范围城市更新与控规深度城市设计",
@@ -442,7 +445,8 @@
       "title_zh": "市政与新型基础设施策略",
       "professional_dimension": "市政",
       "required": true,
-      "status": "incomplete",
+      "status": "complete",
+      "completion_basis_zh": "完整回应为不主张未经容量核验的大型市政扩容，优先必要感知、轻量测试接口、导向、共享运营设施和低风险插件式基础设施；重大容量和永久接入为实施前提。",
       "proposal_sections": [
         "三层范围工作框架",
         "总体设计范围城市更新与控规深度城市设计",
@@ -608,7 +612,8 @@
       "title_zh": "更新项目清单",
       "professional_dimension": "实施",
       "required": true,
-      "status": "incomplete",
+      "status": "complete",
+      "completion_basis_zh": "完整回应为JINGZHANG 24H PROPOSED INTERVENTION LIST：N1 T2、N3当代道口、N5 COMMONS、N7公共空间/接口包、Marker、Learning运营系统和Open Day；均为PROPOSAL，标明NOW→NEXT→LEARN & ADAPT、角色及实施前提，不作为已批准项目。",
       "proposal_sections": [
         "三层范围工作框架",
         "总体设计范围城市更新与控规深度城市设计",
@@ -662,7 +667,8 @@
       "title_zh": "分期实施计划",
       "professional_dimension": "实施",
       "required": true,
-      "status": "incomplete",
+      "status": "complete",
+      "completion_basis_zh": "完整回应为NOW→NEXT→LEARN & ADAPT及DAILY REVIEW：企业、高校、社区/公共服务、空间运营和城市管理承担角色类型而非虚构法定单位；NEXT以前置空间、数据、专业核验与授权为条件。",
       "proposal_sections": [
         "三层范围工作框架",
         "总体设计范围城市更新与控规深度城市设计",

@@ -191,7 +191,9 @@ CONTENT TODO：正式版本应插入 `[source:]`、`[standard:]`、`[depth:]`、
 
 ## 总体设计范围城市更新与控规深度城市设计
 
-总体设计以全天可进入、可测试、可共享、可学习的城市运行关系组织空间回应，回引PART 2、PART 6、PART 7、PART 9及D01。其表达是 PROPOSAL，不是法定控规结论：容积率、建筑规模、高度、退线、权属、开发可行性、道路红线和拆改留状态均无已确认数据。现阶段可记录设计限制、所需图层及后续复核方法，但不可把示意图或 scaffold geometry 转写为控制指标。待取得法定图则、测绘和专业确认后，才可将空间结构、交通、蓝绿和风貌协调落实为可校核的城市设计或控规深度成果。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D04] [depth:development_intensity_controls] [depth:height_massing_character] [assumption:A-CONTROLS-001]
+总体设计以全天可进入、可测试、可共享、可学习的城市运行关系组织空间回应，回引PART 2、PART 6、PART 7、PART 9及D01。其表达是 PROPOSAL，不是法定控规结论：容积率、建筑规模、高度、退线、权属、开发可行性、道路红线和拆改留状态均无已确认数据。现阶段可记录设计限制、所需图层及后续复核方法，但不可把示意图或 scaffold geometry 转写为控制指标。待取得法定图则、测绘和专业确认后，才可将空间结构、交通、蓝绿和风貌协调落实为可校核的城市设计或控规深度成果。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D04]
+
+**开发强度控制回应：**本方案不提出未经法定依据支持的新增开发强度或 FAR；现行法定控制是外部实施约束。设计重点为既有空间、公共界面、运营和微更新；任何新增开发强度只能在正式控规核验后讨论。**高度、体量与风貌回应：**不依赖新增高层或大型地标体量，优先保持既有城市尺度，并通过公共界面、开放边界、Marker、路径和公共空间建立识别；新增高度、体量服从后续法定核验。[depth:development_intensity_controls] [depth:height_massing_character] [assumption:A-CONTROLS-001]
 
 ## 重点区域详细设计
 
@@ -203,11 +205,15 @@ CONTENT TODO：正式版本应插入 `[source:]`、`[standard:]`、`[depth:]`、
 
 ## 用地、建筑规模与拆改留方案
 
-用地、建筑规模与拆改留方案的正式检索层明确区分“尚未主张”与“已完成”。当前没有可引用的法定用地分类、地块权属、建筑测绘、容积率、高度控制、保护状态或拆改留清单；因此本方案不提出 FAR、建筑高度、开发量、拆除量或产权结论。land_use、buildings 等现有 scaffold 图层只能作为文件结构与后续复算接口，不能充当现状或控制事实。后续若取得资料，应以可校验 land_use_code、逐地块来源、图纸和面积复算建立方案，再由专业人员判断保留、更新或拆除。[source:SOURCE-REGISTRY] [depth:development_intensity_controls] [depth:height_massing_character] [depth:retain_renovate_demolish] [assumption:A-CONTROLS-001]
+用地、建筑规模与拆改留方案的正式检索层明确区分“尚未主张”与“已完成”。当前没有可引用的法定用地分类、地块权属、建筑测绘、容积率、高度控制、保护状态或拆改留清单；因此本方案不提出 FAR、建筑高度、开发量、拆除量或产权结论。land_use、buildings 等现有 scaffold 图层只能作为文件结构与后续复算接口，不能充当现状或控制事实。后续若取得资料，应以可校验 land_use_code、逐地块来源、图纸和面积复算建立方案，再由专业人员判断保留、更新或拆除。[source:SOURCE-REGISTRY] [depth:development_intensity_controls] [depth:height_massing_character]
+
+**RETAIN FIRST回应：**在产权、保护等级和结构状态未确认前，既有建筑和公共空间默认 RETAIN；设计介入优先首层、前场、接口、道口与微更新。Proposal策略仅分为 RETAIN、RENOVATE、TO VERIFY；任何拆除均保持 TO VERIFY，不代表拆除许可或实施授权。[depth:retain_renovate_demolish] [assumption:A-CONTROLS-001]
 
 ## 交通、轨道、市政与公共服务设施
 
-交通、轨道、市政与公共服务的回应以FLOW为冻结设计逻辑：通过连续路径、可选择的多口、不同速度的协调以及“引→缓→换→出”的连续过程，使知识、通勤和日常生活能够在京张轴上发生交换。该机制不等于已确认的道路组织、地铁换乘、停车供给、市政容量或设施选址。D01、D03、D04可分别表达系统、接口和网络关系，但地理平面必须基于真实底图或确认资料，不能用AI图像伪造。缺少的交通调查、轨道接口、市政管线和服务设施台账均维持 DATA TODO / TO VERIFY。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D03] [drawing:D04] [depth:traffic_rail_slow_parking] [depth:municipal_new_infrastructure]
+交通、轨道、市政与公共服务的回应以FLOW为冻结设计逻辑：通过连续路径、可选择的多口、不同速度的协调以及“引→缓→换→出”的连续过程，使知识、通勤和日常生活能够在京张轴上发生交换。该机制不等于已确认的道路组织、地铁换乘、停车供给、市政容量或设施选址。D01、D03、D04可分别表达系统、接口和网络关系，但地理平面必须基于真实底图或确认资料，不能用AI图像伪造。缺少的交通调查、轨道接口、市政管线和服务设施台账均维持 DATA TODO / TO VERIFY。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D03] [drawing:D04]
+
+**市政与新基建回应：**不提出未经容量核验的大型市政扩容。JINGZHANG 24H优先采用必要感知、轻量测试接口、导向、共享运营设施和低风险插件式基础设施；涉及重大市政容量、永久接入和法定许可的内容均为 implementation prerequisite / TO VERIFY。[depth:traffic_rail_slow_parking] [depth:municipal_new_infrastructure]
 
 ## 蓝绿空间、公共空间与城市风貌
 
@@ -215,7 +221,9 @@ CONTENT TODO：正式版本应插入 `[source:]`、`[standard:]`、`[depth:]`、
 
 ## 更新项目清单、实施政策与分期计划
 
-实施检索层只采用已冻结的学习逻辑，而不把它伪装为项目审批或建设计划。DAY N的使用、测试、运营和公众反馈进入00:00 DAILY REVIEW；结果区分 ADJUST NOW、KEEP WATCHING、TEST AGAIN 与 ESCALATE。FAST LOOP可支持低风险运营调整，SLOW LOOP才可能将持续问题带入设施优化、微更新或战略调整；年度循环为 NORMAL→OPEN DAY→REVIEW→NEXT。具体更新项目、投资、实施主体、政策工具、时序、法定权限和绩效目标均未确认，故不能形成项目清单或承诺。D07为系统机制图，不替代实施依据。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D07] [depth:renewal_project_list] [depth:phasing_implementation] [assumption:A-LEARNING-001]
+实施检索层只采用已冻结的学习逻辑，而不把它伪装为项目审批或建设计划。DAY N的使用、测试、运营和公众反馈进入00:00 DAILY REVIEW；结果区分 ADJUST NOW、KEEP WATCHING、TEST AGAIN 与 ESCALATE。FAST LOOP可支持低风险运营调整，SLOW LOOP才可能将持续问题带入设施优化、微更新或战略调整；年度循环为 NORMAL→OPEN DAY→REVIEW→NEXT。D07为系统机制图，不替代实施依据。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
+**JINGZHANG 24H PROPOSED INTERVENTION LIST：**N1 T2 Shared Test Interface、N3 Wudaokou Contemporary Crossing、N5 Jingzhang Commons Network、N7 Integrate public-space/interface package、Jingzhang Marker、Learning operational system、JINGZHANG 24H OPEN DAY均为 PROPOSAL，不是已批准政府项目。它们遵循 **NOW → NEXT → LEARN & ADAPT**：NOW为企业、高校、社区/公共服务、空间运营和城市管理的低风险协同；NEXT仅在具体空间、数据与许可条件确认后进入；LEARN & ADAPT由DAILY REVIEW持续复核。每项的实施前提为相应场地、运营、数据最小化、专业核验及授权；当前 evidence status 均为 PROPOSAL / TO VERIFY。[drawing:D07] [depth:renewal_project_list] [depth:phasing_implementation] [assumption:A-LEARNING-001]
 
 ## 指标体系、面积复算与合规矩阵
 

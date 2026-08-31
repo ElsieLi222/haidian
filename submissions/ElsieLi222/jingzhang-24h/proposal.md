@@ -24,7 +24,7 @@ iteration: "v2.0.0"
 
 因此，JINGZHANG 24H并不试图以一次性的大规模建设重新制造京张，而是延续这条百年基础设施从**铁路连接 → 城市公共走廊 → AI时代创新与共享骨架**的演进，以最小必要介入、真实场景测试和持续城市学习，让创新最终成为普通城市生活的一部分。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D06] [drawing:D07]
 
-![FIGURE D01｜京张24H总体框架](assets/figures/site-overview.png)
+![图 D01｜京张24H总体框架](assets/figures/site-overview.png)
 
 # PART 1｜我们从怎样的京张出发
 
@@ -38,7 +38,7 @@ iteration: "v2.0.0"
 
 京张的文化连续性被重新理解为：**铁路基础设施 → 城市绿色公共走廊 → AI时代的城市创新与共享骨架**。过去的京张通过工程实现连接、开拓与突破；今天的中关村通过创新延续探索、创业与开放；JINGZHANG 24H希望把这种精神进一步转化为城市中的共创、测试、分享与学习。具体历史事实、遗存状态和编号仍需 FACT 来源支持；本方案的文化转译属于 PROPOSAL。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01]
 
-![FIGURE D01｜Existing Jingzhang / Site Overview](assets/figures/site-overview.png)
+![图 D01｜今日京张与场地概览](assets/figures/site-overview.png)
 
 ## 1.2 机遇与问题
 
@@ -56,7 +56,7 @@ JINGZHANG 24H要解决的不是“再建设几个AI空间”，而是让已经�
 
 这一证据边界直接决定设计方法：与其在不充分数据基础上提出大规模拆建或确定性的开发指标，JINGZHANG 24H优先采用保留优先、最小必要介入、真实场景测试和逐步调整。能够确认的，作为设计依据；尚不能确认的，作为实施前提；无法证明的，不被写成事实。[source:SOURCE-REGISTRY] [source:FROZEN-DESIGN-SPEC-V1] [assumption:A-CONTROLS-001]
 
-**[FIGURE｜Evidence + Assumption / Provisional Boundary Note｜DRAWING TODO]**
+**[图｜证据、假设与临时设计参考说明｜图纸待补]**
 
 # PART 2｜京张24H总体框架
 
@@ -80,7 +80,7 @@ JINGZHANG 24H中的“24H”并不只指一个人的时间表。方案同时存�
 
 主轴两侧，中关村科技服务翼与小月河场景赋能翼分别提供知识、产业服务与真实场景支撑；两翼是连接关系，而非新的一级空间系统。京张文化不通过复古铁路景观复制历史，而保留铁路所代表的空间逻辑：**LINE｜线、STATION / NODE｜站/节点、CROSSING｜道口、MILEAGE / MARKER｜里程/标识、CONNECTION｜连接**。五道口是其最具有代表性的转化：**历史道口 → 当代城市接口**。百年京张的连续性不是形象复制，而是从过去的连接、工程、开拓，延续到今天的探索、创业、开放，再进入未来城市的共创、测试、分享、学习。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [depth:overall_spatial_structure]
 
-![FIGURE D01｜京张24H总体框架](assets/figures/site-overview.png)
+![图 D01｜京张24H总体框架](assets/figures/site-overview.png)
 
 ## 2.3 三大城市系统
 
@@ -120,7 +120,7 @@ JINGZHANG 24H不提出将高校核心科研空间全面向城市开放。真正�
 
 京张历史中的“道口”也在这里获得新的意义：**历史道口 → 当代城市接口**。FLOW通过“引—缓—换—出”的连续空间过程协调不同方向与速度；COMMONS则让原本封闭在机构内部的一部分知识活动在适当的边界与时间条件下进入公共城市。AI仅作为辅助：S04识别匿名化、多模式移动中的重复冲突特征，为运营调整提供依据；S05帮助开放活动、空间和参与者之间进行匹配。真正的开放尺度、空间使用和调整决定仍由人完成。具体历史信息和场地关系为 DATA TODO / TO VERIFY。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D03] [scenario:S04] [scenario:S05]
 
-**[FIGURE D03｜N3 ORIGIN × FLOW｜五道口当代城市接口｜DRAWING TODO]**
+**[图 D03｜N3 ORIGIN × FLOW｜五道口当代城市接口｜图纸待补]**
 
 参见图 D06｜人的24小时叙事板（09:00 知识流动）。
 
@@ -136,7 +136,7 @@ JINGZHANG 24H不提出将高校核心科研空间全面向城市开放。真正�
 
 林岚看到普通使用者照常经过时，反而松了一口气。真正有价值的结果不是“大家都看见了测试”，而是技术能够在不打断日常生活的情况下被验证。这一节点集中承载S01｜移动机器人城市通行验证、S02｜无障碍导航验证与空间修复、S03｜公共空间环境适应验证。尤其在S02中，AI可以先帮助使用者绕开障碍；但如果同一障碍持续被识别，问题就不再只是导航问题，而应进入真实空间修复。产品接受城市测试，城市也从测试中发现自己。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D02] [scenario:S01] [scenario:S02] [scenario:S03]
 
-**[FIGURE D02｜N1 TEST｜Controlled → Shared → Urban｜DRAWING TODO]**
+**[图 D02｜N1 TEST｜受控 → 共享 → 真实城市｜图纸待补]**
 
 参见图 D06｜人的24小时叙事板（14:00 创新进入真实城市）。
 
@@ -154,7 +154,7 @@ JINGZHANG 24H不提出将高校核心科研空间全面向城市开放。真正�
 
 参见图 D06｜人的24小时叙事板（18:00 穿过京张）。
 
-**[FIGURE｜FLOW｜一线·多口·分速｜DRAWING TODO]**
+**[图｜FLOW｜一线·多口·分速｜图纸待补]**
 
 # PART 7｜20:00 — 城市被共享
 
@@ -166,7 +166,7 @@ COMMONS通过三个基本动作展开：**打开边界 · 复用时间 · 混合
 
 林岚和朋友原本只打算短暂见面，但当她再次看时间时，已经过去了很久。空间没有要求她参加某个活动，也没有提醒她正在体验“创新城市”；她只是愿意多待一会儿。这正是COMMONS最重要的结果。S07提供SPACE × TIME × PEOPLE共享空间匹配。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D04] [drawing:D06] [scenario:S07]
 
-**[FIGURE D04｜JINGZHANG COMMONS NETWORK｜DRAWING TODO]**
+**[图 D04｜京张COMMONS网络｜图纸待补]**
 
 参见图 D06｜人的24小时叙事板（20:00 城市被共享）。
 
@@ -184,7 +184,7 @@ COMMONS通过三个基本动作展开：**打开边界 · 复用时间 · 混合
 
 23:30，林岚的一天结束。她没有感觉自己从“上班的地方”突然进入了另一个“生活区”；上班与生活之间，没有突然的断点。她离开之后，当天的城市没有结束；00:00，人的叙事交给城市自身。具体空间、文化叠加及地理关系仍以真实资料为准，保持 TO VERIFY。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D05] [drawing:D06] [scenario:S08] [scenario:S09]
 
-**[FIGURE D05｜N7 INTEGRATE｜大钟寺连续城市中心｜DRAWING TODO]**
+**[图 D05｜N7 INTEGRATE｜大钟寺连续城市中心｜图纸待补]**
 
 参见图 D06｜人的24小时叙事板（20:30–23:30 创新融入城市生活）。
 
@@ -273,7 +273,7 @@ JINGZHANG 24H不以单一“智能化程度”评价成功，而通过四个持�
 
 参见 Part 9 图 D07｜LEARNING 城市学习系统（含 YEAR LOOP）。
 
-**[FIGURE D04｜COMMONS Time Sharing｜DRAWING TODO]**
+**[图 D04｜COMMONS时间共享｜图纸待补]**
 
 # PART 11｜一天，不止一个人
 

@@ -33,36 +33,36 @@
       "reason": "DATA TODO：当前为 scaffold / provisional 阶段；待确认设计图层与官方更新后的几何复算。"
     },
     "green_ratio": {
-      "status": "known",
-      "value": 0.123422616,
+      "status": "unknown",
+      "value": null,
       "unit": "ratio",
       "source_files": [
         "geometry/green_space.geojson",
         "geometry/site_boundary.geojson"
       ],
       "formula": "green_space_area_sqm / site_area_sqm",
-      "confidence": "low",
+      "confidence": "unknown",
       "assumptions": [
         "A-PROVISIONAL-001",
         "A-METRICS-001"
       ],
-      "provenance": "PROVISIONAL: site boundary is provisional_constraint; green/public layers are scaffold placeholders and values are submitted-geometry model values, not statutory controls or existing-condition facts."
+      "reason": "DATA TODO：green_space.geojson 仍为 scaffold placeholder；在以真实或明确的 provisional 设计绿地 polygon 替换前，不得将比例作为提交指标。"
     },
     "public_space_ratio": {
-      "status": "known",
-      "value": 0.073281209,
+      "status": "unknown",
+      "value": null,
       "unit": "ratio",
       "source_files": [
         "geometry/public_space.geojson",
         "geometry/site_boundary.geojson"
       ],
       "formula": "public_space_area_sqm / site_area_sqm",
-      "confidence": "low",
+      "confidence": "unknown",
       "assumptions": [
         "A-PROVISIONAL-001",
         "A-METRICS-001"
       ],
-      "provenance": "PROVISIONAL: site boundary is provisional_constraint; green/public layers are scaffold placeholders and values are submitted-geometry model values, not statutory controls or existing-condition facts."
+      "reason": "DATA TODO：public_space.geojson 仍为 scaffold placeholder；在以真实或明确的 provisional 设计公共空间 polygon 替换前，不得将比例作为提交指标。"
     },
     "floor_area_ratio": {
       "status": "unknown",

@@ -34,8 +34,8 @@
     {
       "id": "A-METRICS-001",
       "status": "pending_professional_confirmation",
-      "statement": "site_area_sqm, green_ratio, and public_space_ratio are mechanically recalculated from the submitted provisional/scaffold geometry in EPSG:4548.",
-      "impact": "These are low-confidence submitted-geometry model values only; replace or recalculate after confirmed geometry and design layers are available. They are not statutory controls, existing-condition ratios, or performance-improvement claims."
+      "statement": "Only site_area_sqm is mechanically recalculated from the provisional SITE-001 boundary in EPSG:4548. The green-space and public-space layers remain scaffold placeholders.",
+      "impact": "site_area_sqm may be shown only with provisional provenance. green_ratio and public_space_ratio remain UNKNOWN until real or explicitly provisional design polygons replace the placeholders; no statutory, existing-condition, or performance claim is made."
     }
   ],
   "evidence_governance": {

@@ -175,52 +175,56 @@ CONTENT TODO：正式版本应插入 `[source:]`、`[standard:]`、`[depth:]`、
 
 ## 设计依据与资料清单
 
-CONTENT TODO：本检索锚点不替代24H叙事。正式版本将把可公开或已清权的事实来源、FROZEN DESIGN SPEC中的PROPOSAL内容、现场证据、推断与UNKNOWN / TO VERIFY逐项区分。[source:SOURCE-REGISTRY] [source:FROZEN-DESIGN-SPEC-V1]
+本节是对24H叙事的检索层，不新增设计主张。证据治理区分 FACT、FIELD EVIDENCE、INFERENCE、PROPOSAL 与 UNKNOWN / TO VERIFY：官方公告、任务书和仓库规则只能支持其明示的提交要求；FROZEN DESIGN SPEC仅支持冻结的方案意图；未提供的法定控制、现状调查、权属、交通与市政资料不得升级为事实。来源登记册、假设登记册和合规矩阵共同记录每一项主张的来源、限制及复核责任。具体历史事实、空间边界和图片版权须在取得可追溯来源后补入，不以本节或概念图替代。[source:SOURCE-REGISTRY] [source:FROZEN-DESIGN-SPEC-V1] [source:OFFICIAL-ANNOUNCEMENT]
+
+提交规则与任务边界见任务书；风险检索见专业深度矩阵。[source:AGENT-TASKBOOK] [depth:risk_missing_data]
 
 ## 三层范围工作框架
 
-CONTENT TODO：统筹研究范围、总体设计范围与重点区域范围将保持与百年京张轴 + 三区两翼一致，并以官方或明确provisional的空间资料说明适用边界。[source:BOUNDARY-SOURCE] [depth:three_level_scope_framework]
+本方案以统筹研究范围、总体设计范围和重点区域范围组织从区域连接到节点深化的工作层级，并回引“百年京张轴＋三区两翼”的冻结框架。D01负责表达轴线、三区、两翼和系统关系；D02、D03、D05分别进入N1、N3、N7；这些编号是设计检索关系，不等同于已确认的法定范围。现有 SITE-001 仅为带有 provisional_constraint 标记的提交几何，不能作为权属、控规或项目红线使用。任何范围判断须同时标明其证据类型；没有官方边界时，结论维持 PROVISIONAL / TO VERIFY，并在最终同步后重新复算图纸和指标。[source:BOUNDARY-SOURCE] [source:FROZEN-DESIGN-SPEC-V1] [drawing:D01]
+
+节点图纸、范围专业深度与提交几何分别作为后续复核接口。[drawing:D02] [drawing:D03] [drawing:D05] [depth:three_level_scope_framework] [data:geometry/site_boundary.geojson]
 
 ## 统筹研究范围产业与未来城市研究
 
-CONTENT TODO：该检索锚点将回引PART 2的总体框架、AI创新生态、两翼支撑网络、文化连续性和长期运营；不以本锚点改写24H叙事。[source:AGENT-TASKBOOK] [depth:overall_spatial_structure]
+统筹研究以两条24小时和“百年京张轴＋三区两翼”作为冻结的组织框架：TEST、ORIGIN、INTEGRATE对应城市中不同的创新进入方式，FLOW、COMMONS、LEARNING承担跨时段的城市运行关系。京张文化基因作为贯穿线、站、道口、标识和连接的空间语言进入框架，不构成第四系统，也不以历史装饰替代公共空间设计。高校、企业、社区、轨道、公共服务、文化与日常生活之间的具体产业数据、机构清单和空间供给尚未提供；本节因此只说明研究接口和证据边界，不将其表述为已发生的产业绩效或正式政策。[source:FROZEN-DESIGN-SPEC-V1] [source:AGENT-TASKBOOK] [drawing:D01] [drawing:D04] [depth:overall_spatial_structure] [assumption:A-CONTENT-001]
 
 ## 总体设计范围城市更新与控规深度城市设计
 
-CONTENT TODO：当前不声称法定控规、权属、开发量或拆改留结论。空间更新、交通、蓝绿与风貌的正式判断须由后续已确认图层、图纸和来源支持。[depth:development_intensity_controls]
+总体设计以全天可进入、可测试、可共享、可学习的城市运行关系组织空间回应，回引PART 2、PART 6、PART 7、PART 9及D01。其表达是 PROPOSAL，不是法定控规结论：容积率、建筑规模、高度、退线、权属、开发可行性、道路红线和拆改留状态均无已确认数据。现阶段可记录设计限制、所需图层及后续复核方法，但不可把示意图或 scaffold geometry 转写为控制指标。待取得法定图则、测绘和专业确认后，才可将空间结构、交通、蓝绿和风貌协调落实为可校核的城市设计或控规深度成果。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D04] [depth:development_intensity_controls] [depth:height_massing_character] [assumption:A-CONTROLS-001]
 
 ## 重点区域详细设计
 
-CONTENT TODO：N1 TEST、N3 ORIGIN × FLOW、N7 INTEGRATE的已冻结设计逻辑将以对应图纸和证据展开；精确重点区边界与地理关系仍为 DATA TODO / TO VERIFY。[depth:three_key_area_detailed_design]
+重点区域检索回引冻结的三类节点：N1对应TEST及S01—S03的城市验证；N3对应ORIGIN与FLOW，并以“历史道口→当代城市接口”说明多种资源和速度的交换；N7对应INTEGRATE，关注创新如何进入日—晚—夜的城市生活。D02、D03、D05须采用真实底图或经确认的空间资料制作地理/平面表达；在此之前，节点边界、建筑关系、道路和轨道接口均保持 TO VERIFY。概念轴测或场景可说明机制，却不能替代真实地理证据；本节不补写任何未冻结的空间方案。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D02] [drawing:D03] [drawing:D05] [depth:three_key_area_detailed_design] [assumption:A-PROVISIONAL-001]
 
 ## AI 创新生态、人才画像与 AI+ 场景
 
-CONTENT TODO：P01–P05与S01–S10已登记为冻结registry；完整生态案例、Scenario Cards、运营主体、数据和人工决策信息仍待逐项补入。[source:FROZEN-DESIGN-SPEC-V1]
+本节将AI创新生态、人物和场景保持为可检索的正式槽位，而不把槽位误写成已承诺服务。P01—P05仅保留 relationship/user slots，最终五类人物定义尚未冻结。S01移动机器人城市通行验证、S02无障碍导航验证、S03公共空间环境适应验证为当前确认的场景标题；S04—S10+仅保留空槽。每个场景后续必须说明地点、参与者、数据最小化、人工决策、风险边界和退出条件；无数据时不得声称成效。D08是场景卡/矩阵图，D06是人的一天叙事，均不能替代完整运营证据。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D06] [drawing:D08] [scenario:S01] [scenario:S02] [scenario:S03] [assumption:A-CONTENT-001]
 
 ## 用地、建筑规模与拆改留方案
 
-CONTENT TODO：没有来源支持时，容积率、高度、可开发性、拆迁与拆改留保持UNKNOWN / TO VERIFY；不得由scaffold几何升级为现状或法定事实。[depth:retain_renovate_demolish]
+用地、建筑规模与拆改留方案的正式检索层明确区分“尚未主张”与“已完成”。当前没有可引用的法定用地分类、地块权属、建筑测绘、容积率、高度控制、保护状态或拆改留清单；因此本方案不提出 FAR、建筑高度、开发量、拆除量或产权结论。land_use、buildings 等现有 scaffold 图层只能作为文件结构与后续复算接口，不能充当现状或控制事实。后续若取得资料，应以可校验 land_use_code、逐地块来源、图纸和面积复算建立方案，再由专业人员判断保留、更新或拆除。[source:SOURCE-REGISTRY] [depth:development_intensity_controls] [depth:height_massing_character] [depth:retain_renovate_demolish] [assumption:A-CONTROLS-001]
 
 ## 交通、轨道、市政与公共服务设施
 
-CONTENT TODO：FLOW与多口、分速、引→缓→换→出属于冻结PROPOSAL；具体道路、轨道、停车、市政和服务设施关系需真实空间资料与图纸支持。[depth:traffic_rail_slow_parking]
+交通、轨道、市政与公共服务的回应以FLOW为冻结设计逻辑：通过连续路径、可选择的多口、不同速度的协调以及“引→缓→换→出”的连续过程，使知识、通勤和日常生活能够在京张轴上发生交换。该机制不等于已确认的道路组织、地铁换乘、停车供给、市政容量或设施选址。D01、D03、D04可分别表达系统、接口和网络关系，但地理平面必须基于真实底图或确认资料，不能用AI图像伪造。缺少的交通调查、轨道接口、市政管线和服务设施台账均维持 DATA TODO / TO VERIFY。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D03] [drawing:D04] [depth:traffic_rail_slow_parking] [depth:municipal_new_infrastructure]
 
 ## 蓝绿空间、公共空间与城市风貌
 
-CONTENT TODO：京张文化、COMMONS与蓝绿公共空间的关系已建立为设计逻辑；实际公园、河流、建筑与风貌证据仍需核验。[depth:blue_green_public_space]
+蓝绿空间、公共空间与城市风貌的正式回应建立在京张作为历史、文化与公共空间母体的冻结理解上：LINE形成连续的FLOW骨架，CROSSING成为资源与人群交换的接口，MARKER承担方向与连续性识别，COMMONS则允许公共文化资源在日常使用中被分享。以上是空间语言，不代表现有绿地、水系、铁路遗存或建筑风貌已经核实；亦不允许以复古站房、火车雕塑或主题乐园替代城市空间质量。D01和D04可表达系统关系，真实蓝绿要素、容量、生态指标和风貌控制须由可追溯底图、现场证据和专业资料支持。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D04] [depth:blue_green_public_space] [assumption:A-CULTURE-001]
 
 ## 更新项目清单、实施政策与分期计划
 
-CONTENT TODO：实施遵循“先试，再改”与最低干预原则；项目清单、政策、实施主体和法定权限未确认前不作承诺。[depth:phasing_implementation]
+实施检索层只采用已冻结的学习逻辑，而不把它伪装为项目审批或建设计划。DAY N的使用、测试、运营和公众反馈进入00:00 DAILY REVIEW；结果区分 ADJUST NOW、KEEP WATCHING、TEST AGAIN 与 ESCALATE。FAST LOOP可支持低风险运营调整，SLOW LOOP才可能将持续问题带入设施优化、微更新或战略调整；年度循环为 NORMAL→OPEN DAY→REVIEW→NEXT。具体更新项目、投资、实施主体、政策工具、时序、法定权限和绩效目标均未确认，故不能形成项目清单或承诺。D07为系统机制图，不替代实施依据。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D07] [depth:renewal_project_list] [depth:phasing_implementation] [assumption:A-LEARNING-001]
 
 ## 指标体系、面积复算与合规矩阵
 
-CONTENT TODO：可由提交geometry复算的指标将明确标为PROVISIONAL；法定控制、提升比例或无来源的量化目标保持UNKNOWN / TO VERIFY。[metric:site_area_sqm]
+指标体系只报告可追溯的计算状态。site_area_sqm 已由 provisional SITE-001 边界在 EPSG:4548 下计算，数值仅表示该提交几何的低置信度面积，不能视为法定范围或现状统计。green_ratio 与 public_space_ratio 的源图层仍是 scaffold placeholder，因此状态为 UNKNOWN、值为 null，不得导出为最终指标；建筑面积、FAR和重点区数量亦未具备可提交的设计几何。合规矩阵目前可追溯标准、章节、图纸、来源与假设，但其映射不等于已证明符合。D07和 metrics-evidence 图须清楚展示计算来源、限制和待复算条件，而不是编造提升百分比。[metric:site_area_sqm] [data:geometry/site_boundary.geojson] [drawing:D07] [depth:metrics_recalculation] [assumption:A-METRICS-001]
 
 ## 风险、版权与合规说明
 
-CONTENT TODO：冻结设计逻辑属于PROPOSAL；具体历史事实、边界、权属、交通数据和实施承诺需独立事实来源。AI辅助判断，人和治理体系保留决策权。[depth:risk_missing_data]
+风险、版权与合规说明将“可表达的方案意图”和“尚待证实的事实”分开管理。FROZEN DESIGN SPEC中的框架、文化检查、学习机制和场景标题属于PROPOSAL；历史事实、遗存、边界、权属、交通数据、设施参数和实施承诺均需要独立 FACT 或 FIELD EVIDENCE。AI仅辅助模式识别、比较和判断；涉及人的重大决策保留在治理体系中，且不默认全面人脸识别或长期个体追踪。所有地图、照片、底图、图标和图纸须记录来源与版权；未知资料以限制说明、复核动作和责任角色呈现，不以虚构数据消除风险。[source:SOURCE-REGISTRY] [source:FROZEN-DESIGN-SPEC-V1] [depth:risk_missing_data] [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK]
 
 ## 参考资料
 
-CONTENT TODO：人类可读书目将在正式来源核验后补入；本阶段以`sources.json`和assumptions中的证据分类为机器索引。[source:SITE-PACKAGE]
+本阶段参考资料以 `sources.json`、`assumptions.json`、official scaffold/schema、官方公告、面向智能体任务书及 FROZEN DESIGN SPEC 的登记关系构成机器索引。它们分别说明提交规则、来源治理、已冻结方案意图与待核实边界；没有提供的外部文献、历史档案、现状底图或规范原文不在此被虚构为已引用资料。正式书目应在取得原始文件、链接、版本、发布日期、版权状态和具体引用页码后补入，并将每条事实映射到对应章节、图纸或指标。当前索引可支持审计，但不替代可公开、可追溯的人类可读参考文献表。[source:SITE-PACKAGE] [source:SOURCE-REGISTRY] [source:OFFICIAL-ANNOUNCEMENT] [source:AGENT-TASKBOOK] [source:FROZEN-DESIGN-SPEC-V1]

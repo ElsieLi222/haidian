@@ -70,7 +70,7 @@ JINGZHANG 24H中的“24H”并不只指一个人的时间表。方案同时存�
 
 两条时间线并不重合：人的一天让我们看见城市；城市的学习让城市看见自己。人的时间向前推进，城市的学习则不断形成新的循环；DAY N并不会在午夜被清零，而是在复盘之后进入一个被前一天经验改变的DAY N+1。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D06] [drawing:D07]
 
-**[FIGURE D06｜一个人的一天 / Human 24H Storyboard｜DRAWING TODO]**
+参见 Part 3 图 D06｜人的24小时叙事板。
 
 参见 Part 9 图 D07｜城市学习系统。
 

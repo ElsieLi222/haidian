@@ -70,7 +70,7 @@ The “24H” in JINGZHANG 24H does not refer only to one person’s schedule. T
 
 The two timelines are related but not identical: the protagonist helps us see the city; LEARNING helps the city see itself. Human time moves forward, while urban learning forms a cycle. DAY N is not reset at midnight; it becomes a modified DAY N+1 shaped by what has been learned. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D06] [drawing:D07]
 
-**[FIGURE D06｜Human 24H Storyboard｜DRAWING TODO]**
+See D06 in Part 3 — Human 24H Storyboard.
 
 See D07 in Part 9 — Urban Learning System.
 

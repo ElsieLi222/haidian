@@ -780,7 +780,9 @@
       "title_zh": "风险与缺资料清单",
       "professional_dimension": "合规",
       "required": true,
-      "status": "incomplete",
+      "status": "complete",
+      "completion_basis_zh": "risk_audit.json 已对12类缺失项建立当前证据、分类、设计后果、回应、实施前提、核验责任角色、版权/来源状态与最终主张限制；完成代表不确定性治理闭环，不代表UNKNOWN已升级为FACT。",
+      "risk_audit_ref": "risk_audit.json",
       "proposal_sections": [
         "三层范围工作框架",
         "总体设计范围城市更新与控规深度城市设计",
@@ -827,7 +829,7 @@
         "LAND_USE_TOPOLOGY",
         "VISUAL_STATIC"
       ],
-      "evidence_summary_zh": "CONTENT TODO / DRAWING TODO / DATA TODO：LEARNING v2.0 已建立整体闭环、双时间尺度及四类结果的冻结机制；空间、数据、图纸和指标仍待补齐。",
+      "evidence_summary_zh": "已完成风险、版权与缺资料的可追溯审计闭环。具体未知事实保持UNKNOWN / TO VERIFY，并以实施前提和责任角色管理，不伪造数据或授权。",
       "frozen_learning_v2_refs": [
         "PART 9",
         "D07"

@@ -231,7 +231,9 @@ CONTENT TODO：正式版本应插入 `[source:]`、`[standard:]`、`[depth:]`、
 
 ## 风险、版权与合规说明
 
-风险、版权与合规说明将“可表达的方案意图”和“尚待证实的事实”分开管理。FROZEN DESIGN SPEC中的框架、文化检查、学习机制和场景标题属于PROPOSAL；历史事实、遗存、边界、权属、交通数据、设施参数和实施承诺均需要独立 FACT 或 FIELD EVIDENCE。AI仅辅助模式识别、比较和判断；涉及人的重大决策保留在治理体系中，且不默认全面人脸识别或长期个体追踪。所有地图、照片、底图、图标和图纸须记录来源与版权；未知资料以限制说明、复核动作和责任角色呈现，不以虚构数据消除风险。[source:SOURCE-REGISTRY] [source:FROZEN-DESIGN-SPEC-V1] [depth:risk_missing_data] [standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK]
+风险、版权与合规说明将“可表达的方案意图”和“尚待证实的事实”分开管理。FROZEN DESIGN SPEC中的框架、文化检查、学习机制和场景标题属于PROPOSAL；历史事实、遗存、边界、权属、交通数据、设施参数和实施承诺均需要独立 FACT 或 FIELD EVIDENCE。AI仅辅助模式识别、比较和判断；涉及人的重大决策保留在治理体系中，且不默认全面人脸识别或长期个体追踪。所有地图、照片、底图、图标和图纸须记录来源与版权；未知资料以限制说明、复核动作和责任角色呈现，不以虚构数据消除风险。[source:SOURCE-REGISTRY] [source:FROZEN-DESIGN-SPEC-V1] [depth:risk_missing_data]
+
+`risk_audit.json` 对边界、产权、开发强度、高度、留改拆、道路/停车、蓝绿空间、市政容量、几何指标、现场调查、图片/地图版权和实施主体逐项记录：当前证据、分类、设计后果、当前回应、实施前提、核验责任角色、版权/来源状态及最终主张限制。该闭环的完成含义是完整管理不确定性，并非宣称缺失事实已被证实。[standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK] [data:risk_audit.json]
 
 ## 参考资料
 

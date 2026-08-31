@@ -57,7 +57,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.3.2",
@@ -115,7 +116,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.3.3",
@@ -173,7 +175,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.4.1",
@@ -231,7 +234,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.4.2",
@@ -289,7 +293,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.4.3",
@@ -347,7 +352,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.5.1.1",
@@ -405,7 +411,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.5.1.2",
@@ -463,7 +470,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.5.2.1",
@@ -521,7 +529,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.5.2.2",
@@ -579,7 +588,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.5.2.3",
@@ -637,7 +647,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.5.2.4",
@@ -695,7 +706,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.5.2.5",
@@ -753,7 +765,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.5.3.required",
@@ -811,7 +824,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.5.3.1",
@@ -869,7 +883,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.5.3.2",
@@ -927,7 +942,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "1.5.3.3",
@@ -985,7 +1001,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "agent.1",
@@ -1043,7 +1060,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "agent.2",
@@ -1101,7 +1119,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "agent.3",
@@ -1159,7 +1178,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "agent.4",
@@ -1217,7 +1237,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "agent.5",
@@ -1275,7 +1296,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     },
     {
       "requirement_id": "agent.6",
@@ -1333,7 +1355,8 @@
       "implementation_note": "Mapping is retained from the official local scaffold; it is not evidence of completed design response.",
       "frozen_design_authority": "FROZEN-DESIGN-SPEC-V1",
       "learning_v2_status": "CONTENT TODO / DRAWING TODO / DATA TODO",
-      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence."
+      "evidence_governance": "FACT / FIELD EVIDENCE / INFERENCE / PROPOSAL / UNKNOWN / TO VERIFY must be declared at claim level; current mapping is not completion evidence.",
+      "cultural_continuity_check": "YELLOW / CONTENT GAP — spatialized LINE/STATION/CROSSING/MILEAGE-CONNECTION and verified cultural evidence pending."
     }
   ]
 }

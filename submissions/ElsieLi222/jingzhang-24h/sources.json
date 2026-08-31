@@ -78,7 +78,10 @@
       "formal_mapping_status": "CONTENT TODO",
       "limitations": "TO VERIFY: factual and statutory claims still require separate formal source evidence.",
       "evidence_category": "PROPOSAL",
-      "claim_control": "Design source of truth: use for frozen design intent, not existing-condition, legal, ownership, or quantitative fact."
+      "claim_control": "Design source of truth for cultural continuity and spatial-language constraints; not evidence for historical facts, heritage condition, mileage, or legal control.",
+      "supplements": [
+        "JINGZHANG CULTURAL DNA"
+      ]
     }
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "authority": "JINGZHANG CULTURAL DNA",
+  "status": "YELLOW / CONTENT GAP",
+  "conflicts": [],
+  "proposal_status": {
+    "PART_1": "structural anchor added; FACT source mapping pending",
+    "PART_2": "structural translation added; cultural diagram DRAWING TODO",
+    "PART_4": "historical crossing to contemporary interface anchor added; D03 DRAWING TODO",
+    "PART_6": "continuous-axis recognition anchor added; D06 DRAWING TODO",
+    "PART_7": "cultural commons constraint added; content DRAWING TODO",
+    "PART_8": "local layering constraint added; DATA TODO",
+    "PART_10_OPEN_DAY": "dual culture-and-innovation constraint added; event details CONTENT TODO"
+  },
+  "drawing_status": {
+    "D01": "CULTURAL CONTINUITY CHECK required; DRAWING TODO",
+    "D03": "Historical Crossing → Contemporary Urban Interface required; DRAWING TODO",
+    "D06": "18:00 continuous-axis recognition required; DRAWING TODO"
+  },
+  "fact_control": "Historical facts, heritage condition, marker numbers, and mileage remain FACT-source pending or UNKNOWN / TO VERIFY."
+}

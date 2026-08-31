@@ -10,6 +10,10 @@ CONTENT TODO: This file establishes only the formal bilingual mirror. Frozen des
 
 CONTENT TODO
 
+### Jingzhang cultural continuity
+
+Jingzhang culture is not a separate decorative theme. It is the continuous evolution of railway infrastructure → green public corridor → AI-era urban innovation-and-commons spine. Specific historical facts, heritage conditions, and identifiers still require FACT sources; this cultural translation is PROPOSAL. [source:FROZEN-DESIGN-SPEC-V1]
+
 ## 1.2 Opportunities & Gaps
 
 CONTENT TODO
@@ -32,6 +36,8 @@ CONTENT TODO
 
 Frozen structure: northern TEST / Zhongzhiyuan AI autonomous-innovation acceleration district; central ORIGIN / Beijing AI Origin Community; southern INTEGRATE / Dazhongsi AI industry cluster; Zhongguancun technology-service wing and Xiaoyuehe scenario-enablement wing.
 
+The Centennial Jingzhang Spine is both the overall spatial framework and the historical, cultural, and public-space parent structure. Its cultural vocabulary translates into LINE → a continuous FLOW spine; STATION / NODE → contemporary urban nodes; CROSSING → multiple entries and urban interfaces; MILEAGE / MARKER → a restrained Jingzhang identification system; and CONNECTION → links across universities, industry, communities, and public life. These do not form an additional first-level system or concept. [source:FROZEN-DESIGN-SPEC-V1] [depth:overall_spatial_structure]
+
 ## 2.3 Three Urban Systems
 
 Frozen systems: FLOW, COMMONS, and LEARNING.
@@ -50,6 +56,8 @@ CONTENT TODO
 
 CONTENT TODO
 
+Cultural requirement: Wudaokou expresses “Historical Crossing → Contemporary Urban Interface.” Knowledge, transit, community, and urban-life crossings are optional secondary spatial types within FLOW’s multiple entries; LEAD → SLOW → SWITCH → RELEASE is one continuous spatial process, not four plazas. Exact historical information and site relationships remain DATA TODO / TO VERIFY. [source:FROZEN-DESIGN-SPEC-V1]
+
 # PART 5 | 14:00 — INNOVATION MEETS THE CITY
 
 ## TEST
@@ -66,11 +74,15 @@ Known candidates only: S01 Urban Mobility Validation for Mobile Robots; S02 Acce
 
 CONTENT TODO
 
+At 18:00, continuous FLOW must allow the protagonist to recognize that she remains on the same Jingzhang spine: continuous paths, restrained JINGZHANG MARKERS, crossings, confirmed railway remnants, directional information, and node recognition may carry this continuity. No mileage, identifier, or historical information may be invented, and retro styling cannot substitute for spatial continuity. [source:FROZEN-DESIGN-SPEC-V1]
+
 # PART 7 | 20:00 — THE CITY BECOMES COMMON
 
 ## N5 JINGZHANG COMMONS NETWORK
 
 CONTENT TODO
+
+Jingzhang culture may enter daily sharing as a public cultural resource—small exhibitions, urban walks, community storytelling, or corridor cultural activities—but COMMONS does not thereby become a railway-themed event system. [source:FROZEN-DESIGN-SPEC-V1]
 
 # PART 8 | 20:00–23:30 — INNOVATION BECOMES URBAN LIFE
 
@@ -79,6 +91,8 @@ CONTENT TODO
 ### N7 Dazhongsi
 
 CONTENT TODO
+
+Where supported by real spatial conditions, Dazhongsi may carefully layer Jingzhang railway culture, local Dazhongsi culture, and contemporary Zhongguancun innovation culture. Local “bell/time” imagery must not become a new overall concept. [source:FROZEN-DESIGN-SPEC-V1]
 
 # PART 9 | 00:00 — THE PERSON RESTS, THE CITY LEARNS
 
@@ -122,6 +136,8 @@ CONTENT TODO
 ## 10.2 JINGZHANG 24H OPEN DAY
 
 CONTENT TODO
+
+JINGZHANG 24H OPEN DAY must open both Centennial Jingzhang history/culture and contemporary urban innovation. Jingzhang cultural walks, crossing/station memories, public railway-culture activities, contemporary innovation access, community activities, and international exchange are pending content directions—not an already committed event list. [source:FROZEN-DESIGN-SPEC-V1]
 
 ## 10.3 Long-term Growth & Implementation
 

@@ -8,7 +8,8 @@
       "proposal_reference": "PART 2",
       "evidence_status": "DRAWING TODO",
       "drawing_type": "schematic + verified geographic reference",
-      "production_method_note": "Framework diagram must distinguish verified geography from provisional / TO VERIFY references."
+      "production_method_note": "Framework diagram must distinguish verified geography from provisional / TO VERIFY references.",
+      "cultural_requirement": "Centennial Jingzhang Spine as historic, cultural, and public-space parent structure; show cultural continuity without a new system."
     },
     {
       "id": "D02",
@@ -26,7 +27,8 @@
       "proposal_reference": "PART 4",
       "evidence_status": "DRAWING TODO",
       "drawing_type": "real base-map / manual vector overlay",
-      "production_method_note": "Do not use AI-generated imagery as a geographic plan."
+      "production_method_note": "Do not use AI-generated imagery as a geographic plan.",
+      "cultural_requirement": "Historical Crossing → Contemporary Urban Interface; connect crossing language to FLOW multiple entries and sequence."
     },
     {
       "id": "D04",
@@ -35,7 +37,8 @@
       "proposal_reference": "PART 7",
       "evidence_status": "DRAWING TODO",
       "drawing_type": "verified Jingzhang spine + schematic network / calendar",
-      "production_method_note": "Corridor relation requires verified spine; calendar/network may be schematic."
+      "production_method_note": "Corridor relation requires verified spine; calendar/network may be schematic.",
+      "cultural_requirement": "Use only where genuinely spatially or systemically relevant; do not mechanically repeat culture."
     },
     {
       "id": "D05",
@@ -44,7 +47,8 @@
       "proposal_reference": "PART 8",
       "evidence_status": "DRAWING TODO",
       "drawing_type": "real base-map / manual vector overlay",
-      "production_method_note": "Do not use AI-generated imagery as a geographic plan."
+      "production_method_note": "Do not use AI-generated imagery as a geographic plan.",
+      "cultural_requirement": "Use only where genuinely spatially or systemically relevant; do not mechanically repeat culture."
     },
     {
       "id": "D06",
@@ -53,7 +57,8 @@
       "proposal_reference": "PART 3–8",
       "evidence_status": "DRAWING TODO",
       "drawing_type": "editorial / timeline / conceptual scenes",
-      "production_method_note": "Human 24H storyboard; detailed storyboard remains CONTENT TODO."
+      "production_method_note": "Human 24H storyboard; detailed storyboard remains CONTENT TODO.",
+      "cultural_requirement": "At 18:00, use continuous recognition language (marker/crossing/confirmed remnant/direction/node) without turning the story into heritage tourism."
     },
     {
       "id": "D07",
@@ -62,7 +67,8 @@
       "proposal_reference": "PART 9",
       "evidence_status": "DRAWING TODO",
       "drawing_type": "system diagram",
-      "production_method_note": "D07-A Overall Loop; D07-B FAST LOOP × SLOW LOOP; D07-C N1/N3/N7 evidence cases; D07-D Annual Loop."
+      "production_method_note": "D07-A Overall Loop; D07-B FAST LOOP × SLOW LOOP; D07-C N1/N3/N7 evidence cases; D07-D Annual Loop.",
+      "cultural_requirement": "Use only where genuinely spatially or systemically relevant; do not mechanically repeat culture."
     },
     {
       "id": "D08",
@@ -71,7 +77,8 @@
       "proposal_reference": "PART 12",
       "evidence_status": "DRAWING TODO",
       "drawing_type": "cards / matrix / diagram",
-      "production_method_note": "Scenario IDs/titles are frozen; full card fields remain CONTENT TODO."
+      "production_method_note": "Scenario IDs/titles are frozen; full card fields remain CONTENT TODO.",
+      "cultural_requirement": "Use only where genuinely spatially or systemically relevant; do not mechanically repeat culture."
     }
   ],
   "authority": "JINGZHANG 24H FROZEN DESIGN SPEC",

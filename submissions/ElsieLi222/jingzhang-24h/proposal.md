@@ -10,6 +10,10 @@ CONTENT TODO：待已冻结的中文方案正文、图纸与证据链补入。�
 
 CONTENT TODO
 
+### 京张文化连续性
+
+京张文化的正式作用不是独立装饰专题，而是铁路基础设施 → 城市绿色公共廊道 → AI时代城市公共创新骨架的连续演化。所有具体历史事实、遗存状态和编号仍需 FACT 来源支持；本方案的文化转译属于 PROPOSAL。[source:FROZEN-DESIGN-SPEC-V1]
+
 ## 1.2 机遇与问题
 
 CONTENT TODO
@@ -32,6 +36,8 @@ CONTENT TODO
 
 冻结结构：北部 TEST｜众智园AI自主创新加速区；中部 ORIGIN｜AI原点社区；南部 INTEGRATE｜大钟寺AI产业集聚区；两翼为中关村科技服务翼与小月河场景赋能翼。
 
+百年京张轴既是总体空间骨架，也是历史、文化与公共空间母体。其文化语汇在方案中转译为：LINE → FLOW连续骨架；STATION / NODE → 当代城市节点；CROSSING → 多口与城市接口；MILEAGE / MARKER → 克制的京张标识系统；CONNECTION → 高校、产业、社区与公共生活的连接。它们不构成新一级系统或概念。[source:FROZEN-DESIGN-SPEC-V1] [depth:overall_spatial_structure]
+
 ## 2.3 三大城市系统
 
 冻结系统：FLOW｜畅行网络；COMMONS｜城市共享网络；LEARNING｜城市学习系统。
@@ -50,6 +56,8 @@ CONTENT TODO
 
 CONTENT TODO
 
+文化硬约束：五道口表达“历史道口 → 当代城市接口”。高校口、轨道口、社区口和生活口仅作为 FLOW“多口”的可选择二级空间类型；引 → 缓 → 换 → 出是连续空间过程，不是四个广场。具体历史信息和场地关系为 DATA TODO / TO VERIFY。[source:FROZEN-DESIGN-SPEC-V1]
+
 # PART 5｜14:00 — 创新进入真实城市
 
 ## TEST｜众智园
@@ -66,11 +74,15 @@ CONTENT TODO
 
 CONTENT TODO
 
+18:00 的连续 FLOW 必须让主人公持续识别自己仍处于同一条京张轴上：连续路径、克制的 JINGZHANG MARKER、道口、已确认的铁路遗存、方向信息和节点识别均可承担这一作用。不得虚构里程、编号或历史信息，也不得以复古主题化替代空间连续性。[source:FROZEN-DESIGN-SPEC-V1]
+
 # PART 7｜20:00 — 城市被共享
 
 ## N5 京张COMMONS网络
 
 CONTENT TODO
+
+京张文化可作为日常共享的公共文化资源进入小型展览、城市漫步、社区讲述或沿线文化活动，但 COMMONS 不因此成为铁路主题活动系统。[source:FROZEN-DESIGN-SPEC-V1]
 
 # PART 8｜20:00–23:30 — 创新融入城市生活
 
@@ -79,6 +91,8 @@ CONTENT TODO
 ### N7 大钟寺
 
 CONTENT TODO
+
+大钟寺可在真实空间条件下适度叠加京张铁路文化、大钟寺地方文化与中关村当代创新文化；“钟/时间”等局部意象不得升级为总体新概念。[source:FROZEN-DESIGN-SPEC-V1]
 
 # PART 9｜00:00 — 人休息，城市继续学习
 
@@ -122,6 +136,8 @@ CONTENT TODO
 ## 10.2 京张24H开放日
 
 CONTENT TODO
+
+JINGZHANG 24H OPEN DAY 必须同时开放百年京张历史文化与当代城市创新；京张文化漫步、道口/站点记忆、铁路文化公众活动、当代创新开放、社区活动与国际交流均为待确认的内容方向，不构成已承诺活动清单。[source:FROZEN-DESIGN-SPEC-V1]
 
 ## 10.3 长期生长与实施
 

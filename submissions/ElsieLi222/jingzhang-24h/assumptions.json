@@ -24,6 +24,12 @@
       "status": "pending_professional_confirmation",
       "statement": "LEARNING v2.0 establishes an overall city-learning mechanism and illustrative N1/N3/N7 evidence cases; it does not establish measured performance, confirmed data pipelines, implementation authority, or exact spatial interventions.",
       "impact": "Use PROPOSAL for mechanism statements and DATA TODO / TO VERIFY for datasets, thresholds, locations, and implementation scope."
+    },
+    {
+      "id": "A-CULTURE-001",
+      "status": "pending_professional_confirmation",
+      "statement": "JINGZHANG CULTURAL DNA fixes a cultural translation and continuity check. It does not confirm any individual heritage element, historical distance, marker number, site condition, or activity commitment.",
+      "impact": "Use PROPOSAL for the cultural translation; use FACT only where supported by a separately mapped source; otherwise use UNKNOWN / TO VERIFY."
     }
   ],
   "evidence_governance": {

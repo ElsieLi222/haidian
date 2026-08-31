@@ -287,6 +287,70 @@ See the relationship-person index at the bottom of D06 — Human 24H Storyboard;
 
 # PART 12 | DESIGN EVIDENCE & COMPLIANCE
 
+## 12.1 10 AI Scenario Cards
+
+AI scenarios are not a technology-function list separate from urban design. Every card records **WHEN × WHERE; WHO; REAL SITUATION; AI ROLE; SPACE × OPERATION RESPONSE; DATA × GOVERNANCE; LEARN**. S01–S03 are industry test/validation; S04–S09 cover knowledge, mobility, sharing, integration, and international exchange; S10 returns the first nine scenarios to the city-learning loop. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D08]
+
+### S01 | Mobile Robot Urban Passage Validation
+
+**WHEN × WHERE:** 14:00, Zhongzhiyuan TEST, T2 Shared Interface → T3 Real City. **WHO:** AI-industry staff, device operators, pedestrians, cyclists, public-space users. **REAL SITUATION:** robots meet people, cycling, curbs, paving, temporary obstacles and environmental change; validation asks whether they run safely without requiring ordinary users to make way. **AI ROLE:** identify change, assess passage, log repeated failures and compare conditions. **SPACE × OPERATION RESPONSE:** T2 first, T3 second; only necessary safety notice, low-interference interface and reversible operation—no closed robot corridor. **DATA × GOVERNANCE:** device logs, environmental state, anonymized passage information; no facial recognition or long-term tracking. **LEARN:** product issues return to product improvement; repeated spatial issues enter facility/micro-renewal discussion. [scenario:S01]
+
+### S02 | Accessible Navigation and Spatial Repair
+
+**WHEN × WHERE:** 14:00, Zhongzhiyuan and real public space along Jingzhang. **WHO:** people with accessibility needs, residents, operators, space managers. **REAL SITUATION:** steps, breaks, occupation and facility failure cannot permanently be solved by smarter detours. **AI ROLE:** identify repeated detours, abnormal pauses and path-failure patterns. **SPACE × OPERATION RESPONSE:** provide alternatives and notice first; persistent barriers become spatial repair/micro-renewal. **DATA × GOVERNANCE:** anonymized aggregate path features, voluntary feedback, facility state and field review; no personal movement archive. **LEARN:** detour → persistent-barrier recognition → real-space repair. [scenario:S02]
+
+### S03 | Public-Space Environmental Adaptation Validation
+
+**WHEN × WHERE:** 14:00, Zhongzhiyuan TEST T2/T3. **WHO:** product teams, users, operators. **REAL SITUATION:** light, temperature, weather, vegetation, noise, density and time affect real use. **AI ROLE:** compare performance and distinguish product from environmental issues. **SPACE × OPERATION RESPONSE:** adjust timing, position, temporary facilities and operation first; only persistent impacts enter spatial change. **DATA × GOVERNANCE:** environmental sensing, device logs, anonymized use and operation observation, limited to need. **LEARN:** whether product adapts to city and city exposes change-needed conditions. [scenario:S03]
+
+### S04 | Multimodal Crossing Conflict Recognition and Speed Coordination
+
+**WHEN × WHERE:** 09:00 Wudaokou and continuing 18:00 FLOW. **WHO:** pedestrians, cyclists, transit users, residents, operators. **REAL SITUATION:** a high-intensity interface, not pre-asserted severe congestion. **AI ROLE:** identify repeated waiting, speed difference, detour and potential conflict from anonymous aggregates and observation. **SPACE × OPERATION RESPONSE:** guidance, speed coordination, timing and operation first; persistent issues may enter facility/micro-renewal. **DATA × GOVERNANCE:** anonymous aggregates, observation and facility state; no default facial recognition. **LEARN:** one conflict does not trigger construction; repetition is evidence. [scenario:S04]
+
+### S05 | Knowledge-Opening Activity and Urban-Space Matching
+
+**WHEN × WHERE:** 09:00, Wudaokou ORIGIN, university–city edge. **WHO:** researchers, student innovators, enterprise partners, public, operators. **REAL SITUATION:** activity, time, scale, space and public need do not naturally match. **AI ROLE:** match theme, open hours, capacity and participants. **SPACE × OPERATION RESPONSE:** use forecourts, interfaces, shared space and suitable periods, not core laboratories. **DATA × GOVERNANCE:** activity information, capacity and voluntary preference only; no profiling/tracking. **LEARN:** which activities can leave campus and what interface supports them. [scenario:S05]
+
+### S06 | Transit Arrival and Bicycle-Parking Coordination
+
+**WHEN × WHERE:** 18:00, FLOW transit stations and interfaces. **WHO:** metro passengers, walkers, cyclists, commuters, operators. **REAL SITUATION:** the last few hundred metres require walking, cycling, parking and entry transitions. **AI ROLE:** recognize change in arrivals, parking use and transfer demand. **SPACE × OPERATION RESPONSE:** organize parking, guidance and entries first; persistent conflict enters facility optimization. **DATA × GOVERNANCE:** anonymous arrival, parking occupancy and facility state. **LEARN:** after station arrival, whether city continuity remains. [scenario:S06]
+
+### S07 | SPACE × TIME × PEOPLE Shared-Space Matching
+
+**WHEN × WHERE:** 20:00, COMMONS along Jingzhang. **WHO:** families, friends, sport/cycling users, open-activity participants, residents. **REAL SITUATION:** failure often lies in time/activity/user mismatch, not lack of space. **AI ROLE:** match use pattern, period, activity and capacity. **SPACE × OPERATION RESPONSE:** open edges, reuse time and light operation, not continuous building/activity growth. **DATA × GOVERNANCE:** use statistics, facility state, activity information, voluntary feedback; quiet, maintenance, ecology and ordinary inactivity remain permitted. **LEARN:** suitable people genuinely use space at suitable time. [scenario:S07]
+
+### S08 | Dazhongsi Day–Evening–Night State Transition
+
+**WHEN × WHERE:** 20:30–23:30 and all-day comparison, Dazhongsi INTEGRATE. **WHO:** industry workers, commuters, residents, commerce users, friends, operators. **REAL SITUATION:** industry, transit, commerce, public-space and community needs vary across time. **AI ROLE:** compare anonymized use, facility state, community feedback and operation observation. **SPACE × OPERATION RESPONSE:** hours, guidance, dispatch and public-space operation first; persistent cross-cycle issues may enter long-term adjustment. **DATA × GOVERNANCE:** anonymous aggregate use, facility/commercial state, feedback and observation. **LEARN:** industry × transit × commerce × community × public life transform continuously, not a nightlife district. [scenario:S08]
+
+### S09 | Multilingual Guidance and Innovation-Resource Discovery
+
+**WHEN × WHERE:** 20:30–23:30, Dazhongsi and Jingzhang innovation nodes. **WHO:** international researchers, developers, business partners, first-time visitors. **REAL SITUATION:** visitors need to understand place, route, access, and links between innovation and ordinary life. **AI ROLE:** language conversion, route support and matching to open resources. **SPACE × OPERATION RESPONSE:** work with JINGZHANG MARKER, node recognition, interfaces and public space. **DATA × GOVERNANCE:** voluntary input, public activity information and location-related service; no long-term visitor archive. **LEARN:** digital guidance cannot replace a physically legible city. [scenario:S09]
+
+### S10 | Daily Urban Learning and Micro-Renewal Prioritization
+
+**WHEN × WHERE:** 00:00, corridor-wide LEARNING. **WHO:** operators, public-service participants, governance roles, voluntary feedback contributors. **REAL SITUATION:** evidence from S01–S09 needs human review before response. **AI ROLE:** pattern recognition and comparison only. **SPACE × OPERATION RESPONSE:** human governance chooses ADJUST NOW, KEEP WATCHING, TEST AGAIN, or ESCALATE. **DATA × GOVERNANCE:** anonymized aggregates, environmental/facility state, voluntary feedback and operation observation; no automatic decision or comprehensive surveillance. **LEARN:** evidence returns to the next city-operating state. [scenario:S10] [drawing:D07]
+
+## 12.2 Drawing Index
+
+D01 is the overall framework; D02 N1 TEST; D03 N3 ORIGIN × FLOW; D04 COMMONS; D05 N7 INTEGRATE; D06 the continuous human day; D07 city learning; D08 the ten-scenario library. Real spatial evidence, design-mechanism drawings, and conceptual scenes answer respectively where, how, and how a person may experience; they do not substitute for one another. Conceptual scenes must be marked **CONCEPTUAL VISUALIZATION — Not geographic evidence**. [drawing:D01] [drawing:D06] [drawing:D07] [drawing:D08]
+
+## 12.3 Persona × Scenario × Space Mapping
+
+P01: FLOW/COMMONS/LEARNING, S02/S04/S07; P02: TEST/FLOW/INTEGRATE, S01/S03/S06/S08; P03: ORIGIN/FLOW/COMMONS, S04/S05; P04: COMMONS/LEARNING/corridor-wide, S04/S07/S08/S10; P05: ORIGIN/FLOW/INTEGRATE, S05/S09. S04 extends from Wudaokou to FLOW; S02 may move from TEST to repair; S10 returns all evidence to corridor-wide learning. The structure is **people × time × space × scenario in continuous intersection.** [drawing:D06] [drawing:D08]
+
+## 12.4 Evidence, Sources & Assumptions
+
+FACT is directly supported by official/public or verifiable material; FIELD EVIDENCE proves only observed conditions; INFERENCE is distinct design judgement; PROPOSAL is JINGZHANG 24H strategy; UNKNOWN / TO VERIFY is insufficient but implementation-relevant information. Statutory boundaries, ownership, FAR/intensity, height, demolition permissions, municipal capacity, underground conditions and some delivery bodies remain UNKNOWN / TO VERIFY. Key-area ranges and some geometry are **PROVISIONAL DESIGN REFERENCE**, never official redlines. What is proven is evidence; what is not proven is not fact; what needs confirmation is an implementation prerequisite. [source:SOURCE-REGISTRY] [assumption:A-CONTROLS-001] [data:risk_audit.json]
+
+## 12.5 Design Response & Compliance Index
+
+D01 responds to the spine plus three zones/two wings; D02/D03/D05 to key areas; FLOW to mobility/interfaces; COMMONS to blue-green/public-space use; S01–S10 to AI scenarios and S01–S03 to explicit validation; P01–P05 to real users; D06/D07 to 24-hour operation; FAST/SLOW and NOW → NEXT → LEARN & ADAPT to long-term operation; HUMAN FEEDBACK and DAILY REVIEW to learning; OPEN DAY to the annual mechanism; and LINE/CROSSING/STATION-NODE/MARKER/CONNECTION to cultural continuity. The compliance matrix and source index map official clauses; this section does not replace statutory review or approval. [drawing:D01] [drawing:D06] [drawing:D07]
+
+## 12.6 Design Depth, Metrics & Implementation
+
+Complete design response works alongside statutory-data limits: no unsupported new FAR; no reliance on new towers/landmarks; RETAIN FIRST; necessary sensing and lightweight plug-ins before major municipal expansion; proposed interventions only; NOW → NEXT → LEARN & ADAPT. SITE-001 provisional geometry supplies only a low-confidence submitted-geometry model area. Until final green/public-space polygons are established and verified, **green_ratio = UNKNOWN** and **public_space_ratio = UNKNOWN**. No scaffold ratio or unrecalculable improvement percentage is claimed. Final metrics require **geometry → formula → value → provenance**. Intervention follows **operation → facilities → micro-renewal → strategic adjustment** and “test first, then adapt.” [metric:site_area_sqm] [assumption:A-METRICS-001] [data:risk_audit.json]
+
 CONTENT TODO: The formal version must include machine-readable `[source:]`, `[standard:]`, `[depth:]`, `[data:]`, and `[metric:]` evidence references.
 
 ## Design Basis and Source List

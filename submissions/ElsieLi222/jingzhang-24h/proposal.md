@@ -289,7 +289,71 @@ JINGZHANG 24H不以单一“智能化程度”评价成功，而通过四个持�
 
 # PART 12｜设计证据与专业回应
 
-CONTENT TODO：正式版本应插入 `[source:]`、`[standard:]`、`[depth:]`、`[data:]`、`[metric:]` 机器可读证据引用。
+## 12.1 十个 AI Scenario Cards
+
+JINGZHANG 24H中的AI场景不是独立于城市设计之外的技术功能清单。每张卡片均回答 **WHEN × WHERE、WHO、REAL SITUATION、AI ROLE、SPACE × OPERATION RESPONSE、DATA × GOVERNANCE、LEARN**。S01—S03为产业测试与验证；S04—S09覆盖知识、交通、共享、产业融合与国际交流；S10将前九个场景重新接回整体学习循环。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D08]
+
+### S01｜移动机器人城市通行验证
+
+**WHEN × WHERE：**14:00｜众智园 TEST｜T2 Shared Interface → T3 Real City。**WHO：**AI产业从业者、设备运营人员、行人、骑行者及公共空间使用者。**REAL SITUATION：**机器人面对行人、骑行、路缘、铺装、临时障碍和环境变化，验证不是能否走完路线，而是能否不要求普通人让路而安全运行。**AI ROLE：**识别环境变化、判断通行条件、记录重复失败并比较时段表现。**SPACE × OPERATION RESPONSE：**先T2、后T3，仅提供必要安全提示、低干扰接口与可撤回运营措施，不建封闭机器人通道。**DATA × GOVERNANCE：**设备日志、环境状态、匿名通行信息；非人脸识别或长期追踪。**LEARN：**产品问题回到产品优化；重复空间问题进入设施或微更新讨论。[scenario:S01] [source:FROZEN-DESIGN-SPEC-V1]
+
+### S02｜无障碍导航验证与空间修复
+
+14:00｜众智园及京张沿线真实公共空间；参与者为有无障碍需求者、居民、运营人员和空间管理参与者。AI识别重复绕行、异常停顿与路径失败，而不以长期个人档案为前提。短期先提供替代路径和运营提示；持续台阶、断点、占用或设施失效从导航问题升级为空间问题，进入真实设施修复或微更新。学习路径为：**绕行 → 识别持续障碍 → 修复真实空间。**[scenario:S02] [source:FROZEN-DESIGN-SPEC-V1]
+
+### S03｜公共空间环境适应验证
+
+14:00｜众智园 TEST｜T2/T3。产品团队、使用者和运营人员比较光照、温度、雨雪、植物、噪声、人群及不同时段下的表现，区分产品问题与环境问题。测试时段、设备位置、临时设施和运营组织优先；只有持续且影响普通使用的问题才进入空间改造。数据限于环境感知、设备日志、匿名使用状态和运营观察。TEST同时评价：**产品是否适应城市；城市是否暴露需要改变的条件。**[scenario:S03] [source:FROZEN-DESIGN-SPEC-V1]
+
+### S04｜多模式道口冲突识别与分速调整
+
+09:00五道口及18:00持续FLOW。步行者、骑行者、轨道使用者、居民和运营参与者在高强度多模式接口中活动；方案不预设严重拥堵。AI从匿名汇总移动信息和运营观察中识别重复等待、速度差、绕行和潜在冲突；导向、分速、时段和运营组织优先，只有持续问题才进入设施优化或微更新。一次冲突不自动触发建设，重复模式才是长期调整证据。[scenario:S04] [source:FROZEN-DESIGN-SPEC-V1]
+
+### S05｜知识开放活动与城市空间匹配
+
+09:00｜五道口 ORIGIN｜高校—城市边界。高校研究者、学生创新团队、企业伙伴、公众和运营者围绕活动主题、开放时段、容量和参与者匹配。回应使用校园前场、城市接口、共享空间及适当时段，而非开放核心实验室；数据限于活动信息、空间容量和自愿偏好，不扩展为人员画像与长期追踪。城市持续判断哪些知识活动适合走出校园、何种接口能够支持开放。[scenario:S05] [source:FROZEN-DESIGN-SPEC-V1]
+
+### S06｜站城到达与自行车停放协同
+
+18:00｜京张FLOW｜轨道站点与沿线接口。AI识别匿名汇总到达量、停车使用与换乘需求变化，辅助调整自行车停放、导向和入口使用；持续容量或空间冲突才进入设施优化。FLOW不只评价是否到达站点，而评价：**到站以后，城市是否仍然连续。**[scenario:S06] [source:FROZEN-DESIGN-SPEC-V1]
+
+### S07｜一地多时共享空间匹配
+
+20:00｜京张沿线 COMMONS。家庭、朋友、运动者、骑行者、开放活动参与者与居民在不同时间需要不同组合。AI辅助空间使用模式、时段、活动和容量匹配；以开放边界、复用时间和轻量运营改变状态，不持续增加建筑和活动。数据为使用统计、设施状态、活动信息和主动反馈，也允许安静、维护、生态和无活动状态。关键不是24小时热闹，而是**合适时间由合适的人真实使用。**[scenario:S07] [source:FROZEN-DESIGN-SPEC-V1]
+
+### S08｜大钟寺日—晚—夜空间状态切换
+
+20:30–23:30及全天比较｜大钟寺 INTEGRATE。产业、通勤、居民、商业、朋友和运营者面对不断变化的需求。AI比较匿名汇总使用、设施状态、社区反馈与运营观察；开放时段、导向、设施调度和公共空间运营优先，跨周期持续问题才进入长期空间调整。INTEGRATE不是夜生活区，而让**产业 × 交通 × 商业 × 社区 × 公共生活**连续转换。[scenario:S08] [source:FROZEN-DESIGN-SPEC-V1]
+
+### S09｜国际访客跨语言导引与创新资源发现
+
+20:30–23:30｜大钟寺及京张沿线创新节点。国际研究者、开发者、商务伙伴和首次到访者需要理解位置、路径、可进入性及创新资源与普通生活的连接。AI提供跨语言转换、路径辅助和开放资源匹配，与JINGZHANG MARKER、站点识别、城市接口和公共空间共同工作；数据以访客主动输入、公开活动和位置相关服务为主，不建长期访客档案。**数字导引不能替代一座本身容易理解的城市。**[scenario:S09] [source:FROZEN-DESIGN-SPEC-V1]
+
+### S10｜日终城市学习与微更新优先级
+
+00:00｜全线 LEARNING。S10不属于单一节点：它将S01—S09产生的匿名汇总、环境/设施状态、自愿反馈和运营观察带入DAILY REVIEW。AI辅助识别模式和比较，人的治理体系决定 ADJUST NOW、KEEP WATCHING、TEST AGAIN 或 ESCALATE；不作自动决策或全面监控主张。[scenario:S10] [source:FROZEN-DESIGN-SPEC-V1] [drawing:D07]
+
+## 12.2 图纸索引
+
+JINGZHANG 24H图纸分为真实空间证据、设计机制图与概念场景图，分别回答“发生在哪里”“如何工作”“人如何体验”，互不替代。概念场景须标记 **CONCEPTUAL VISUALIZATION｜概念场景示意**，不作为地理事实、法定边界或现状证据。D01回应总体框架；D02 N1 TEST；D03 N3 ORIGIN × FLOW；D04 COMMONS；D05 N7 INTEGRATE；D06人的连续一天；D07城市学习；D08十个场景库。各图采用zh/en同构版本；无语言依赖的现场照片、底图和概念场景可共用并以双语图注说明。[drawing:D01] [drawing:D06] [drawing:D07] [drawing:D08]
+
+## 12.3 人 × 场景 × 空间映射
+
+P01主要关联 FLOW/COMMONS/LEARNING 与S02/S04/S07；P02关联 TEST/FLOW/INTEGRATE 与S01/S03/S06/S08；P03关联 ORIGIN/FLOW/COMMONS 与S04/S05；P04关联 COMMONS/LEARNING/全线与S04/S07/S08/S10；P05关联 ORIGIN/FLOW/INTEGRATE 与S05/S09。Scenario与空间并非一对一：S04从五道口延续至FLOW，S02可由TEST进入空间修复，S10将所有场景证据汇入全线学习。专业结构是：**人 × 时间 × 空间 × 场景持续交叉。**[source:FROZEN-DESIGN-SPEC-V1] [drawing:D06] [drawing:D08]
+
+## 12.4 证据、来源与假设
+
+关键主张采用统一分类：FACT为官方公开、任务文件或可核验基础资料直接支持的信息；FIELD EVIDENCE仅证明其实际观察到的状态；INFERENCE为与事实分开的设计判断；PROPOSAL为JINGZHANG 24H的策略；UNKNOWN / TO VERIFY为资料不足但影响实施的事项。法定边界、产权、FAR/开发强度、高度、拆改权限、市政容量、地下条件及部分实施主体仍为UNKNOWN / TO VERIFY。重点区范围与部分设计几何仅为 **PROVISIONAL DESIGN REFERENCE｜临时设计参考**，不是官方红线。能够证明的作为依据；不能证明的不写成事实；需要确认的转化为实施前提。[source:SOURCE-REGISTRY] [assumption:A-CONTROLS-001] [data:risk_audit.json]
+
+## 12.5 专业回应与合规索引
+
+正文、图纸、Scenario Cards与证据登记共同回应专业要求：D01回应百年京张轴＋三区两翼；D02/D03/D05回应三个重点片区；FLOW回应交通、慢行与接口；COMMONS回应蓝绿与公共空间使用；S01—S10回应AI产业场景，S01—S03为三项明确验证；P01—P05回应真实使用者；D06与D07回应24小时运行；FAST/SLOW及 NOW → NEXT → LEARN & ADAPT 回应长期运营；HUMAN FEEDBACK和DAILY REVIEW回应城市学习；Open Day回应年度事件；LINE/CROSSING/STATION-NODE/MARKER/CONNECTION回应文化连续性。合规矩阵与来源索引逐项对应官方条款，本节不替代法定核验或实施审批。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D06] [drawing:D07]
+
+## 12.6 设计深度、指标与实施边界
+
+完整设计回应与法定数据边界并行：开发强度不提出无依据的新增FAR；高度体量不依赖新增高层或地标；留改拆采用 RETAIN FIRST；市政与新基建优先必要感知和轻量插件；更新项目均为PROPOSAL；实施为 NOW → NEXT → LEARN & ADAPT。这说明方案在现有证据下做什么、不做什么，并不代表相关法定数据已获得。
+
+SITE-001 provisional geometry 可形成低置信度提交几何面积；在最终绿地与公共空间polygon建立并核验前，**green_ratio = UNKNOWN**、**public_space_ratio = UNKNOWN**。不使用 scaffold placeholder 比例，不提出不可复算提升百分比。最终指标须满足 **geometry → formula → value → provenance**。介入遵循 **运营 → 设施 → 微更新 → 战略调整**与“先试，再改”：能运营解决的不立即建设，能既有复用解决的不优先新增建筑，长期调整须基于持续使用证据与正式规划核验。[metric:site_area_sqm] [assumption:A-METRICS-001] [data:risk_audit.json]
 
 ## 设计依据与资料清单
 

@@ -1,6 +1,6 @@
 {
   "authority": "JINGZHANG 24H FROZEN DESIGN SPEC",
-  "status": "FROZEN CONTENT INGESTION MAP",
+  "status": "FROZEN CONTENT INGESTION MAP / V2 FORK CONTINUATION",
   "items": [
     {
       "baseline_item": "Project identity and two-24H narrative",
@@ -15,7 +15,7 @@
       ],
       "compliance": "identity / agent narrative",
       "design_depth": "overall_spatial_structure",
-      "needs": "CONTENT TODO: source/evidence tags"
+      "needs": "FROZEN CONTENT INGESTED: Parts 0, 2.1 and 9; D01 and D07 frozen. Source/evidence provenance remains to verify."
     },
     {
       "baseline_item": "Centennial spine + three districts + two wings",
@@ -27,7 +27,7 @@
       ],
       "compliance": "three scopes / three key districts",
       "design_depth": "three_level_scope_framework",
-      "needs": "DRAWING TODO / DATA TODO"
+      "needs": "FROZEN CONTENT INGESTED: D01 frozen. Statutory boundaries and geometry provenance remain DATA TODO / TO VERIFY."
     },
     {
       "baseline_item": "FLOW: one line, many entries, differentiated speeds; 引→缓→换→出",
@@ -41,7 +41,7 @@
       ],
       "compliance": "mobility / rail / slow travel",
       "design_depth": "traffic_rail_slow_parking",
-      "needs": "DRAWING TODO / DATA TODO"
+      "needs": "FROZEN CONTENT INGESTED: D03 frozen. Traffic, access, facility and implementation facts remain DATA TODO / TO VERIFY."
     },
     {
       "baseline_item": "COMMONS: SPACE × TIME × PEOPLE",
@@ -54,7 +54,7 @@
       ],
       "compliance": "public space / long-term operation",
       "design_depth": "blue_green_public_space",
-      "needs": "DRAWING TODO"
+      "needs": "FROZEN CONTENT INGESTED: D04 frozen. Spatial-use, blue-green and operating evidence remain DATA TODO / TO VERIFY."
     },
     {
       "baseline_item": "LEARNING: FAST/SLOW; BEFORE→LEARN→AFTER",
@@ -68,7 +68,7 @@
       ],
       "compliance": "AI governance / evaluation",
       "design_depth": "risk_missing_data",
-      "needs": "CONTENT TODO / DATA TODO"
+      "needs": "FROZEN CONTENT INGESTED: D07 frozen. Observable indicators and recalculable metric evidence remain DATA TODO."
     },
     {
       "baseline_item": "N1 TEST: T1→T2→T3; S01–S03",
@@ -80,7 +80,7 @@
       ],
       "compliance": "key-area detailed design / AI scenarios",
       "design_depth": "three_key_area_detailed_design",
-      "needs": "DRAWING TODO / DATA TODO"
+      "needs": "FROZEN CONTENT INGESTED: D02 frozen. Exact scope, access, implementation and real-world test evidence remain DATA TODO / TO VERIFY."
     },
     {
       "baseline_item": "N3 ORIGIN × FLOW / Knowledge Commons",
@@ -92,7 +92,7 @@
       ],
       "compliance": "key-area detailed design / culture",
       "design_depth": "three_key_area_detailed_design",
-      "needs": "DRAWING TODO / FIELD EVIDENCE TODO"
+      "needs": "FROZEN CONTENT INGESTED: D03 frozen. Base-map provenance, permissions, and factual site conditions remain TO VERIFY."
     },
     {
       "baseline_item": "N5 corridor-scale Commons system",
@@ -104,7 +104,7 @@
       ],
       "compliance": "public-space operation",
       "design_depth": "blue_green_public_space",
-      "needs": "DRAWING TODO"
+      "needs": "FROZEN CONTENT INGESTED: D04 frozen. Network-scale Commons spatial and operating evidence remains DATA TODO / TO VERIFY."
     },
     {
       "baseline_item": "N7 INTEGRATE and three continuities",
@@ -116,7 +116,7 @@
       ],
       "compliance": "key-area detailed design / renewal",
       "design_depth": "three_key_area_detailed_design",
-      "needs": "DRAWING TODO / DATA TODO"
+      "needs": "FROZEN CONTENT INGESTED: D05 frozen. Exact scope, access, implementation and operational evidence remain DATA TODO / TO VERIFY."
     },
     {
       "baseline_item": "Human 24H; Lin Lan; two commutes",
@@ -133,7 +133,7 @@
       ],
       "compliance": "user experience",
       "design_depth": "existing_conditions_diagnosis",
-      "needs": "PENDING STORYBOARD v1.0"
+      "needs": "FROZEN CONTENT INGESTED: D06 frozen and embedded once at Part 3; later sections use cross-references."
     },
     {
       "baseline_item": "P01–P05 personas and relationship layer",
@@ -145,7 +145,7 @@
       ],
       "compliance": "user groups",
       "design_depth": "risk_missing_data",
-      "needs": "CONTENT TODO: relationship network"
+      "needs": "FROZEN CONTENT INGESTED: P01–P05 are mapped in Parts 11–12. Relationship-layer details R01–R05 remain CONTENT TODO."
     },
     {
       "baseline_item": "S01–S10 scenario system",
@@ -158,7 +158,7 @@
       ],
       "compliance": "AI+ scenarios",
       "design_depth": "municipal_new_infrastructure",
-      "needs": "CONTENT TODO: full cards"
+      "needs": "FROZEN CONTENT INGESTED: S01–S10 cards and D08 frozen library are in Part 12. Implementation evidence remains TO VERIFY."
     },
     {
       "baseline_item": "Open Day; implementation; evidence governance",
@@ -172,7 +172,7 @@
       ],
       "compliance": "phasing / governance / risks",
       "design_depth": "phasing_implementation",
-      "needs": "CONTENT TODO / DATA TODO"
+      "needs": "FROZEN CONTENT INGESTED: Parts 10 and 12 establish the framework. Roles, approvals, operational data and implementation evidence remain TO VERIFY."
     },
     {
       "baseline_item": "JINGZHANG CULTURAL DNA",
@@ -192,7 +192,7 @@
       ],
       "compliance": "CULTURAL CONTINUITY CHECK",
       "design_depth": "overall_spatial_structure",
-      "needs": "YELLOW / CONTENT GAP: actual verified geographic and drawing evidence pending."
+      "needs": "FROZEN CONTENT INGESTED across Parts 1, 2, 4, 6, 7, 8 and 10; D01/D03/D06 frozen. YELLOW: verified historical, geographic and copyright/source evidence remains pending."
     }
   ]
 }

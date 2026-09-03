@@ -1,6 +1,6 @@
 {
   "authority": "JINGZHANG 24H FROZEN DESIGN SPEC",
-  "status": "FROZEN PERSONA REGISTRY / CONTENT TODO",
+  "status": "FROZEN PERSONA REGISTRY / PART 11–12 INGESTED",
   "note": "P01–P05 are frozen city-role personas. Family, friends, colleagues, partners and other contacts remain relationship-layer content, not additional personas.",
   "user_groups": [
     {
@@ -8,35 +8,35 @@
       "title_zh": "社区居民与家庭使用者",
       "title_en": "Community Residents and Family Users",
       "scope": "儿童、家庭、老人、具有无障碍需求的普通城市使用者",
-      "status": "CONTENT TODO"
+      "status": "FROZEN CONTENT INGESTED"
     },
     {
       "id": "P02",
       "title_zh": "AI产业从业者",
       "title_en": "AI Industry Practitioners",
       "scope": "主人公林岚及其同事属于此类",
-      "status": "CONTENT TODO"
+      "status": "FROZEN CONTENT INGESTED"
     },
     {
       "id": "P03",
       "title_zh": "高校科研与创新人才",
       "title_en": "University Research and Innovation Talent",
       "scope": "高校教师、研究人员、学生创新团队等",
-      "status": "CONTENT TODO"
+      "status": "FROZEN CONTENT INGESTED"
     },
     {
       "id": "P04",
       "title_zh": "城市运营与公共服务参与者",
       "title_en": "Urban Operations and Public-service Participants",
       "scope": "空间运营、公共服务、社区组织、活动运营；承接人工复核与执行",
-      "status": "CONTENT TODO"
+      "status": "FROZEN CONTENT INGESTED"
     },
     {
       "id": "P05",
       "title_zh": "国际访客与创新合作人群",
       "title_en": "International Visitors and Innovation Collaborators",
       "scope": "国际研究者、开发者、商务/创新合作访客、交流人员等",
-      "status": "CONTENT TODO"
+      "status": "FROZEN CONTENT INGESTED"
     }
   ],
   "relationships": [

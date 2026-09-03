@@ -3,7 +3,7 @@
   "sources": [
     {
       "id": "SITE-PACKAGE",
-      "path": "brief/site-package/",
+      "path": "repository-root reference (not archived in package): brief/site-package/",
       "source_type": "official_public",
       "usage": "Project brief, enums, allowed design space, ranges, and schemas.",
       "formal_mapping_status": "DATA TODO",
@@ -13,7 +13,7 @@
     },
     {
       "id": "SOURCE-REGISTRY",
-      "path": "data/source_registry.json",
+      "path": "repository-root reference (not archived in package): data/source_registry.json",
       "source_type": "repository_public_registry",
       "usage": "Public/cleared/provisional source usability registry; distinguishes formal-ready, background-only, provisional-only, and needs-review materials.",
       "formal_mapping_status": "DATA TODO",
@@ -23,7 +23,7 @@
     },
     {
       "id": "PROCESSED-FACT-PACK",
-      "path": "data/processed/agent_fact_pack.md",
+      "path": "repository-root reference (not archived in package): data/processed/agent_fact_pack.md",
       "source_type": "repository_processed_reference",
       "usage": "Agent-readable navigation layer for scopes, required tasks, source-use boundaries, and missing-data checklist; not a new authority source.",
       "formal_mapping_status": "DATA TODO",
@@ -33,7 +33,7 @@
     },
     {
       "id": "BOUNDARY-SOURCE",
-      "path": "brief/site-package/geometry/provisional_boundaries.geojson",
+      "path": "repository-root reference (not archived in package): brief/site-package/geometry/provisional_boundaries.geojson",
       "source_type": "agent_inferred_from_public_data",
       "usage": "Submitted site boundary geometry source (provisional).",
       "formal_mapping_status": "DATA TODO",
@@ -43,7 +43,7 @@
     },
     {
       "id": "KEY-AREA-SOURCE",
-      "path": "brief/site-package/geometry/provisional_boundaries.geojson",
+      "path": "repository-root reference (not archived in package): brief/site-package/geometry/provisional_boundaries.geojson",
       "source_type": "agent_inferred_from_public_data",
       "usage": "Three required detailed-design key area boundaries (provisional).",
       "formal_mapping_status": "DATA TODO",
@@ -63,7 +63,7 @@
     },
     {
       "id": "AGENT-TASKBOOK",
-      "path": "brief/site-package/agent_taskbook.json",
+      "path": "repository-root reference (not archived in package): brief/site-package/agent_taskbook.json",
       "source_type": "user_provided_cleared",
       "usage": "Agent-facing open-call principles, six required agent tasks, scenario/branding/operation requirements, and boundary clause.",
       "formal_mapping_status": "DATA TODO",
@@ -92,6 +92,27 @@
       "limitations": "PROVISIONAL DESIGN REFERENCE: geographic base and key-area relationships are design relationships, not official statutory boundaries or precise controls.",
       "evidence_category": "PROPOSAL",
       "claim_control": "Use for frozen framework, system, and relationship diagram only; never promote provisional ranges to legal boundaries or factual land-use classifications."
+    },
+    {
+      "id": "OPENSTREETMAP-BASEMAP",
+      "url": "https://www.openstreetmap.org/copyright",
+      "source_type": "open_map_data",
+      "usage": "Static base-map screenshots used as spatial reference in D02, D03, and D05 beneath JINGZHANG 24H proposal overlays.",
+      "formal_mapping_status": "PUBLIC ATTRIBUTION RECORDED",
+      "limitations": "OpenStreetMap data licensed under ODbL; attribution required. Spatial reference only, not statutory boundary, ownership, control, or implementation evidence.",
+      "evidence_category": "BASE MAP / SPATIAL REFERENCE",
+      "claim_control": "© OpenStreetMap contributors. Proposal overlays remain JINGZHANG 24H design proposal content."
+    },
+    {
+      "id": "D01-TEACHING-PPT-REFERENCE",
+      "source": "20260818 AI+绿色社区行动设计共创营_钱云.pptx",
+      "source_description": "Teaching / workshop presentation associated with Beijing Forestry University, titled ‘国家记忆与绿色生活——京张绿廊（北京西直门—北五环段）从梦想到现实’. The source file itself is not archived in this package.",
+      "source_type": "teaching_workshop_presentation",
+      "usage": "Geographic reference embedded in frozen D01 overall-framework master.",
+      "formal_mapping_status": "SOURCE IDENTIFIED",
+      "limitations": "The project’s direct source file is identified. The original figure author, original data source, reuse rights, copyright, license, and required attribution wording inside the PPT remain TO VERIFY.",
+      "evidence_category": "BASE MAP / SPATIAL REFERENCE",
+      "claim_control": "Spatial reference / provisional design reference only; not statutory boundary, ownership, planning-control, or implementation evidence."
     }
   ]
 }

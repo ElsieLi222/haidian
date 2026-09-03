@@ -118,7 +118,7 @@ The proposal does not indiscriminately open university core research space. Inst
 
 The railway crossing gains contemporary meaning: **Historical Crossing → Contemporary Urban Interface**. FLOW coordinates directions and speeds through LEAD → SLOW → SWITCH → RELEASE, while COMMONS lets selected institutional knowledge activities enter public urban life under appropriate spatial and temporal conditions. S04 identifies repeated multimodal conflict patterns from anonymized movement information; S05 supports matching between open activities, spaces, and participants. Openness, spatial use, and adjustment remain human responsibilities. Exact historical information and site relationships remain DATA TODO / TO VERIFY. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D03] [scenario:S04] [scenario:S05]
 
-**[FIGURE D03｜N3 ORIGIN × FLOW｜DRAWING TODO]**
+![FIGURE D03｜N3 ORIGIN × FLOW｜Wudaokou Contemporary Urban Interface](assets/figures/D03-wudaokou-origin-flow.en.png)
 
 See D06 — Human 24H Storyboard (09:00 Knowledge Flows).
 
@@ -134,7 +134,7 @@ TEST follows **T1 CONTROLLED → T2 SHARED → T3 URBAN**. T1 supports controlle
 
 This node hosts S01 mobile-robot urban passage, S02 accessible navigation and spatial repair, and S03 public-space environmental adaptation. In S02, AI may first help users route around an obstacle. If it persists, it becomes a spatial problem requiring repair. Products are tested by the city, while the city learns from the test. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D02] [scenario:S01] [scenario:S02] [scenario:S03]
 
-**[FIGURE D02｜N1 TEST｜Controlled → Shared → Urban｜DRAWING TODO]**
+![FIGURE D02｜N1 TEST｜Controlled → Shared → Urban](assets/figures/D02-test-zhongzhiyuan.en.png)
 
 See D06 — Human 24H Storyboard (14:00 Innovation Meets the Real City).
 
@@ -164,7 +164,9 @@ COMMONS works through **open edges · reuse time · mix functions**. Through **S
 
 Lin Lan and her friend intend only a brief meeting, but much longer passes. The space requires no event participation and does not announce an “innovation city”; she simply chooses to stay. This is COMMONS’s essential outcome. S07 supports SPACE × TIME × PEOPLE matching. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D04] [drawing:D06] [scenario:S07]
 
-**[FIGURE D04｜JINGZHANG COMMONS NETWORK｜DRAWING TODO]**
+![FIGURE D04｜JINGZHANG COMMONS NETWORK](assets/figures/D04-commons.en.png)
+
+*The conceptual scene illustrates a sharing state only; it is not evidence of geographic location, boundary, or ownership.*
 
 See D06 — Human 24H Storyboard (20:00 The City Becomes Common).
 
@@ -182,7 +184,9 @@ By day the area supports work and industry; in the evening transport, commerce, 
 
 At 23:30 Lin Lan’s day ends, without an abrupt boundary between work and life. At 00:00 the narrative passes to the city. Exact space, cultural layering, and geographic relations remain subject to real evidence and TO VERIFY. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D05] [drawing:D06] [scenario:S08] [scenario:S09]
 
-**[FIGURE D05｜N7 INTEGRATE｜Continuous Dazhongsi Urban Centre｜DRAWING TODO]**
+![Figure D05 | N7 INTEGRATE | Continuous Dazhongsi Urban Centre](assets/figures/D05-dazhongsi-integrate.en.png)
+
+![CONCEPTUAL VISUALIZATION — Not geographic evidence: Dazhongsi evening urban life](assets/scenes/integrate-evening.png)
 
 See D06 — Human 24H Storyboard (20:30–23:30 Innovation Becomes Urban Life).
 
@@ -271,7 +275,7 @@ JINGZHANG 24H does not measure success through one “smartness” score. It con
 
 See D07 in Part 9 — Urban Learning System (including the YEAR LOOP).
 
-**[FIGURE D04｜COMMONS Time Sharing｜DRAWING TODO]**
+See D04 in Part 7 — JINGZHANG COMMONS NETWORK (including the shared operating matrix and one place across different times).
 
 # PART 11 | ONE DAY, MANY PEOPLE
 
@@ -290,6 +294,8 @@ See the relationship-person index at the bottom of D06 — Human 24H Storyboard;
 ## 12.1 10 AI Scenario Cards
 
 AI scenarios are not a technology-function list separate from urban design. Every card records **WHEN × WHERE; WHO; REAL SITUATION; AI ROLE; SPACE × OPERATION RESPONSE; DATA × GOVERNANCE; LEARN**. S01–S03 are industry test/validation; S04–S09 cover knowledge, mobility, sharing, integration, and international exchange; S10 returns the first nine scenarios to the city-learning loop. [source:FROZEN-DESIGN-SPEC-V1] [drawing:D08]
+
+![Figure D08 | 10 AI Scenarios Across 24 Hours](assets/figures/D08-ai-scenario-library.en.png)
 
 ### S01 | Mobile Robot Urban Passage Validation
 
@@ -335,17 +341,63 @@ AI scenarios are not a technology-function list separate from urban design. Ever
 
 D01 is the overall framework; D02 N1 TEST; D03 N3 ORIGIN × FLOW; D04 COMMONS; D05 N7 INTEGRATE; D06 the continuous human day; D07 city learning; D08 the ten-scenario library. Real spatial evidence, design-mechanism drawings, and conceptual scenes answer respectively where, how, and how a person may experience; they do not substitute for one another. Conceptual scenes must be marked **CONCEPTUAL VISUALIZATION — Not geographic evidence**. [drawing:D01] [drawing:D06] [drawing:D07] [drawing:D08]
 
+| ID | Drawing | Primary response | Proposal location |
+|---|---|---|---|
+| D01 | JINGZHANG 24H Overall Framework | Centennial Jingzhang Spine, three zones and two wings, three systems, overall spatial relationships | Part 2 |
+| D02 | N1 TEST — Zhongzhiyuan | T1 Controlled → T2 Shared → T3 Urban; three industry validations | Part 5 |
+| D03 | N3 ORIGIN × FLOW — Wudaokou | Historical crossing → contemporary urban interface; lead–slow–switch–release; knowledge beyond campus | Part 4 |
+| D04 | JINGZHANG COMMONS NETWORK | SPACE × TIME × PEOPLE, time sharing, edge sharing | Part 7 / 10 |
+| D05 | N7 INTEGRATE — Dazhongsi | Continuity among industry, transit, commerce, community and public space | Part 8 |
+| D06 | Human 24H Storyboard | One person’s continuous day and relationship network, 07:30–23:30 | Part 3–8 / 11 |
+| D07 | LEARNING — Urban Learning System | DAILY REVIEW, FAST/SLOW, learning cases, annual loop | Part 9 / 10 |
+| D08 | 10 AI Scenario Library | 24H distribution of S01–S10, industry validation and governance boundaries | Part 12 |
+
 ## 12.3 Persona × Scenario × Space Mapping
 
 P01: FLOW/COMMONS/LEARNING, S02/S04/S07; P02: TEST/FLOW/INTEGRATE, S01/S03/S06/S08; P03: ORIGIN/FLOW/COMMONS, S04/S05; P04: COMMONS/LEARNING/corridor-wide, S04/S07/S08/S10; P05: ORIGIN/FLOW/INTEGRATE, S05/S09. S04 extends from Wudaokou to FLOW; S02 may move from TEST to repair; S10 returns all evidence to corridor-wide learning. The structure is **people × time × space × scenario in continuous intersection.** [drawing:D06] [drawing:D08]
+
+| Persona | Primary space/system | Priority scenarios |
+|---|---|---|
+| P01 Community Residents and Family Users | FLOW / COMMONS / LEARNING | S02 / S04 / S07 |
+| P02 AI Industry Professionals | TEST / FLOW / INTEGRATE | S01 / S03 / S06 / S08 |
+| P03 University Research and Innovation Talent | ORIGIN / FLOW / COMMONS | S04 / S05 |
+| P04 Urban Operations and Public-Service Participants | COMMONS / LEARNING / corridor-wide | S04 / S07 / S08 / S10 |
+| P05 International Visitors and Innovation Partners | ORIGIN / FLOW / INTEGRATE | S05 / S09 |
 
 ## 12.4 Evidence, Sources & Assumptions
 
 FACT is directly supported by official/public or verifiable material; FIELD EVIDENCE proves only observed conditions; INFERENCE is distinct design judgement; PROPOSAL is JINGZHANG 24H strategy; UNKNOWN / TO VERIFY is insufficient but implementation-relevant information. Statutory boundaries, ownership, FAR/intensity, height, demolition permissions, municipal capacity, underground conditions and some delivery bodies remain UNKNOWN / TO VERIFY. Key-area ranges and some geometry are **PROVISIONAL DESIGN REFERENCE**, never official redlines. What is proven is evidence; what is not proven is not fact; what needs confirmation is an implementation prerequisite. [source:SOURCE-REGISTRY] [assumption:A-CONTROLS-001] [data:risk_audit.json]
 
+| Evidence class | Meaning |
+|---|---|
+| FACT | Information directly supported by official/public, task, or verifiable base material |
+| FIELD EVIDENCE | Proves only actually observed spatial conditions |
+| INFERENCE | Design judgement explicitly distinct from fact |
+| PROPOSAL | Spatial, operational, testing, or governance strategy proposed by JINGZHANG 24H |
+| UNKNOWN / TO VERIFY | Information insufficient and potentially affecting implementation |
+| PROVISIONAL DESIGN REFERENCE | Provisional design reference, not an official redline |
+
 ## 12.5 Design Response & Compliance Index
 
 D01 responds to the spine plus three zones/two wings; D02/D03/D05 to key areas; FLOW to mobility/interfaces; COMMONS to blue-green/public-space use; S01–S10 to AI scenarios and S01–S03 to explicit validation; P01–P05 to real users; D06/D07 to 24-hour operation; FAST/SLOW and NOW → NEXT → LEARN & ADAPT to long-term operation; HUMAN FEEDBACK and DAILY REVIEW to learning; OPEN DAY to the annual mechanism; and LINE/CROSSING/STATION-NODE/MARKER/CONNECTION to cultural continuity. The compliance matrix and source index map official clauses; this section does not replace statutory review or approval. [drawing:D01] [drawing:D06] [drawing:D07]
+
+| Main requirement | Proposal response |
+|---|---|
+| Overall urban spatial framework | Centennial Jingzhang Spine + three zones and two wings; D01 |
+| Three key areas | N1 TEST / N3 ORIGIN × FLOW / N7 INTEGRATE; D02 / D03 / D05 |
+| Transport, slow mobility and urban interfaces | FLOW — one line, multiple interfaces, differentiated speeds; Part 4 / 6 |
+| Blue-green and public space | Existing Jingzhang public space/blue-green relationship + COMMONS operation; D04 |
+| AI industry scenarios | S01–S10, ten scenarios |
+| Industry test validation | S01 / S02 / S03, three explicit validation scenarios |
+| Real urban users | Five personas, P01–P05 |
+| 24-hour urban operation | D06 human day + D07 city day |
+| Long-term operation and governance | FAST / SLOW; NOW → NEXT → LEARN & ADAPT |
+| Public feedback and city learning | HUMAN FEEDBACK + DAILY REVIEW |
+| Annual event mechanism | JINGZHANG 24H OPEN DAY |
+| Jingzhang cultural continuity | LINE / CROSSING / STATION-NODE / MARKER / CONNECTION |
+| International exchange | P05 + S09 + INTEGRATE |
+| Data and privacy governance | Necessary sensing, not comprehensive surveillance; anonymous aggregates, voluntary feedback, human decision |
+| Bilingual communication | Chinese primary + English semantic mirror; zh/en isomorphic text drawings |
 
 ## 12.6 Design Depth, Metrics & Implementation
 

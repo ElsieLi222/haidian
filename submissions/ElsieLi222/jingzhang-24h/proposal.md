@@ -120,7 +120,7 @@ JINGZHANG 24H不提出将高校核心科研空间全面向城市开放。真正�
 
 京张历史中的“道口”也在这里获得新的意义：**历史道口 → 当代城市接口**。FLOW通过“引—缓—换—出”的连续空间过程协调不同方向与速度；COMMONS则让原本封闭在机构内部的一部分知识活动在适当的边界与时间条件下进入公共城市。AI仅作为辅助：S04识别匿名化、多模式移动中的重复冲突特征，为运营调整提供依据；S05帮助开放活动、空间和参与者之间进行匹配。真正的开放尺度、空间使用和调整决定仍由人完成。具体历史信息和场地关系为 DATA TODO / TO VERIFY。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D03] [scenario:S04] [scenario:S05]
 
-**[图 D03｜N3 ORIGIN × FLOW｜五道口当代城市接口｜图纸待补]**
+![图 D03｜N3 ORIGIN × FLOW｜五道口当代城市接口](assets/figures/D03-wudaokou-origin-flow.zh.png)
 
 参见图 D06｜人的24小时叙事板（09:00 知识流动）。
 
@@ -136,7 +136,7 @@ JINGZHANG 24H不提出将高校核心科研空间全面向城市开放。真正�
 
 林岚看到普通使用者照常经过时，反而松了一口气。真正有价值的结果不是“大家都看见了测试”，而是技术能够在不打断日常生活的情况下被验证。这一节点集中承载S01｜移动机器人城市通行验证、S02｜无障碍导航验证与空间修复、S03｜公共空间环境适应验证。尤其在S02中，AI可以先帮助使用者绕开障碍；但如果同一障碍持续被识别，问题就不再只是导航问题，而应进入真实空间修复。产品接受城市测试，城市也从测试中发现自己。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D02] [scenario:S01] [scenario:S02] [scenario:S03]
 
-**[图 D02｜N1 TEST｜受控 → 共享 → 真实城市｜图纸待补]**
+![图 D02｜N1 TEST｜受控 → 共享 → 真实城市](assets/figures/D02-test-zhongzhiyuan.zh.png)
 
 参见图 D06｜人的24小时叙事板（14:00 创新进入真实城市）。
 
@@ -166,7 +166,9 @@ COMMONS通过三个基本动作展开：**打开边界 · 复用时间 · 混合
 
 林岚和朋友原本只打算短暂见面，但当她再次看时间时，已经过去了很久。空间没有要求她参加某个活动，也没有提醒她正在体验“创新城市”；她只是愿意多待一会儿。这正是COMMONS最重要的结果。S07提供SPACE × TIME × PEOPLE共享空间匹配。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D04] [drawing:D06] [scenario:S07]
 
-**[图 D04｜京张COMMONS网络｜图纸待补]**
+![图 D04｜京张COMMONS网络](assets/figures/D04-commons.zh.png)
+
+*概念场景示意仅说明共享状态，不作为地理位置、边界或权属依据。*
 
 参见图 D06｜人的24小时叙事板（20:00 城市被共享）。
 
@@ -184,7 +186,9 @@ COMMONS通过三个基本动作展开：**打开边界 · 复用时间 · 混合
 
 23:30，林岚的一天结束。她没有感觉自己从“上班的地方”突然进入了另一个“生活区”；上班与生活之间，没有突然的断点。她离开之后，当天的城市没有结束；00:00，人的叙事交给城市自身。具体空间、文化叠加及地理关系仍以真实资料为准，保持 TO VERIFY。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D05] [drawing:D06] [scenario:S08] [scenario:S09]
 
-**[图 D05｜N7 INTEGRATE｜大钟寺连续城市中心｜图纸待补]**
+![图 D05｜N7 INTEGRATE｜大钟寺连续城市中心](assets/figures/D05-dazhongsi-integrate.zh.png)
+
+![概念场景示意｜非地理事实依据：大钟寺夜间城市生活](assets/scenes/integrate-evening.png)
 
 参见图 D06｜人的24小时叙事板（20:30–23:30 创新融入城市生活）。
 
@@ -273,7 +277,7 @@ JINGZHANG 24H不以单一“智能化程度”评价成功，而通过四个持�
 
 参见 Part 9 图 D07｜LEARNING 城市学习系统（含 YEAR LOOP）。
 
-**[图 D04｜COMMONS时间共享｜图纸待补]**
+参见 Part 7 图 D04｜京张COMMONS网络（含共享运行矩阵与一地多时）。
 
 # PART 11｜一天，不止一个人
 
@@ -292,6 +296,8 @@ JINGZHANG 24H不以单一“智能化程度”评价成功，而通过四个持�
 ## 12.1 十个 AI Scenario Cards
 
 JINGZHANG 24H中的AI场景不是独立于城市设计之外的技术功能清单。每张卡片均回答 **WHEN × WHERE、WHO、REAL SITUATION、AI ROLE、SPACE × OPERATION RESPONSE、DATA × GOVERNANCE、LEARN**。S01—S03为产业测试与验证；S04—S09覆盖知识、交通、共享、产业融合与国际交流；S10将前九个场景重新接回整体学习循环。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D08]
+
+![图 D08｜10个AI真实城市场景](assets/figures/D08-ai-scenario-library.zh.png)
 
 ### S01｜移动机器人城市通行验证
 
@@ -337,17 +343,63 @@ JINGZHANG 24H中的AI场景不是独立于城市设计之外的技术功能清�
 
 JINGZHANG 24H图纸分为真实空间证据、设计机制图与概念场景图，分别回答“发生在哪里”“如何工作”“人如何体验”，互不替代。概念场景须标记 **CONCEPTUAL VISUALIZATION｜概念场景示意**，不作为地理事实、法定边界或现状证据。D01回应总体框架；D02 N1 TEST；D03 N3 ORIGIN × FLOW；D04 COMMONS；D05 N7 INTEGRATE；D06人的连续一天；D07城市学习；D08十个场景库。各图采用zh/en同构版本；无语言依赖的现场照片、底图和概念场景可共用并以双语图注说明。[drawing:D01] [drawing:D06] [drawing:D07] [drawing:D08]
 
+| ID | 图纸 | 主要回应 | Proposal位置 |
+|---|---|---|---|
+| D01 | 京张24H总体框架 | 百年京张轴、三区两翼、三系统、总体空间关系 | Part 2 |
+| D02 | N1 TEST｜众智园 | T1 Controlled → T2 Shared → T3 Urban、三项产业验证 | Part 5 |
+| D03 | N3 ORIGIN × FLOW｜五道口 | 历史道口→当代城市接口、引—缓—换—出、知识走出校园 | Part 4 |
+| D04 | JINGZHANG COMMONS NETWORK | SPACE × TIME × PEOPLE、时间共享、边界共享 | Part 7 / 10 |
+| D05 | N7 INTEGRATE｜大钟寺 | 产业、交通、商业、社区和公共空间连续关系 | Part 8 |
+| D06 | Human 24H Storyboard | 07:30–23:30一个人的连续一天及关系网络 | Part 3–8 / 11 |
+| D07 | LEARNING｜城市学习系统 | DAILY REVIEW、FAST/SLOW、学习案例、年度循环 | Part 9 / 10 |
+| D08 | 10 AI Scenario Library | S01–S10的24H分布、产业验证与治理边界 | Part 12 |
+
 ## 12.3 人 × 场景 × 空间映射
 
 P01主要关联 FLOW/COMMONS/LEARNING 与S02/S04/S07；P02关联 TEST/FLOW/INTEGRATE 与S01/S03/S06/S08；P03关联 ORIGIN/FLOW/COMMONS 与S04/S05；P04关联 COMMONS/LEARNING/全线与S04/S07/S08/S10；P05关联 ORIGIN/FLOW/INTEGRATE 与S05/S09。Scenario与空间并非一对一：S04从五道口延续至FLOW，S02可由TEST进入空间修复，S10将所有场景证据汇入全线学习。专业结构是：**人 × 时间 × 空间 × 场景持续交叉。**[source:FROZEN-DESIGN-SPEC-V1] [drawing:D06] [drawing:D08]
+
+| Persona | 主要空间/系统 | 重点Scenario |
+|---|---|---|
+| P01 社区居民与家庭使用者 | FLOW / COMMONS / LEARNING | S02 / S04 / S07 |
+| P02 AI产业从业者 | TEST / FLOW / INTEGRATE | S01 / S03 / S06 / S08 |
+| P03 高校科研与创新人才 | ORIGIN / FLOW / COMMONS | S04 / S05 |
+| P04 城市运营与公共服务参与者 | COMMONS / LEARNING / 全线 | S04 / S07 / S08 / S10 |
+| P05 国际访客与创新合作人群 | ORIGIN / FLOW / INTEGRATE | S05 / S09 |
 
 ## 12.4 证据、来源与假设
 
 关键主张采用统一分类：FACT为官方公开、任务文件或可核验基础资料直接支持的信息；FIELD EVIDENCE仅证明其实际观察到的状态；INFERENCE为与事实分开的设计判断；PROPOSAL为JINGZHANG 24H的策略；UNKNOWN / TO VERIFY为资料不足但影响实施的事项。法定边界、产权、FAR/开发强度、高度、拆改权限、市政容量、地下条件及部分实施主体仍为UNKNOWN / TO VERIFY。重点区范围与部分设计几何仅为 **PROVISIONAL DESIGN REFERENCE｜临时设计参考**，不是官方红线。能够证明的作为依据；不能证明的不写成事实；需要确认的转化为实施前提。[source:SOURCE-REGISTRY] [assumption:A-CONTROLS-001] [data:risk_audit.json]
 
+| 证据等级 | 含义 |
+|---|---|
+| FACT | 官方公开、任务文件或可核验基础资料直接支持的信息 |
+| FIELD EVIDENCE | 仅证明实际观察到的空间状态 |
+| INFERENCE | 与事实明确区分的设计判断 |
+| PROPOSAL | JINGZHANG 24H提出的空间、运营、测试或治理策略 |
+| UNKNOWN / TO VERIFY | 资料不足且可能影响实施的事项 |
+| PROVISIONAL DESIGN REFERENCE | 临时设计参考，非官方红线 |
+
 ## 12.5 专业回应与合规索引
 
 正文、图纸、Scenario Cards与证据登记共同回应专业要求：D01回应百年京张轴＋三区两翼；D02/D03/D05回应三个重点片区；FLOW回应交通、慢行与接口；COMMONS回应蓝绿与公共空间使用；S01—S10回应AI产业场景，S01—S03为三项明确验证；P01—P05回应真实使用者；D06与D07回应24小时运行；FAST/SLOW及 NOW → NEXT → LEARN & ADAPT 回应长期运营；HUMAN FEEDBACK和DAILY REVIEW回应城市学习；Open Day回应年度事件；LINE/CROSSING/STATION-NODE/MARKER/CONNECTION回应文化连续性。合规矩阵与来源索引逐项对应官方条款，本节不替代法定核验或实施审批。[source:FROZEN-DESIGN-SPEC-V1] [drawing:D01] [drawing:D06] [drawing:D07]
+
+| 主要要求 | 本方案回应 |
+|---|---|
+| 整体城市空间框架 | 百年京张轴 + 三区两翼；D01 |
+| 三个重点片区 | N1 TEST / N3 ORIGIN × FLOW / N7 INTEGRATE；D02 / D03 / D05 |
+| 交通、慢行与城市接口 | FLOW｜一线·多口·分速；Part 4 / 6 |
+| 蓝绿与公共空间 | 既有京张公共空间与蓝绿关系 + COMMONS共享运营；D04 |
+| AI产业场景 | S01–S10，共10个Scenario |
+| 产业测试验证 | S01 / S02 / S03，共3项明确验证场景 |
+| 真实城市使用者 | P01–P05五类Persona |
+| 24小时城市运行 | D06人的一天 + D07城市的一天 |
+| 长期运营与治理 | FAST / SLOW、NOW → NEXT → LEARN & ADAPT |
+| 公众反馈和城市学习 | HUMAN FEEDBACK + DAILY REVIEW |
+| 年度事件机制 | JINGZHANG 24H OPEN DAY |
+| 京张历史文化连续性 | LINE / CROSSING / STATION-NODE / MARKER / CONNECTION |
+| 国际交流 | P05 + S09 + INTEGRATE |
+| 数据与隐私治理 | 必要感知而非全面监控；匿名汇总、自愿反馈、人工决策 |
+| 双语传播 | 中文主版本 + 英文语义镜像；文字图纸采用zh/en同构版本 |
 
 ## 12.6 设计深度、指标与实施边界
 

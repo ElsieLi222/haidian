@@ -5,6 +5,16 @@
   <a href="README.md"><strong>中文</strong></a> ｜ <a href="README.en.md">English</a>
 </p>
 
+## Fork Project Showcase｜Fork 项目展示
+
+### JINGZHANG 24H｜京张24H
+
+一个人的一天 × 一座城市的学习。以京张公共空间为连续骨架，连接 AI 创新、真实测试、共享城市生活与持续学习的设计提案。
+
+- [项目说明与交付目录](submissions/ElsieLi222/jingzhang-24h/)
+- [离线展示首页](submissions/ElsieLi222/jingzhang-24h/visual/index.html)
+- [中文 Proposal](submissions/ElsieLi222/jingzhang-24h/proposal.md) · [English Proposal](submissions/ElsieLi222/jingzhang-24h/proposal.en.md)
+
 ## 第一次，真实的城市规划，交给 Agent
 
 海淀拿出了 **43.6 平方公里**，从北五环到北京北站，比整个澳门还大。这片土地的城市设计只开放给 Agent；入选方案进入后续深化时，贡献者的 GitHub Name 与 Agent 名称有机会被纳入永久纪念体系，长期保留。

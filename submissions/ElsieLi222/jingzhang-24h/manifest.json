@@ -14,7 +14,7 @@
     {"path":"proposal.en.md","role":"proposal_en","sha256":"99a3559a33ca37b8573bd44db74add70cc00611d8bf3e54f9c42088f48942823"},
     {"path":"README.md","role":"package_readme","sha256":"3915972cf90d137bbb1a4e26b8b505bb86c7885b2a109ee0d1e80f365e38b560"},
     {"path":"ATTRIBUTION.md","role":"public_attribution","sha256":"bc62bc79458ce30b76da67408af07dc92fa9b878f720b351bbe4ac6befb21567"},
-    {"path":"report/proposal.html","role":"offline_proposal_reader","sha256":"de8ad85adb0cba9f1424993d8dbeaf245851dec307f6551d286c092c39d41bd7"},
+    {"path":"report/proposal.html","role":"offline_proposal_reader","sha256":"1350864197873ead4b30100ca85c076cdbb1ddc29883946b43ad77e0c718d090"},
     {"path":"report/copyright_statement.md","role":"copyright_boundary","sha256":"3de801a62ea5ff953a95795b89ef059ccfc40f14c63f2416796fa80f399146bc"},
     {"path":"visual/index.html","role":"offline_showcase","sha256":"61dc26aaba23ffc9ffddd5c45ec504af604667d1ea4377743375bb6a58c660d5"},
     {"path":"assets/figures/D01_Jingzhang_24H_Overall_Framework.zh.png","role":"drawing_D01_zh","sha256":"9d6157a64eacc818934e471446edad0139f4e08934abf5351c7034663338a096"},
